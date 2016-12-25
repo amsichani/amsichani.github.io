@@ -1,6 +1,6 @@
 ---
 layout: directory
-title: About the Programming Historian
+title: Anna-Maria Sichani
 redirect_from: /about.html
 ---
 <figure>
