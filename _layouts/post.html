@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+	{% include header.html %}
+
+<body>
+
+  <header role="banner">
+    <h1><a href="{{ site.url }}">Anna-Maria Sichani</a></h1>
+
+	{% include menu.html %}
+
+  </header>
+
+  <div role="main">
+      <article>
+	     <header>
+			<p class="kicker">{{ page.date | date: "%B %-d, %Y" }}</p>
+			<h1>{{ page.title }}</h1>
+            <p class="byline">By
+            {% assign authorCount = page.authors | size %}
+				{% if authorCount == 1 %}
+				      {{ page.authors | first }}
+                {% else %}
+                      {% for author in page.authors %}
+                           {% if forloop.first %}
+                                 {{ author }}
+                           {% elsif forloop.last %}
+                                 and {{ author }}
+                           {% else %}
+						         , {{ author }}
+                           {% endif %}
+                      {% endfor %}
+                {% endif %}
+				</p>
+		 <header>
+
+      {{ content }}
+
+	 
+
+    {% include footer.html %}
+
+</body>
+</html>
