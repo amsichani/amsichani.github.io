@@ -1,0 +1,10 @@
+name: Anna-Maria Sichani
+description: Modern Greek Literary Studies | Digital Humanities | Electronic publishing & communication 
+url: http://amsichani.github.io
+permalink: :categories/:title
+exclude: [deprecated, vendor, Gemfile, Procfile]
+safe: true
+highlighter: rouge
+markdown: kramdown
+gems:
+  - jekyll-redirect-from
