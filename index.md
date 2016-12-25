@@ -1,5 +1,5 @@
 ---
-layout: directory
+layout: default
 title: Anna-Maria Sichani
 redirect_from: /about.html
 ---
