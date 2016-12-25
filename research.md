@@ -1,9 +1,9 @@
-
 ---
 layout: default
 title: Anna-Maria Sichani
 redirect_from: /about.html
 ---
+
 # Media(l) changes and literary culture
 
 My PhD research focuses on how changes on textual mediality and communication technologies informed editorial practices and literary activities in the Modern Greek literary field during the Sixties. I am trying to enrich traditional cultural materialism approaches of literary history with medium awareness and to critically problematize traditional concepts of the ‘text’, the ‘archive’ and the ‘edition’ outside the print culture. To this end, the Sixties stands as an emblematic moment in modern society and culture as a period marked by seismic changes in media ecologies, social norms and communicative and cultural practices. By choosing as case study the Greek literary field during the Sixties, I am exploring the ways in which the radio, the discography, the visual culture, the technical advancements in photocopy technology and microfilms inform and radicalise the literary activity and textual scholarship.
