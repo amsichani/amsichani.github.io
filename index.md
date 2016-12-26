@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Anna-Maria Sichani
-redirect_from: /about.html
 ---
 <figure>
 	<img src="{{site.url}}/images/anna-maria 11.jpg" width="290px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
