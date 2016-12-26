@@ -1,7 +1,7 @@
 
 ---
 layout: default
-title: Portfolio
+title: Blog
 
 ---
 ## this is my blog 
