@@ -327,8 +327,8 @@ table tfoot {
     text-decoration:none;
   }
 
-  h1 a:link { color: #38c; }
-  h1 a:visited {color: #39a; }
+  h1 a:link { color: #800080; }
+  h1 a:visited {color: #800080; }
 
   h3 {
     font-size:0.75em;
