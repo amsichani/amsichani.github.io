@@ -52,7 +52,7 @@
   margin-right: auto;
   width: 100%;
   color: #222;
-  font-size: 0.9em;
+  font-size: 0.4em;
   }
 
 .github a {text-decoration: none;}
@@ -312,13 +312,13 @@ table tfoot {
   a:active {color: #555;}
 
   h1,h2,h3 {
-    font-family:'Crete Round', serif;
+    font-family:'Lato', Verdana, sans-serif;
     text-align:center;
     font-weight:normal;
   }
 
   h1 {
-    font-size: 2em;
+    font-size: 1em;
   }
 
   h1 a,
@@ -331,7 +331,7 @@ table tfoot {
   h1 a:visited {color: #39a; }
 
   h3 {
-    font-size:1.25em;
+    font-size:0.75em;
   }
 
   h4,h5 {
