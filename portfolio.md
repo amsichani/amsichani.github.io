@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Anna-Maria Sichani
+title: Portfolio
 ---
 ## DIGITAL NEOHELLENIST / ΨΗΦΙΑΚΌΣ ΝΕΟΕΛΛΗΝΙΣΤΉΣ
 
