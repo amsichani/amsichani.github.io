@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Anna-Maria Sichani
-redirect_from: /about.html
+redirect_from: 
 ---
 
 # Media(l) changes and literary culture
@@ -11,7 +11,7 @@ My PhD research focuses on how changes on textual mediality and communication te
 By bringing together literary history, media and cultural studies with my digital humanities background and awareness towards communication technologies, publishing and distribution media, I am willing to further historicize the ways that changing materialities of the literary activity and textual scholarship. The advent and use of new – mechanical, electrical and, recently, digital – environments and tools in writing, editing, reading, publishing, discussing literary texts are not a mere evolutionary phenomenon but rather, I argue, challenge and enrich the concept of “change” in literary history beyond aesthetics, thematic, style, genre and generation questions.
 
 
-#Knowledge and (open) data in the making
+# Knowledge and (open) data in the making
 
 My research interest in shifts and transitions expands from the actual object of my primary research (literary culture) to the modes and methods of research and knowledge production itself. Thus, my cross- and interdisciplinary interest and expertise ranges widely, but centres on the changing materialities of literature, knowledge and information making, especially in the digital era, and their related practices and economics. Through my everyday digital humanities academic practice I am experimenting with hands-on-practice and critical reflection on the very nature of the data embedded in various media formats and its further digital representation and processing. My skills and experience include data analysis, architecture and representation, with a specialisation in modern manuscripts sources, encoding and digital publication of textual materials, research data management, sustainability planning and iterative content design.
 
