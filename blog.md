@@ -1,1 +1,7 @@
-this is my blog 
+
+---
+layout: default
+title: Portfolio
+
+---
+## this is my blog 
