@@ -4,10 +4,8 @@ title: Anna-Maria Sichani
 redirect_from: /about.html
 ---
 <figure>
-	<img src="{{site.url}}/anna-maria 07.jpg" width="290px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
+	<img src="{{site.url}}/anna-maria 11.jpg" width="290px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
 </figure>
-
-
 
 Anna-Maria Sichani  ( Άννα-Μαρία Σιχάνη) is an Early Stage Researcher and Marie Skłodowska-Curie Fellow affiliated with the Digital Scholarly Editing Initial Training Network (DiXiT), funded by the European Commission’s 7th Framework Programme for Research and Technological Development (FP7) . She is currently based at Huygens ING researching “Long-term business models in dissemination and publishing of digital editions”. Anna-Maria is also a PhD Research Fellow at King's Digital Lab  where her work focuses on the development and application of a sustainability and archiving strategy for Digital Humanities projects. She is also working on several aspects of digital scholarly editions such as project planning, iterative content design, data management, publication and dissemination strategies.
 
