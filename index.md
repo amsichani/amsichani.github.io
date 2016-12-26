@@ -15,6 +15,6 @@ She has been collaborating with the crowdsourcing project Transcribe Bentham (UC
 
 Her research interests include Modern Greek literary studies, digital scholarly editing and publishing, cultural and social aspects of transitional media(l) changes, scholarly communication, research infrastructures and digital pedagogy. Her work has appeared in Digital Scholarship in the Humanities, Journal of Modern Greek Media and Culture, Journal of Modern Greek Studies, The Book's Journal.
 
-For examples of writing and research, see Research. For a full record of activity, see also Portfolio - Works in progress. Here a fullest, more polished and updated version of CV.
+For examples of writing and research, see [Research](research). For a full record of activity, see also [Portfolio - Works in progress](portfolio). Here a fullest, more polished and updated version of CV.
 
 ---
