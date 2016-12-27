@@ -6,7 +6,7 @@ exclude: [deprecated, vendor, Gemfile, Procfile]
 
 twitter_username:     amsichani
 github_username:      asichani
-linkedin_username:    amsichani
+linkedin_username:   anna-maria-sichani
 
 safe: true
 highlighter: rouge
