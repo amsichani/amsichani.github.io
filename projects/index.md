@@ -10,7 +10,7 @@ Digital Pedagogy & Public Engagement
   <li>
     <a href="../projects/digital-neohellenist">
       <img src="../images/digitalneohellenist.png" width="400"/>
-      <h3>Digital Neohellenist</h3>
+      <h2>Digital Neohellenist</h2>
     </a>
   </li>
 </ul>
