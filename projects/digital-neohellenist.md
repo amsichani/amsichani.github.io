@@ -1,5 +1,5 @@
 ---
-layout: update
+layout: projects
 title: Works in progress
 ---
 **Digital Neohellenist** attempts to built a virtual place as well as a community of Modern Greek scholars who share  a common interest towards the application of digital tools and methods in Modern Greek Literature.
