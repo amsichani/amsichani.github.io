@@ -4,13 +4,12 @@ title: Projects & Works in Progress
 ---
 Here you can find a number of the projects I 've been initiated or helping developed as well as few works-in-progress. 
 
-Digital Pedagogy & Public Engagement 
+<h2>Digital Pedagogy & Public Engagement </h2>
 -----------------------------------------
-<ul>
   <li>
     <a href="../projects/digital-neohellenist">
       <img src="../images/digitalneohellenist.png" width="400"/>
       <h2>Digital Neohellenist</h2>
     </a>
   </li>
-</ul>
+
