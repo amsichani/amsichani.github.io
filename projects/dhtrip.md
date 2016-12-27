@@ -1,6 +1,8 @@
-
-
-Friday’s DH t(r)ip / DH t(r)ip της Παρασκευής: News, views, and guides to the DH landscapes
+---
+layout: projects
+title: Digital Neohellenist
+---
+**Friday’s DH t(r)ip / DH t(r)ip της Παρασκευής: News, views, and guides to the DH landscapes**
 
 This newsletter was initially designed and delivered as a spin-off initiative within the DARIAH-GR phase I (Jan 2014- Mar 2015)
 
