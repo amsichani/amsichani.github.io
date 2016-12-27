@@ -3,6 +3,11 @@ description: Modern Greek Literary Studies | Digital Humanities | Electronic pub
 url: http://amsichani.github.io
 permalink: :categories/:title
 exclude: [deprecated, vendor, Gemfile, Procfile]
+
+twitter_username:     amsichani
+github_username:      asichani
+linkedin_username:    amsichani
+
 safe: true
 highlighter: rouge
 markdown: kramdown
