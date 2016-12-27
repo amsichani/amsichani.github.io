@@ -2,17 +2,15 @@
 layout: projects
 title: Works in Progress
 ---
-<figure>
-	<img src="{{site.url}}/images/tools_wellcome.jpg" width="290px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
-</figure>
+Here you can find a number of the projects I 've been initiated or helping developed as well as few works-in-progress. 
 
 Digital Pedagogy & Public Engagement 
 -----------------------------------------
 <ul>
   <li>
     <a href="../projects/digital-neohellenist.md">
-      <img src="../images/digitalneohellenist.png">
-      <h3>Digital Neohellenist</h3>
+      <img src="../images/digitalneohellenist.png" width="400"/>
+      <h2>Digital Neohellenist</h2>
     </a>
   </li>
 </ul>
