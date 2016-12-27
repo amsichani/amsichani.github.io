@@ -10,4 +10,4 @@ This monthly newsletter was initially designed and delivered as a spin-off initi
 
 The *dream* t(r)ip team: Dido Georgoula, Gerasimos Chrysovitsanos, Anna-Maria Sichani, Irakleitos Souyioutzoglou.
 
-The project is now maintained in <a href="http://dh-trip.tumblr.com"> tumblr</a>  -  Copyright - All Rights Reserved © Academy of Athens-DARIAH GR/DYAS 
+The project is now maintained in <a href="http://dh-trip.tumblr.com"> tumblr</a> | Copyright - All Rights Reserved © Academy of Athens-DARIAH GR/DYAS 
