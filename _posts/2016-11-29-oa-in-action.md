@@ -4,7 +4,7 @@ layout: post
 categories: posts
 ---
 <figure><a href="../images/OpenAction.png">
-        <img src="../images/OpenAction.png" width="600px" style="margin-bottom: 80px" /alt=""/></a></figure>
+        <img src="../images/OpenAction.png" width="600px" style="margin-bottom: 80px" alt=""/></a></figure>
         
        
         
