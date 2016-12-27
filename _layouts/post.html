@@ -4,27 +4,19 @@
 	{% include header.html %}
 
 <body>
-
   <header role="banner">
     <h1><a href="{{ site.url }}">Anna-Maria Sichani</a></h1>
-
 	{% include menu.html %}
-
   </header>
-
   <div role="main">
       <article>
 	     <header>
 			<p class="kicker">{{ page.date | date: "%B %-d, %Y" }}</p>
 			<h2>{{ page.title }}</h2>
-        
 		 </header>
-
       {{ content }}
 	  </article>
 	</div>
-
     {% include footer.html %}
-
 </body>
 </html>
