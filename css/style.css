@@ -493,47 +493,6 @@ table tfoot {
 	margin: 0.25em 140px;
   }
 
-  .author-info,
-  .citation-info,
-  .credits {
-    border:1px dotted #ccc;
-    border-width: 1px 0;
-    margin: 2em 0;
-    padding: 0.8em 0;
-    overflow:hidden;
-    *zoom:1;
-  }
-
-  .author-picture {
-    float:left;
-  }
-
-  .author-name,
-  .citation-head,
-  .author-description,
-  .suggested-citation,
-  .all-posts {
-    display:block;
-    margin: 0.25em 140px;
-  }
-
-  .contact-box {
-    display: block;
-	width: 100%;
-	clear: both;
-  }
-
-  .citation-head,
-  .author-name {
-    font-weight: 600;
-    color: #999;
-  }
-
-  .author-description p,
-  .suggested-citation,
-  .all-posts {
-    font-size:0.8em;
-  }
   
   .additional ul {
     list-style:none;
@@ -581,21 +540,21 @@ table tfoot {
 	font-size: 0.8em;
   }
 
-  .lessons-list ul {
+  .projects-list ul {
     list-style:none;
     padding-left:0;
   }
 
-  .lessons-list li {
+  .projects-list li {
     margin-bottom:1em;
   }
 
-  .lessons-list li a.permalink {
+  .projects-list li a.permalink {
     text-decoration:none;
     font-weight:bold;
   }
 
-  .lessons {
+  .projects {
     list-style:none;
     padding:0;
     margin:0;
@@ -603,35 +562,35 @@ table tfoot {
     zoom:1;
   }
 
-  .lessons > li {
+  .projects > li {
     margin-bottom:2em;
     font-size: 1.1em;
     font-weight:bold;
   }
 
-  .lessons > li > a {
+  .projects > li > a {
     text-decoration:none;
     display:block;
     margin-bottom:0.25em;
   }
 
-  .lessons ul {
+  .projects ul {
     margin:0;
   }
 
-  .lessons > li > ul {
+  .projects > li > ul {
     font-size: 0.75em;
     font-weight:normal;
     padding-left: 1.25em;
   }
 
-  ul.lesson-images {
+  ul.projects-images {
     list-style: none;
     margin: 0;
     padding: 0;
   }
 
-  ul.lesson-images li {
+  ul.projects-images li {
     width: 200px;
     display: inline-block;
     vertical-align: top;
@@ -639,16 +598,16 @@ table tfoot {
     padding: 0;
   }
 
-  ul.lesson-images li a {
+  ul.projects-images li a {
     text-decoration: none;
   }
 
-  ul.lesson-images li a img {
+  ul.projects-images li a img {
     box-shadow: 0 0 5px #c0c0c0;
     width: 200px;
   }
 
-  ul.lesson-images h3 {
+  ul.projects-images h3 {
     font-size: 1em;
     font-weight: bold;
     text-align: left;
@@ -656,7 +615,7 @@ table tfoot {
     padding: 0;
   }
 
-  ul.lesson-images p {
+  ul.projects-images p {
     font-size: 0.9em;
     color: #000;
     margin: 0;
