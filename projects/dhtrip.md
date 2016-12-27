@@ -2,7 +2,7 @@
 layout: projects
 title: Digital Neohellenist
 ---
-<img src="../images/dhtrip.png" width="400"/>
+<img src="../images/dhtrip.png" width="600"/>
 
 **Friday’s DH t(r)ip / DH t(r)ip της Παρασκευής: News, views, and guides to the DH landscapes**
 
