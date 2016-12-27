@@ -4,7 +4,7 @@ layout: post
 categories: posts
 ---
 <figure><a href="../images/OpenAction.png">
-        <img src="../images/OpenAction.png" width="200px" style="margin-bottom: 30px" /alt=""/></a></figure>
+        <img src="../images/OpenAction.png" width="600px" style="margin-bottom: 80px" /alt=""/></a></figure>
         
        
         
@@ -12,7 +12,7 @@ This year’s International Open Access Week theme was <a href="http://www.actio
 
 In fact, Open Access is just one of the many interrelated instances of Open Science or of Knowledge Commons that form a dense web of concepts, tools and practices (figure 1). It may be helpful, I would suggest, to consider Open Access, as another example of a “boundary object” in digital scholarship. A boundary object can be explained as an object or notion _"both plastic enough to adapt to local needs and constraints of the several parties employing them, yet robust enough to maintain a common identity across sites”_.<a href="#_ftn1" name="_ftnref1"><sup>[1]</sup></a> Another example of a boundary object is ‘research infrastructure’<a href="#_ftn2" name="_ftnref2"><sup>[2]</sup></a>(although OA is also an infrastructure-related concept). It follows that Open Access can mean many different things for various social groups, from universities, governments, research funders, research libraries to researchers; it is naively realistic in its very rationale and at the same time extremely complex in its implementation.
 <p><figure><a href="../images/OpenScienceLiber.png">
-        <img src="../images/OpenScienceLiber.png" alt=""/></a>
+        <img src="../images/OpenScienceLiber.png" width="500px" style="margin-bottom: 80px" alt=""/></a>
         <figcaption> figure 1. Open Science matrix (courtesy LIBER)</figcaption>
     </figure></p>
 
@@ -22,7 +22,7 @@ There is no single, easy, straightforward and inclusive answer to the question �
 Almost one and a half year ago, in the middle of a hot mediterranean afternoon of the 25th June 2015, the Hellenic Academic Libraries Link, the Greek National research libraries coalition, announced (figure 2) the termination of all contracts with academic publishers and content providers <a href="http://www.heal-link.gr/list_all_news.php">due to insufficient budget to pay off and renew subscriptions</a><sup><a href="#_ftn1" name="_ftnref1">[3]</a> </sup>.As a result, Greek academics, researchers and students had to face, alongside the turmoil of the referendum and the capital controls, a new unpleasant reality where they couldn’t access a huge mass of scholarly content (including their own!) of the academic journals and large databases that are distributed by major academic publishers.
 
 <figure><a href="../images/HEALLINK.png">
-        <img src="../images/HEALLINK.png" alt=""/></a>
+        <img src="../images/HEALLINK.png" width="400px" style="margin-bottom:80px" alt=""/></a>
         <figcaption>
     figure 2. “the” HEAL-Link’s tweet</figcaption></figure>
     
@@ -40,7 +40,7 @@ This looks like an almost utopian academic happyland: Dutch researchers are extr
 Earlier this year, two colleagues and I submitted an article for peer review in a international Humanities scholarly journal published by a major publishing house. The review process was relatively smooth and we finally arrived to the stage of manuscript copyright agreement, where we were asked to pay 2,750€ + taxes if we wanted our article to _“be published using the open access publishing model”_ (see figure 3). Both the publication fee that was asked (which comes down to the aforementioned  APC), and the guilty feeling that came over us ( if we didn't pay, our colleagues in Greece for example wouldn’t be able to access our research) forced us to withdraw the article from that journal and to search for another, full-OA publishing avenue. This is why I consider APC one of the major barriers for Open Access in general and especially for young academics. Let me put it clearly: I don’t know many - if any - early career researchers ready to spend almost a month’s salary (a full-time UK academic position in Salary Scale 6) to publish their research. It is more likely that they use their money to cover their complete travel expenses for one or more international conferences, or better yet: book an all inclusive two week cruise on the Mediterranean. Thus, young academics find themselves compelled to publish in a traditional subscription-based journal, simply because they can't afford to put their work anywhere else- causing them to risk falling foul of Open Access mandates.
 
 <figure>
-<a href="../images/APC.png"><img src="../images/APC.png" alt=""/></a>
+<a href="../images/APC.png"><img src="../images/APC.png" width="500px" style="margin-bottom: 80px" alt=""/></a>
 <figcaption>
 figure 3. APC is calling ;) (zoom suggested, alcohol optional)</figcaption></figure>
 
