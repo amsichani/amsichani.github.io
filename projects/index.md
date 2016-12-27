@@ -4,7 +4,6 @@ title: Projects & Works in Progress
 ---
 Here you can find a number of the projects I 've been initiated or helping developed as well as few works-in-progress. 
 
-<h2> Digital Pedagogy & Public Engagement </h2>
 -----------------------------------------
   <ul class="projects-images">
   <li>
