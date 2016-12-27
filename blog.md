@@ -2,9 +2,9 @@
 layout: default
 title: Blog
 ---
-## this is my blog 
+## Welcome to my blog 
+I often write blogposts, either contributing to other blogs or venues, such as DiXiT-blog, or original ones. As I am writing and thinking both in English and (originally) in Greek, I don't translate my blogposts. Φυσικά, μιλάω και (κυρίως σκεφτομαι) Ελληνικά. Αγαπώ και τις δυο γλώσσες, γι' αυτό και δεν μεταφράζω.
 
-<center>Subscribe to the <a href="./feed.xml">RSS feed</a> for new blog posts.</center>
 <br/>
 <hr/>
 
