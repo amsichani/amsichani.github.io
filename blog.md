@@ -11,7 +11,7 @@ I often write blogposts, either contributing to other blogs or venues, such as D
 
 {% for post in site.posts %}
 
-<h3><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+<h2><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h2>
 
 <p class="kicker">{{post.date | date: "%B %-d, %Y"}}</p>
 <br/>
