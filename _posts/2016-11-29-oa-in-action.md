@@ -4,11 +4,8 @@ layout: post
 categories: posts
 ---
 
-<p><figure><a href="../images/oa-in-action.png">
-        <img src="../images/oa-in-action.png" alt=""/></a></figure></p>
-        
-        <p>
-        This year’s International Open Access Week theme was “</span><a href="http://www.action.openaccessweek.org">Open in Action</a>. The week (October 24 - 30, 2016) held a plethora of events, talks and other initiatives that presented, discussed and challenged various aspects from Open Access (OA) in academic publishing and scholarly communication, ranging from current trends, best practices and future prospects. </p>
+    
+       This year’s International Open Access Week theme was “</span><a href="http://www.action.openaccessweek.org">Open in Action</a>. The week (October 24 - 30, 2016) held a plethora of events, talks and other initiatives that presented, discussed and challenged various aspects from Open Access (OA) in academic publishing and scholarly communication, ranging from current trends, best practices and future prospects. </p>
         <a href="http://dixit.hypotheses.org/files/2016/11/OpenScienceLiber.png"><img class="wp-image-1224 size-medium" src="http://dixit.hypotheses.org/files/2016/11/OpenScienceLiber-300x143.png" alt="openScience" width="300" height="143" /></a> figure 1. Open Science matrix (courtesy LIBER)[/caption]<p><span style="font-weight: 400;">
         
         
