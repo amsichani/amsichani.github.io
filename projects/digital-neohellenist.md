@@ -2,7 +2,7 @@
 layout: projects
 title: Digital Neohellenist
 ---
-  <img src="../images/digitalneohellenist.png" width="600"/>
+  <img src="../images/digitalneohellenist.png" width="700"/>
   
 **<a href="http://www.digitalneohellenist.org">Digital Neohellenist</a>** attempts to built a virtual place as well as a community of Modern Greek scholars who share  a common interest towards the application of digital tools and methods in Modern Greek Literature.
 
