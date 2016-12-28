@@ -39,21 +39,37 @@ categories: posts
 **ΣΗΜΕΙΩΣΕΙΣ**
 
 <a href="#_ftnref1" name="_ftn1">[1]</a>. Walter J. Ong, «Writing is a technology that restructures thought», στο _The Written Word: Literacy in Transition_, επιμ. Gerd Baumann, Clarendon Press, Οξφόρδη 1986.
+
 <a href="#_ftnref2" name="_ftn2">[2]</a>. Ιmmanuel Kant, _The Metaphysics of Morals_, μτφρ. Mary J. Gregor, εισαγωγή Roger J. Sullivan, Cambridge University Press, 1996, σ. 71-72.
+
 <a href="#_ftnref3" name="_ftn3">[3]</a>.  Lisa Gitelman, _Paper Knowledge: Toward a Media History of Documents_, Duke University Press, 2014.
+
 <a href="#_ftnref4" name="_ftn4">[4]</a>. Jerome J. McGann, _TheTextual Condition_, Princeton University Press, 1991.
+
 <a href="#_ftnref5" name="_ftn5">[5]</a>.  Anderson, Benedict R. O’G., _Imagined Communities: Reflections on the Origin and Spread of Nationalism_, Verso, Λονδίνο 1991.
+
 <a href="#_ftnref6" name="_ftn6">[6]</a>.  Robert Darnton, _The Case for Books: Past, Present, and Future_, New York Public Affairs, Νέα Υόρκη 2009.
+
 <a href="#_ftnref7" name="_ftn7">[7]</a> Jean-François Lyotard,_The Postmodern Condition: A Report on Knowledge_, University of Minnesota Press, 1984.
+
 <a href="#_ftnref8" name="_ftn8">[8]</a>. Pettitt, Tom, «Opening the Gutenberg parenthesis: Media in transition in Shakespeare’s England», http://web.mit.edu/comm-forum/mit5/papers/Pettitt.Gutenberg%20Parenthesis.Paper.pdf· του ιδίου, «Containment and articulation: Media, cultural production, and the perception of the material world», http://web.mit.edu/comm-forum/mit6/papers/Pettitt.pdf(τελευταία πρόσβαση: 19.6.2014).
+
 <a href="#_ftnref9" name="_ftn9">[9]</a>. Walter J. Ong, «The literate orality of popular culture», στο _Ong, Rhetoric, Romance, and Technology: Studies in the Interaction of Expression and Culture_, Cornell University Press, Ίθακα 1971.
+
 <a href="#_ftnref10" name="_ftn10">[10]</a>. Lyotard, ό.π., σ. 80.
+
 <a href="#_ftnref11" name="_ftn11">[11]</a>. Vannevar Bush, «As we may think»,_The Antlantic_ (1.7.1945) http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/(τελευταία πρόσβαση: 19.6.2014).
+
 <a href="#_ftnref12" name="_ftn12">[12]</a>. Jeffrey Schnapp &nbsp;et al., «The immense promise of the digital humanities», _New Republic_(12.5.2014) http://www.newrepublic.com/article/117711/digital-humanities-have-immense-promise-response-adam-kirsh (τελευταία πρόσβαση: 19.6.2014).
+
 <a href="#_ftnref13" name="_ftn13">[13]</a>. Elizabeth Bergmann Loizeaux και Neil Fraistat (επιμ.),_Reimagining Textuality: Textual Studies in the Late Age of Print_, University of Wisconsin Press, 2002.
+
 <a href="#_ftnref14" name="_ftn1">[14]</a> .Ενδεικτικά σημειώνω ένα πολύ πρόσφατο δείγμα αυτής της τάσης, τη διάλεξη του Walter Isaacson, _The intersection of the Humanities and the Sciences_, 43rd Jefferson Lecture in the Humanities (12.5.2014), http://www.neh.gov/about/awards/jefferson-lecture/walter-isaacson-lecture (τελευταία πρόσβαση: 19.6.2014).
+
 <a href="#_ftnref15" name="_ftn15">[15]</a> Kathryn Sutherland και Marilyn Deegan, _Transferred Illusions: Digital Technology and the Forms of Print_, Ashgate, Λονδίνο 2009· Kathleen Fitzpatrick, _Planned Obsolescence Publishing, Technology, and the Future of the Academy_, New York University Press, 2011.
+
 <a href="#_ftnref16" name="_ftn16">[16]</a> http://www.hfc.gr/wmt/webpages/index.php?lid=1&amp;pid=2</a> (τελευταία πρόσβαση: 19.6.2014).
+
 <a href="#_ftnref17" name="_ftn17">[17]</a> Jacques Derrida, <em>Paper Machine</em>, μτφρ. Rachel Bowlby, Stanford University Press, 2005, σ. 29.
 
 
