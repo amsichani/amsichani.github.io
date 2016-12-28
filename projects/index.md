@@ -24,7 +24,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
       <h2>Greek Humanities and Open Access </h2>
     </a>
   </li>
-  <li>
+</ul>
 
 
 
