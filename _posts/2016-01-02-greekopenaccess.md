@@ -117,3 +117,4 @@ http://www.guardian.co.uk/commentisfree/2011/aug/29/academic-publishers-murdoch-
 
 17.Raymond Williams, _Culture and society 1780-1950_, Anchor Books Doubleday &amp; Company, Inc, 1958, σ. 242.
 
+[orginally published in <a href="http://www.chronosmag.eu/index.php/s-s-psf-e-p.html">Chronos magazine</a> ]
