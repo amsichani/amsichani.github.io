@@ -6,7 +6,6 @@ Here you can find a number of the projects I 've been initiated or helping devel
 
 -----------------------------------------
   <ul class="projects-images">
-
   <li>
     <a href="../projects/greekopenaccess">
       <img src="../images/openaccess.png">
