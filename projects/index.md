@@ -15,10 +15,18 @@ Here you can find a number of the projects I 've been initiated or helping devel
   <li>
     <a href="../projects/dhtrip">
       <img src="../images/dhtrip.png">
-      <h2>Friday’s DH t(r)ip / DH t(r)ip της Παρασκευής: News, views, and guides to the DH landscapes</h2>
+      <h2>DH t(r)ip της Παρασκευής: News, views, and guides to the DH landscapes</h2>
     </a>
   </li>
   <li>
+    <a href="../projects/greekopenaccess">
+      <img src="../images/openaccess.png">
+      <h2>Greek Humanities and Open Access </h2>
+    </a>
+  </li>
+  <li>
+
+
 
 
 
