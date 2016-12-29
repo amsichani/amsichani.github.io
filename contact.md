@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 <figure>
-	<img src="{{site.url}}/images/telephone.jpg" style="middle: 15px;"
+	<img src="{{site.url}}/images/telephone.jpg" style="middle: 35px;"
 	alt="http://www.europeana.eu/portal/en/record/9200291/BibliographicResource_3000073600898.html?q=telephone/" />
 </figure>
 
