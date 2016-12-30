@@ -6,7 +6,7 @@ redirect_from: /about.html
 <figure>
 	<img src="{{site.url}}/images/anna-maria 07.jpg" width="250px" style="float: left; margin-right: 15px; margin-bottom: 15px;" />
 </figure>
-Anna-Maria Sichani (Άννα-Μαρία Σιχάνη) is a literary historian and a Digital Humanist. Anna-Maria is currently an Early Stage Researcher and Marie Skłodowska-Curie Fellow affiliated with the <a href="">Digital Scholarly Editing Initial Training Network (DiXiT)</a> (EU-FP7), based at <a href="https://www.huygens.knaw.nl">Huygens ING</a> and a PhD Research Fellow at <a href="https://www.kdl.kcl.ac.uk">King's Digital Lab</a>. 
+Anna-Maria Sichani (Άννα-Μαρία Σιχάνη) is a Modern Greek literary historian and a Digital Humanist. Anna-Maria is currently an Early Stage Researcher and Marie Skłodowska-Curie Fellow affiliated with the <a href="">Digital Scholarly Editing Initial Training Network (DiXiT)</a> (EU-FP7), based at <a href="https://www.huygens.knaw.nl">Huygens ING</a> and a PhD Research Fellow at <a href="https://www.kdl.kcl.ac.uk">King's Digital Lab</a>. 
 
 Her PhD research – currently in the final stages at the University of Ioannina (Greece) - focuses on how changes on textual mediality and communication technologies informed while radicalised editorial practices and literary activities in the Modern Greek literary field during the Sixties. She holds a BA and a MPhil in Modern Greek Philology from the University of Athens (Greece), then followed by a MA in Digital Humanities in UCL, with a dissertation on literary drafts and computational technologies.
 
