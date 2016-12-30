@@ -6,7 +6,7 @@ title: Publications
 <ul>
 <li>
 “Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, _Journal of Greek Media &amp; Culture_, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]<br/>
-<embed src="../cavafyweb.pdf" width="500" height="345" type='application/pdf'/>
+<embed src="../Sichani (6).pdf" width="500" height="345" type='application/pdf'/>
 
 <li>
 "‘Read by ear’: literature and sound technologies during the Greek Long Sixties" (forthcoming)<br/>
