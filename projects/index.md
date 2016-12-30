@@ -14,7 +14,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
   </li> 
  <li>
     <a href="../projects/DSEcosts">
-      <img src="../images/DSEcosts.png">
+      <img src="../images/DSEcosts.jpg">
       <h2> Cost efficiency and monetization models for Digital Scholarly Editions</h2>
     </a>
   </li> 
