@@ -18,12 +18,23 @@ title: Publications
 "‘Read by ear’: literature and sound technologies during the Greek Long Sixties" (forthcoming)<br/>
 <embed src="../images/Readbyear.pdf" width="500" height="345" type='application/pdf'/>
 </li>
-<li>
-SonorCities. Learning Culture through City Soundscapes. An Educational Tool.(review), <em>Journal of Modern Greek Studies</em>, Occasional Papers 11, (2016)<br/>
-<embed src="../images/Sonor Cities.pdf" width="500" height="345" type='application/pdf'/>
-</li>
+
 
 <li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <em>Diavazo magazine</em>, 530 (in Greek), 6/2012 <br/>
 <embed src="../images/psifiakesekdoseis_DIAVAZO.pdf" width="500" height="375" type='application/pdf'/>
+</li>
+</ul>
+
+**Reviews**
+<ul>
+
+<li>
+SonorCities. Learning Culture through City Soundscapes. An Educational Tool(review), <em>Journal of Modern Greek Studies</em>, Occasional Papers 11, (2016)<br/>
+<embed src="../images/Sonor Cities.pdf" width="500" height="345" type='application/pdf'/>
+</li>
+
+<li>
+Κωστής Κορνέτης, Τα παιδιά της δικτατορίας.Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα (βιβλιοκριτική) <br/>
+<embed src="../images/Kornetis.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 </ul>
