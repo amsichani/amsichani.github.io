@@ -2,7 +2,7 @@
 layout: default
 title: Presentations
 ---
-**presentations**
+**Selective presentations**
 
 <ul>
 <li>“Design as part of the plan: sustainability in digital editing projects” (with Ginestra Ferraro)
