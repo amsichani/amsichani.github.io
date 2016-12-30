@@ -34,7 +34,7 @@ SonorCities. Learning Culture through City Soundscapes. An Educational Tool(revi
 </li>
 
 <li>
-Κωστής Κορνέτης, Τα παιδιά της δικτατορίας.Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα (βιβλιοκριτική) <br/>
+Κωστής Κορνέτης, Τα παιδιά της δικτατορίας.Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα (βιβλιοκριτική) , <em>The Book's Journal </em><br/>
 <embed src="../images/Kornetis.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 </ul>
