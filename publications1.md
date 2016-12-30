@@ -3,25 +3,13 @@ layout: default
 title: Publications
 ---
 **Publications**
-“Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <a href="http://www.ingentaconnect.com/content/intellect/jgmc">Journal of Greek Media &amp; Culture</a>, Volume 1, Number 2, October 2015, pp. <span class="pagesNum">321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]</span></li>
-
-
-
- 	<li>‘Poetry and the digital condition’
-<em><a href="http://www.poetics.patakis.gr/?p=367">Poetics</a></em>, 14 , Autumn 2014 [pdf]</li>
-</ul>
 <ul>
- 	<li>‘Beyond the Print: book as/and technology’ (in Greek)
-<em><a href="http://www.chronosmag.eu/index.php/s-ep-l-p-p-peg.html">Chronos online magazine</a>,</em> 15
-7/2013 [pdf]</li>
-</ul>
-<ul>
- 	<li>‘Literary Archives and Digital Technologies: the Future from the Past’ (in Greek)
-<em><a href="http://www.chronosmag.eu/index.php/s-lg-psf-s-ll-p-plth.html">Chronos online magazine</a>,</em> 6 (in Greek)
-10/2013 [pdf]</li>
-</ul>
-<ul>
- 	<li>‘Electronic Editions and Modern Greek Literature: the future is now’ (in Greek)
+<li>“Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <em>Journal of Greek Media &amp; Culture</em>, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]</li>
+
+This article approaches the social and cultural aspects of engaging with and communicatingC. P. Cavafy and his oeuvre in Web 2.0 platforms from an interdisciplinarypoint of view. By discussing the social web as a new discourse network, thearticle initially describes how the data architecture of the Web 2.0 ecology reconfigurescommunicative procedures, relations and roles towards a platformed sociality.It subsequently focuses on ways in which the transformation of the reader/userinto a content-producer may enrich the engagement with the Cavafian oeuvre.The notion of digi-formance is also proposed to describe the tropes that the usergeneratedcontent is communicated through Web 2.0 environments, inaugurating aparticipatory culture and practice based on notions of consumer production, remixand sharing. The article ends by further suggesting how the social web and digitalnetworking technologies could remodel literary sociality, in which the Cavafianoeuvre and scholarship are submerged, within the digital era.
+
+<li>‘Electronic Editions and Modern Greek Literature: the future is now’ 
 <em>Diavazo magazine</em>, 530 (in Greek)
-6/2012 [pdf]</li>
+6/2012 
+</li>
 </ul>
