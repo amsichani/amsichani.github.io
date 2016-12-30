@@ -12,10 +12,16 @@ Here you can find a number of the projects I 've been initiated or helping devel
       <h2>Greek Humanities and Open Access </h2>
     </a>
   </li> 
-  <li>
+ <li>
+    <a href="../projects/costsdse">
+      <img src="../images/costsdse.png">
+      <h2> Cost efficiency and monetization models for Digital Scholarly Editions</h2>
+    </a>
+  </li> 
+<li>
     <a href="../projects/sustainability">
       <img src="../images/openaccess.png">
-      <h2>Sustainability and Digital Scholarly Editions </h2>
+      <h2>Sustainability and Digital Humanties Projects </h2>
     </a>
   </li> 
   <li>
