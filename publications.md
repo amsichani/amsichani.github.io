@@ -19,7 +19,7 @@ title: Publications
 <embed src="../images/Readbyear.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 <li>
-SonorCities (review), <em>Journal of Modern Greek Studies</em>, Occasional Papers 11, (2016)<br/>
+SonorCities. Learning Culture through City Soundscapes. An Educational Tool.(review), <em>Journal of Modern Greek Studies</em>, Occasional Papers 11, (2016)<br/>
 <embed src="../images/Sonor Cities.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 
