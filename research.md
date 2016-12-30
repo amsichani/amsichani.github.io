@@ -15,4 +15,4 @@ My research interest in shifts and transitions expands from the actual object of
 
 By trying to comprehensively approach knowledge creation, I am also tracing the epistemological and methodological transitions in humanities scholarship and scholarly communication. I am a keen advocate of full Open Access and an active supporter of creative ways for knowledge exchange, transfer and collaboration that will ensure that the communication and distribution of research, knowledge and data are fair, ethical, engaging and inclusive.
 
-[Related Publications](publications1)
+[Selective Publications](publications)
