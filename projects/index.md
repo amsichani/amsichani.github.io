@@ -13,8 +13,8 @@ Here you can find a number of the projects I 've been initiated or helping devel
     </a>
   </li> 
  <li>
-    <a href="../projects/costsdse">
-      <img src="../images/costsdse.png">
+    <a href="../projects/DSEcosts">
+      <img src="../images/DSEcosts.png">
       <h2> Cost efficiency and monetization models for Digital Scholarly Editions</h2>
     </a>
   </li> 
