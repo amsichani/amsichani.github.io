@@ -7,6 +7,7 @@ title: Publications
 <li>
 “Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, _Journal of Greek Media &amp; Culture_, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]<br/>
 <embed src="../Sichani (6).pdf" width="500" height="345" type='application/pdf'/>
+</li>
 
 <li>
 "‘Read by ear’: literature and sound technologies during the Greek Long Sixties" (forthcoming)<br/>
@@ -14,11 +15,11 @@ title: Publications
 </li>
 
 <li>"Ζει το λογοτεχνικό παρελθόν; Πρακτικές μνήμης γύρω από το λογοτεχνικό παρελθόν στη μακρά δεκαετία του 60"<br/>
-Μικρή λίστα - Βραβείο Μουλλά 2016 
+Μικρή λίστα - Βραβείο Μουλλά 2016 <br/>
 <embed src="../Zei_to_logotexniko_parelthon_Sichani_CCBY.pdf" width="500" height="345" type='application/pdf'/>
 </li>
-<li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now"
-<em>Diavazo magazine</em>, 530 (in Greek), 6/2012 <br/>
+
+<li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <em>Diavazo magazine</em>, 530 (in Greek), 6/2012 <br/>
 <embed src="../DIAVAZO.pdf" width="500" height="375" type='application/pdf'/>
 </li>
 </ul>
