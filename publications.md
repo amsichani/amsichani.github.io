@@ -19,9 +19,10 @@ title: Publications
 <embed src="../images/Readbyear.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 <li>
-SonorCities (review), <em>Journal of Modern Greek Studies</em>, Occasional Papers<br/>
-<embed src="../images/SonorCities.pdf" width="500" height="345" type='application/pdf'/>
+SonorCities (review), <em>Journal of Modern Greek Studies</em>, Occasional Papers 11, (2016)<br/>
+<embed src="../images/Sonor Cities.pdf" width="500" height="345" type='application/pdf'/>
 </li>
+
 <li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <em>Diavazo magazine</em>, 530 (in Greek), 6/2012 <br/>
 <embed src="../images/psifiakesekdoseis_DIAVAZO.pdf" width="500" height="375" type='application/pdf'/>
 </li>
