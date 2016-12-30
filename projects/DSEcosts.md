@@ -2,7 +2,7 @@
 layout: projects
 title: Cost efficiency and monetization models for Digital Scholarly Editions
 ---
-<img src="../images/dsecosts.png" width="600"/>
+<img src="../images/DSEcosts.jpg" width="600"/>
 
 **Cost efficiency and monetization models for Digital Scholarly Editions**
 
