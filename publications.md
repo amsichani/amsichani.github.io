@@ -13,8 +13,12 @@ title: Publications
 <embed src="../Readbyear.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 
-<li>"Ψηφιακές εκδόσεις και Νεοελληνικ Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now"
-<em>Diavazo magazine</em>, 530 (in Greek0, 6/2012 
+<li>"Ζει το λογοτεχνικό παρελθόν; Πρακτικές μνήμης γύρω από το λογοτεχνικό παρελθόν στη μακρά δεκαετία του 60"<br/>
+Μικρή λίστα - Βραβείο Μουλλά 2016 
+<embed src="../moullas.pdf" width="500" height="345" type='application/pdf'/>
+</li>
+<li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now"
+<em>Diavazo magazine</em>, 530 (in Greek), 6/2012 <br/>
 <embed src="../DSE-GR.pdf" width="500" height="375" type='application/pdf'/>
 </li>
 </ul>
