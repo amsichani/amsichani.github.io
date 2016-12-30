@@ -2,7 +2,7 @@
 layout: projects
 title: Cost efficiency and monetization models for Digital Scholarly Editions
 ---
-<img src="../images/DSEcosts.jpg" width="600"/>
+<img src="../images/DSEcosts.jpg" width="600"/><a href="https://en.wikipedia.org/wiki/Alaska_Purchase#/media/File:Alaska_Purchase_(hi-res).jpg"/>
 
 **Cost efficiency and monetization models for Digital Scholarly Editions**
 
