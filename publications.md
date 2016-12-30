@@ -19,6 +19,6 @@ title: Publications
 </li>
 <li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now"
 <em>Diavazo magazine</em>, 530 (in Greek), 6/2012 <br/>
-<embed src="../DSE-GR.pdf" width="500" height="375" type='application/pdf'/>
+<embed src="../DIAVAZO.pdf" width="500" height="375" type='application/pdf'/>
 </li>
 </ul>
