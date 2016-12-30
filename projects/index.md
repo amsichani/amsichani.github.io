@@ -20,7 +20,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
   </li> 
 <li>
     <a href="../projects/sustainability">
-      <img src="../images/openaccess.png">
+      <img src="../images/sustainability.jpg">
       <h2>Sustainability and Digital Humanties Projects </h2>
     </a>
   </li> 
