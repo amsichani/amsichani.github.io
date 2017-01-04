@@ -18,23 +18,15 @@
    * Sets box sizing to the border of the box. 
    */
   * { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: border-box; }
-
-  /*
-   * 1. Correct text resizing oddly in IE6/7 when body font-size is set using em units
-   * 2. Prevent iOS text size adjust on device orientation change, without disabling user zoom: h5bp.com/g
-   */
-
+  
   html { font-size: 80%; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
   html, button, input, select, textarea { font-family: monospace, sans-serif; color: #222; }
 
-  body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; text-align: justify;}
-
-  /*
-   * Remove text-shadow in selection highlight: h5bp.com/i
-   * These selection declarations have to be separate
-   * Also: hot pink! (or customize the background color to match your design)
-   */
+  
+header { position: fixed;
+	}
+body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; text-align: justify;}
 
   ::-moz-selection { background: #3af; color: #fff; text-shadow: none; }
   ::selection { background: #3af; color: #fff; text-shadow: none; }
@@ -67,17 +59,17 @@
   .github a:hover {color: #222;}
   .github a:active {color: #222;}
 
+	
+	
 .header-link {
-  position: absolute;
+  position: absolute; 
   right: 0.6em;
   opacity: 0;
-
 
   -webkit-transition: opacity 0.2s ease-in-out 0.1s;
   -moz-transition: opacity 0.2s ease-in-out 0.1s;
   -ms-transition: opacity 0.2s ease-in-out 0.1s;
 }
-
 
 h2:hover .header-link,
 h3:hover .header-link,
