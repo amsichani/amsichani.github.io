@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
-**Selective Publications | Writing samples**
+**Selective Publications | Writing samples** (ORCID identifier is <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610)</a>
 <ul>
 <li>
 “Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <em>Journal of Greek Media &amp; Culture</em>, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]<br/>
