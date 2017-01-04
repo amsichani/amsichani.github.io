@@ -28,7 +28,7 @@
 
   html, button, input, select, textarea { font-family: monospace, sans-serif; color: #222; }
 
-  body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; }
+  body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; text-align: justify;}
 
   /*
    * Remove text-shadow in selection highlight: h5bp.com/i
