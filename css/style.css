@@ -23,10 +23,17 @@
 
   html, button, input, select, textarea { font-family: monospace, sans-serif; color: #222; }
 
-header { position: fixed;
+header { 
 	-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
-	margin: 0;
-	text-align: justify;
+	height: 100px;
+    width: 400px; /** Use 100% to fill the width of the page **/
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+  
+}
 	}
 body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; text-align: justify;}
 
