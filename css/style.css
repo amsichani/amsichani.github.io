@@ -68,7 +68,7 @@
   .github a:active {color: #222;}
 
 .header-link {
-  position: fixed;
+  position: absolute;
   right: 0.6em;
   opacity: 0;
 
@@ -78,6 +78,9 @@
   -ms-transition: opacity 0.2s ease-in-out 0.1s;
 }
 
+.header-cont {
+	position:fixed;
+}
 
 h2:hover .header-link,
 h3:hover .header-link,
