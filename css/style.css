@@ -77,7 +77,11 @@
   -moz-transition: opacity 0.2s ease-in-out 0.1s;
   -ms-transition: opacity 0.2s ease-in-out 0.1s;
 }
-	
+.header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+}	
 
 h2:hover .header-link,
 h3:hover .header-link,
