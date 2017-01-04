@@ -24,7 +24,9 @@
   html, button, input, select, textarea { font-family: monospace, sans-serif; color: #222; }
 
 header { position: fixed;
+	-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
 	margin: 0;
+	text-align: justify;
 	}
 body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; text-align: justify;}
 
