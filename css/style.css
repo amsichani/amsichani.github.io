@@ -24,9 +24,9 @@
   html, button, input, select, textarea { font-family: monospace, sans-serif; color: #222; }
 
 header { 
-	-webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%;
+	
 	height: 100px;
-    width: 400px; /** Use 100% to fill the width of the page **/
+    width: 100px; /** Use 100% to fill the width of the page **/
     position: fixed;
     top: 0;
     left: 0;
