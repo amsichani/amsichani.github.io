@@ -23,18 +23,7 @@
 
   html, button, input, select, textarea { font-family: monospace, sans-serif; color: #222; }
 
-header { 
 	
-	height: 100px;
-    width: 100px; /** Use 100% to fill the width of the page **/
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    margin: 0 auto;
-  
-}
-	}
 body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; text-align: justify;}
 
   ::-moz-selection { background: #3af; color: #fff; text-shadow: none; }
