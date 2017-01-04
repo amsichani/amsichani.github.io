@@ -78,11 +78,6 @@
   -ms-transition: opacity 0.2s ease-in-out 0.1s;
 }
 	
-.header-cont {
-    width:100%;
-    position:fixed;
-	top:0px; 
-}
 
 h2:hover .header-link,
 h3:hover .header-link,
@@ -451,6 +446,13 @@ table tfoot {
   header[role="banner"] h1 a {
     color: #555;
   }
+
+	
+header-cont {
+    width:100%;
+    position:fixed;
+	top:0px; 
+}
   
   article:not(:first-child):before {
       content: " â€” Â·Â·Â· â€”";
