@@ -23,7 +23,6 @@
 
   html, button, input, select, textarea { font-family: monospace, sans-serif; color: #222; }
 
-  
 header { position: fixed;
 	}
 body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-height: 1.4; text-align: justify;}
@@ -59,11 +58,10 @@ body { margin: 0; font-family: monospace, sans-serif; font-size: 0.7em; line-hei
   .github a:hover {color: #222;}
   .github a:active {color: #222;}
 
-	
-	
+
 .header-link {
   position: absolute; 
-  right: 0.6em;
+  right: 3em;
   opacity: 0;
 
   -webkit-transition: opacity 0.2s ease-in-out 0.1s;
