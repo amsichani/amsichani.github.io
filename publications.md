@@ -15,7 +15,8 @@ title: Publications
 </li>
 
 <li>
-"‘Read by ear’: literature and sound technologies during the Greek Long Sixties" (forthcoming)<br/>
+"‘Read by ear’: literature and sound technologies during the Greek Long Sixties", [initially presented at International Graduate Student Conference in Modern Greek Studies, Works in Progress: New Approaches, Seeger Center for Hellenic Studies, Princeton University,
+1/5/2015, publication forthcoming]<br/>
 <embed src="../images/Readbyear.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 
@@ -34,7 +35,7 @@ title: Publications
 </li>
 
 <li>
-"Κωστής Κορνέτης, Τα παιδιά της δικτατορίας.Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα" (βιβλιοκριτική) , <em>The Book's Journal </em><br/>
+"Κωστής Κορνέτης, Τα παιδιά της δικτατορίας. Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα" (βιβλιοκριτική) , <em>The Book's Journal </em><br/>
 <embed src="../images/Kornetis.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 </ul>
