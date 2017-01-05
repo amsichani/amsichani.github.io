@@ -11,6 +11,12 @@ title: Presentations
 
 You can find  the slides of my presentation <a href="../images/interfaces.pdf">here</a></li>
 
+<li>‘Re-modeling the ‘project’: escaping project-based culture in digital scholarship’, Innovative Interrogations: Modelling, Prototyping and Making / Implementing New Knowledge Environments (INKE) Conference @ DHSI 2016, University of Victoria
+10-11/6/ 2016
+
+You can find  the abstract of my presentation <a href="../images/remodelingproject.pdf">here</a></li>
+
+
 <li>“Beyond Open Access: Reuse, Impact and the ethos of openness in Digital Scholarly Editing”<br/>
 DiXiT Convention 2, 'Digital Editions: Academia, Society, Cultural Heritage', University of Cologne, 16- 18 March 2016<br/>
 
