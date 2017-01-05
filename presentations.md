@@ -12,7 +12,7 @@ title: Presentations
 You can find  the slides of my presentation <a href="../images/interfaces.pdf">here</a></li>
 
 <li>‘Re-modeling the ‘project’: escaping project-based culture in digital scholarship’, Innovative Interrogations: Modelling, Prototyping and Making / Implementing New Knowledge Environments (INKE) Conference @ DHSI 2016, University of Victoria
-10-11/6/ 2016
+10-11/6/ 2016<br/>
 
 You can find  the abstract of my presentation <a href="../images/remodelingproject.pdf">here</a></li>
 
