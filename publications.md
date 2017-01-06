@@ -21,7 +21,7 @@ title: Publications
 </li>
 
 
-<li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <em>Diavazo magazine</em>, 530 (in Greek), 6/2012 <br/>
+<li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <em>Διαβάζω</em>, 530, 6/2012.<br/>
 <embed src="../images/psifiakesekdoseis_DIAVAZO.pdf" width="500" height="375" type='application/pdf'/>
 </li>
 </ul>
@@ -35,7 +35,6 @@ title: Publications
 </li>
 
 <li>
-"Κωστής Κορνέτης, Τα παιδιά της δικτατορίας. Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα" (βιβλιοκριτική) , <em>The Book's Journal </em><br/>
-<embed src="../images/Kornetis.pdf" width="500" height="345" type='application/pdf'/>
+"Κωστής Κορνέτης, Τα παιδιά της δικτατορίας. Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα" (βιβλιοκριτική) , <em>The Book's Journal </em>, 67, Ιούνιος 2016.<br/>
 </li>
 </ul>
