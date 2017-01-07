@@ -22,7 +22,7 @@ title: Publications
 
 
 <li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <em>Διαβάζω</em>, 530, 6/2012.<br/>
-<embed src="../images/psifiakesekdoseis_DIAVAZO.pdf" width="500" height="375" type='application/pdf'/>
+<embed src="../images/DIAVAZO_DSE.pdf" width="500" height="375" type='application/pdf'/>
 </li>
 </ul>
 
@@ -37,4 +37,11 @@ title: Publications
 <li>
 "Κωστής Κορνέτης, Τα παιδιά της δικτατορίας. Φοιτητική Αντίσταση, Πολιτισμικές Πολιτικές και η μακρά Δεκαετία του 60 στην Ελλάδα" (βιβλιοκριτική) , <em>The Book's Journal </em>, 67, Ιούνιος 2016.<br/>
 </li>
+
+<li>“Elena Pierazzo, Digital Scholarly Editing. Theories, Models and Methods” (with Elena Spadini), <em>Digital Scholarship Humanities</em> (2016) 31 (3): 513-516  DOI: dx.doi.org/10.1093/llc/fqw033 
+</li>
+
+<li>“Adam Hammond, Literature in the Digital Age. An introduction”, <em> Digital Literary Studies</em>, (forthcoming)</li>
+
+<li>“Matthew Kirschenbaum, Track Changes: A Literary History of Word Processing”, (forthcoming)</li>
 </ul>
