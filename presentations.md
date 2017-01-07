@@ -20,7 +20,7 @@ You can find  the abstract of my presentation <a href="../images/remodelingproje
 <li>“Beyond Open Access: Reuse, Impact and the ethos of openness in Digital Scholarly Editing”<br/>
 DiXiT Convention 2, 'Digital Editions: Academia, Society, Cultural Heritage', University of Cologne, 16- 18 March 2016<br/>
 
-You can find  the slides of my presentation <a href="../images/beyondoa.pdf">here</a> as well as the <a href="../images/beyondoa_abstract.pdf">extended abstract</a>
+You can find  the slides of my presentation <a href="../images/beyondoa.pdf">here</a> as well as the <a href="../images/BeyondOA_extended_abstract.pdf">extended abstract</a>
 </li>
 
 <li>Ποιος φοβάται το ψηφιακό περιεχόμενο στη Νεοελληνική Φιλολογία;” <br/>
