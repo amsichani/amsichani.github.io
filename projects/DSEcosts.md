@@ -14,5 +14,5 @@ Central questions in my research are:
 
 -How we could train (ourselves as) digital editors to be more ‘businesslike’ and to adopt more entrepreneurial and business-planning mindsets (e.g. risk assessment, market analysis, product evaluation, user requirements etc) in keeping with high-quality scholarly standards as we run our digital editing projects?
 
-Two related research publications are now on their way, one on the cost efficiency of crowdsourcing (using Transcribe Bentham as a case -study) and the second on monetization strategies for digital scholarly editions. Stay tuned.
+Two related collaborative research publications are now on their way, one on the cost efficiency of crowdsourcing (using Transcribe Bentham as a case -study) and the second on monetization strategies for digital scholarly editions. Stay tuned.
 
