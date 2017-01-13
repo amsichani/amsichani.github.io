@@ -21,7 +21,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
 <li>
     <a href="../projects/sustainability">
       <img src="../images/sustainability.jpg">
-      <h2>Sustainability and Digital Humanties Projects </h2>
+      <h2>Sustainability and Maintenance of Digital Humanties Projects </h2>
     </a>
   </li> 
   <li>
