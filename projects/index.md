@@ -8,13 +8,13 @@ Here you can find a number of the projects I 've been initiated or helping devel
   <ul class="projects-images">
   <li>
     <a href="../projects/correspondence">
-      <img src="../images/correspondence1.jpg" width="600px" align="middle">
+      <img src="../images/correspondence1.jpg" width="600px">
       <h2>Digital Editions of Correspondence material </h2>
     </a>
   </li>
   <li>
     <a href="../projects/greekopenaccess">
-      <img src="../images/openaccess.png" width="600px" align="middle">
+      <img src="../images/openaccess.png" width="600px">
       <h2>Greek Humanities and Open Access </h2>
     </a>
   </li> 
