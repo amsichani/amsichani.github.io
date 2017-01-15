@@ -7,6 +7,12 @@ Here you can find a number of the projects I 've been initiated or helping devel
 -----------------------------------------
   <ul class="projects-images">
   <li>
+    <a href="../projects/correspondence">
+      <img src="../images/correspondence1.png">
+      <h2>Digital Editions of Correspondence material </h2>
+    </a>
+  </li>
+  <li>
     <a href="../projects/greekopenaccess">
       <img src="../images/openaccess.png">
       <h2>Greek Humanities and Open Access </h2>
