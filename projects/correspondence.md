@@ -1,10 +1,10 @@
 ---
 layout: projects
-title: Archive of Modern Greek Correspondence
+title: Digital Editions of Correspondence material
 ---
 <a href="http://www.europeana1914-1918.eu/nl/contributions/3436"><img src="../images/correspondence1.jpg" width="500"/></a>
 
-**Archive of Modern Greek Correspondence**
+**Digital Editions of Correspondence material**
 
 Given my strong interest and experience in the digital representation and processing of modern manuscript sources, I am currently working towards a model for the encoding of correspondence material using TEI P5.
 
