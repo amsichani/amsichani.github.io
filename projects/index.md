@@ -8,7 +8,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
   <ul class="projects-images">
   <li>
     <a href="../projects/correspondence">
-      <img src="../images/correspondence1.png">
+      <img src="../images/correspondence1.jpg">
       <h2>Digital Editions of Correspondence material </h2>
     </a>
   </li>
