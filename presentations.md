@@ -27,5 +27,5 @@ You can find  the slides of my presentation <a href="../images/beyondoa.pdf">her
 
 Ημερίδα 'Ψηφιακές Τεχνολογίες και Νεοελληνική Φιλολογία. Ο φιλόλογος ως δημιουργός, διαχειριστής και χρήστης ψηφιακού περιεχομένου”, Πανεπιστημίο Πατρών – Τμήμα Φιλολογίας / ΠΜΣ “Σύγχρονες προσεγγίσεις στη γλώσσα και στα κείμενα' – Ειδίκευση Νεοελληνικής Φιλολογίας, 22 Οκτωβρίου 2014<br/>
 
-You can find  the <a href="../images/digitalcontent.pdf"> slides </a> as well as my <a href="http://www.lis.upatras.gr/wp-content/uploads/2015/05/dh14_sichani.pdf">presentation </a></li>
+You can find here the <a href="../images/digitalcontent.pdf"> slides </a> as well as my <a href="http://www.lis.upatras.gr/wp-content/uploads/2015/05/dh14_sichani.pdf">presentation </a>.</li>
 </ul>
