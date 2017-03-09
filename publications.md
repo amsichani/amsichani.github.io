@@ -34,7 +34,7 @@ title: Publications
 </li>
 
 <li>
-Sichani, Anna-Maria. "Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project." RIDE 5 (2017). doi: 10.18716/ride.a.5.2. Accessed: 09.02.2017.
+Sichani, Anna-Maria. <a href="http://ride.i-d-e.de/issues/issue-5/beckettarchive/">"Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project</a>." <em>RIDE</em>, 5 (2017). doi: 10.18716/ride.a.5.2. Accessed: 09.02.2017.
 </li>
 
 <li>
