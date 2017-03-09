@@ -28,10 +28,13 @@ title: Publications
 
 **Reviews**
 <ul>
-
 <li>
 "SonorCities. Learning Culture through City Soundscapes. An Educational Tool"(review), <em>Journal of Modern Greek Studies</em>, Occasional Papers 11, (2016)<br/>
 <embed src="../images/Sonor Cities.pdf" width="500" height="345" type='application/pdf'/>
+</li>
+
+<li>
+Sichani, Anna-Maria. "Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project." RIDE 5 (2017). doi: 10.18716/ride.a.5.2. Accessed: 09.02.2017.
 </li>
 
 <li>
