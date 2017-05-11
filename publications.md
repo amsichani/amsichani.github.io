@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
-**Selective Publications | Writing samples | ORCID**
+**Selective Publications | Writing samples**
 
 <ul>
 <li>
