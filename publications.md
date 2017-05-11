@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
-**Selective Publications | Writing samples | ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a>**
+**Selective Publications | Writing samples | ORCID**
 
 <ul>
 <li>
