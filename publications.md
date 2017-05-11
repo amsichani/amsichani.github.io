@@ -2,8 +2,7 @@
 layout: default
 title: Publications
 ---
-**Selective Publications | Writing samples| **
-**ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> | Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a>**
+**Selective Publications | Writing samples | ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> | Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a>**
 <ul>
 <li>
 “Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <em>Journal of Greek Media &amp; Culture</em>, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]<br/>
