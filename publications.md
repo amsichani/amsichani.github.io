@@ -2,9 +2,9 @@
 layout: default
 title: Publications
 ---
-**Selective Publications | Writing samples** 
+**Selective Publications | Writing samples**
 
-**ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> | Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a>**
+_ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> | Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a>_
 
 <ul>
 <li>
