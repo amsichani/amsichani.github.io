@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Otheritages: Histories, Spaces and Heritages at the transition from the Ottoman Empire to the Greek State
+title: Otheritages. Histories, Spaces and Heritages at the transition from the Ottoman Empire to the Greek State
 ---
   <img src="../images/otheritages.jpg" width="300"/>
 
