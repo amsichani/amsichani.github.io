@@ -2,9 +2,11 @@
 layout: default
 title: Publications
 ---
-**Selective Publications | ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> | Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a>**
+
+**Selective Publications** | ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> | Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a>
  
- **Edited volumes**
+ 
+**Edited volumes**
 <ul>
   <li>
 <em><a href="https://www.sidestone.com/books/advances-in-digital-scholarly-editing">Advances in Digital Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp</a></em>,
@@ -12,7 +14,7 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
 </li>
   </ul>
   
- **Peer-reviewed articles**  
+**Peer-reviewed articles**  
 <ul>
  <li>
 “Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <em>Journal of Greek Media &amp; Culture</em>, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]<br/>
