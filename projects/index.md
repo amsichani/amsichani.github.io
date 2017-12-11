@@ -26,8 +26,8 @@ Here you can find a number of the projects I 've been initiated or helping devel
   </li> 
     <li>
     <a href="../projects/otheritages">
-      <img src="../images/ootheritages.png" width="600px" align="middle">
-      <h2>Greek Humanities and Open Access </h2>
+      <img src="../images/otheritages.png" width="600px" align="middle">
+      <h2> Otheritages: Histories, Spaces and Heritages at the transition from the Ottoman Empire to the Greek State </h2>
     </a>
   </li> 
     <li>
