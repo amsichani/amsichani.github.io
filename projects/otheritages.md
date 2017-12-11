@@ -3,7 +3,8 @@ layout: projects
 title: Otheritages. Histories, Spaces and Heritages at the transition from the Ottoman Empire to the Greek State
 ---
 <figure>
-  <img src="../images/otheritages.jpg" width="300" alt="http://eng.travelogues.gr/item.php?view=52450" / ></figure>
+  <img src="../images/otheritages.jpg" width="300" alt="http://eng.travelogues.gr/item.php?view=52450" />
+</figure>
 
 
 <a href="https://otheritages.efa.gr">Histories, Spaces and Heritages at the transition from the Ottoman Empire to the Greek State</a> is a research project that explores the historical trajectories of urban space from the Ottoman Empire to the modern Greek State. 
