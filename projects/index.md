@@ -9,7 +9,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
   <li>
     <a href="../projects/borndigitalarchive">
       <img src="../images/coreropememory.png" width="600px" align="middle">
-      <h2>Born Digital archive </h2>
+      <h2>Memory technologies: politics and practices of (born)digital archives </h2>
     </a>
   </li> 
   <li>
