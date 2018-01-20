@@ -7,6 +7,12 @@ Here you can find a number of the projects I 've been initiated or helping devel
 -----------------------------------------
   <ul class="projects-images">
   <li>
+    <a href="../projects/borndigitalarchive">
+      <img src="../images/coreropememory.png" width="600px" align="middle">
+      <h2>Born Digital archive </h2>
+    </a>
+  </li> 
+  <li>
     <a href="../projects/correspondence">
       <img src="../images/correspondence1.jpg" width="600px" align="middle">
       <h2>Digital Editions of Correspondence material </h2>
