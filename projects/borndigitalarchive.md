@@ -1,6 +1,6 @@
 ---
-layout:projects
-title:Memory technologies: politics and practices of (born)digital archives
+layout: projects
+title: Memory technologies: politics and practices of (born)digital archives
 ---
 <img src="../images/coreropememory.png" width="700"/>
   
