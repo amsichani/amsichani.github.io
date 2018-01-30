@@ -8,12 +8,10 @@ Teaching and workshops
   <li>
     Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές, DiXiT workshop, 24-28 April 2017, National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
  </li>
-  <li>“The educational and social impact of Digital Scholarly Editions”
-The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD) , Rome, 24 January 2017 
+  <li>“The educational and social impact of Digital Scholarly Editions”, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD) , Rome, 24 January 2017 
   </li>
   <li>
-“Future Publishing Models for Digital Scholarly Editions”
-Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne, 15 March 2016
+“Future Publishing Models for Digital Scholarly Editions”, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne, 15 March 2016
 </li>
 
   <li>
