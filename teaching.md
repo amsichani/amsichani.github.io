@@ -10,7 +10,7 @@ title: Teaching
  </li>
   
   <li>
- Digital Literary Studies. Concepts, methodologies,and tools. University of Ioannina, 2015/2016 Teaching Material
+ Digital Literary Studies. Concepts, methodologies and tools. University of Ioannina, 2015/2016 Teaching Material
   </li>
   
   <li>
