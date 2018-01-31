@@ -6,7 +6,7 @@ title: Teaching
 Teaching and workshops 
 <ul>
   <li>
-    Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές, DiXiT workshop,  National Library of Greece, Athens, 24-28 April 2017  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
+    "Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές", DiXiT workshop,  National Library of Greece, Athens, 24-28 April 2017  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
  </li>
   <li>“The educational and social impact of Digital Scholarly Editions”, DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome, 24 January 2017 <a href="https://dixit.hypotheses.org/1268"> Report </a>
   </li>
