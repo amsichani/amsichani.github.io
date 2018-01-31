@@ -15,7 +15,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
   <li>
     <a href="../projects/correspondence">
       <img src="../images/correspondence1.jpg" width="600px" align="middle">
-      <h2>Digital Editions of Correspondence material </h2>
+      <h2> Data modelling and encoding: Digital Editions of Correspondence material </h2>
     </a>
   </li>
  <li>
