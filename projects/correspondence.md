@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Data modelling and encoding: Digital Editions of Correspondence material
+title: Data modelling and encoding. Digital Editions of Correspondence material
 ---
 <a href="http://www.europeana1914-1918.eu/nl/contributions/3436"><img src="../images/correspondence1.jpg" width="500"/></a>
 
