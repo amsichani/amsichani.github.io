@@ -1,6 +1,6 @@
 ---
 layout: projects
-title: Digital Neohellenist
+title: DH t(r)ip της Παρασκευής
 ---
 <img src="../images/dhtrip.png" width="600"/>
 
