@@ -4,8 +4,6 @@ title: Cost efficiency and monetization models for Digital Scholarly Editions
 ---
 <a href="https://en.wikipedia.org/wiki/Alaska_Purchase#/media/File:Alaska_Purchase_(hi-res).jpg"><img src="../images/DSEcosts.jpg" width="800"/></a>
 
-
-
 As part of my DiXiT fellowship, I aim to investigate, challenge and overall experiment with various concepts, business models and partnerships that will ensure for the digital scholarly edition a well-situated and sustainable future within the ecology of digital scholarly publishing and communication.
 
 Central questions in my research are:
