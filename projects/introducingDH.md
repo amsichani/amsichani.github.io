@@ -9,4 +9,4 @@ Based on genre pieces and intellectual maps produced by Humanities Computing/Dig
 
 I am presenting a first draft of this research at the Conference <a href="https://www.rchumanities.gr/psifiakes-anthropistikes-epistimes-s/">«Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις» (Digital Humanities in Greece )</a> of the Research Center for the Humanities, 16 February 2017.
 
- Here is a <a href="../images/Bibliography_DH_RCH.docx"> draft bibliography</a> of the presentation. 
+ Here is a <a href="../images/Bibliography_DH_RCH.pdf"> draft bibliography</a> of the presentation. 
