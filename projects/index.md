@@ -33,7 +33,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
   
  <li>
    <a href="../projects/introducingDH">
-      <img src="../images/IntroDH.jpg" width="600px" align="middle">
+      <img src="../images/IntroDH.jpg" width="800px" align="middle">
       <h2>Introducing Digital Humanities through genre pieces and intellectual maps</h2>
    </a>
   </li>
