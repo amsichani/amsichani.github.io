@@ -1,10 +1,8 @@
-
-
 ---
 layout: projects
 title: Introducing Digital Humanities
 ---
-<a href="https://en.wikipedia.org/wiki/Alaska_Purchase#/media/File:Alaska_Purchase_(hi-res).jpg"><img src="../images/DSEcosts.jpg" width="800"/></a>
+<a href=""><img src="../images/introDH.jpg" width="800"/></a>
 
 This is an ongoing project that I 've undertaken as part of my research interest on the history/oes of Digital Humanities.
 Based on genre pieces and intellectual maps produced by Humanities Computing/Digital Humanities (early and current) practitioners throught the history of the field, I am exploring the development of the field and the vatious approaches between the Humanities and computation technologies.
