@@ -7,5 +7,6 @@ title: Introducing Digital Humanities
 This is an ongoing project that I 've undertaken as part of my research interest on the history/oes of Digital Humanities.
 Based on genre pieces and intellectual maps produced by Humanities Computing/Digital Humanities (early and current) practitioners throught the history of the field, I am exploring the development of the field and the vatious approaches between the Humanities and computation technologies.
 
-I am presenting a first draft of this research at the Conference <a href="https://www.rchumanities.gr/psifiakes-anthropistikes-epistimes-s/">«Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις» (Digital Humanities in Greece )</a>, 16 February 2017.
- Here is a <embed src="../images/Zei_to_logotexniko_parelthon_Sichani_CCBY.pdf" width="500" height="345" type='application/pdf'/> shorthand for the bibliography</a> of the presentation. 
+I am presenting a first draft of this research at the Conference <a href="https://www.rchumanities.gr/psifiakes-anthropistikes-epistimes-s/">«Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις» (Digital Humanities in Greece )</a> of the Research Center for the Humanities, 16 February 2017.
+
+ Here is a <a href="../images/Bibliography_RCH_DH.pdf"> draft bibliography</a> of the presentation. 
