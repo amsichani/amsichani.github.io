@@ -2,7 +2,7 @@
 layout: projects
 title: Introducing Digital Humanities
 ---
-<a href=""><img src="../images/introDH.jpg" width="800"/></a>
+<a href=""><img src="../images/IntroDH.jpg" width="800"/></a>
 
 This is an ongoing project that I 've undertaken as part of my research interest on the history/oes of Digital Humanities.
 Based on genre pieces and intellectual maps produced by Humanities Computing/Digital Humanities (early and current) practitioners throught the history of the field, I am exploring the development of the field and the vatious approaches between the Humanities and computation technologies.
