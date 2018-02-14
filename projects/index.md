@@ -30,6 +30,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
       <h2>Sustainability and Maintenance of Digital Humanties Projects </h2>
     </a>
   </li> 
+  
  <li>
    <a href="../projects/introducingDH">
       <img src="../images/IntroDH.jpg" width="600px" align="middle">
