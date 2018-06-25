@@ -23,6 +23,12 @@ DiXiT Convention 2, 'Digital Editions: Academia, Society, Cultural Heritage', Un
 You can find  the slides of my presentation <a href="../images/beyondoa.pdf">here</a> as well as the <a href="../images/BeyondOA_extended_abstract.pdf">extended abstract</a>
 </li>
 
+
+<li>«‘Read by ear’: Literature and Sound Technologies During the Greek Long Sixties» <br/>
+Seventh International Graduate Student Conference in Modern Greek Studies, Seeger Center for
+Hellenic Studies, Princeton University, 5 Μαΐου 2015, http://www.princeton.edu/~hellenic/GradStudentConf15/.<br/>
+
+
 <li>Ποιος φοβάται το ψηφιακό περιεχόμενο στη Νεοελληνική Φιλολογία;” <br/>
 
 Ημερίδα 'Ψηφιακές Τεχνολογίες και Νεοελληνική Φιλολογία. Ο φιλόλογος ως δημιουργός, διαχειριστής και χρήστης ψηφιακού περιεχομένου”, Πανεπιστημίο Πατρών – Τμήμα Φιλολογίας / ΠΜΣ “Σύγχρονες προσεγγίσεις στη γλώσσα και στα κείμενα' – Ειδίκευση Νεοελληνικής Φιλολογίας, 22 Οκτωβρίου 2014<br/>
