@@ -26,7 +26,10 @@ You can find  the slides of my presentation <a href="../images/beyondoa.pdf">her
 
 <li>«‘Read by ear’: Literature and Sound Technologies During the Greek Long Sixties» <br/>
 Seventh International Graduate Student Conference in Modern Greek Studies, Seeger Center for
-Hellenic Studies, Princeton University, 5 Μαΐου 2015, http://www.princeton.edu/~hellenic/GradStudentConf15/.<br/>
+Hellenic Studies, Princeton University, 5 May 2015 <br/>
+
+You can find  the abstract of my presentation 
+</li>
 
 
 <li>Ποιος φοβάται το ψηφιακό περιεχόμενο στη Νεοελληνική Φιλολογία;” <br/>
