@@ -25,7 +25,7 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
 
 <ul>
  <li>
-Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. Diversity and inclusion in digital scholarship and pedagogy: the case of The Programming Historian.  Insights, 32(1), p.16. DOI: http://doi.org/10.1629/uksg.465
+Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. "Diversity and inclusion in digital scholarship and pedagogy: the case of The Programming Historian",  <i>Insights</i>, 32(1),  DOI: http://doi.org/10.1629/uksg.465
    </li>
      <li>
 James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1, DOI: http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#
@@ -40,7 +40,7 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
  </li>
 
  <li>
-“Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <i>Journal of Greek Media &amp; Culture</i>, Volume 1, Number 2, October 2015, pp. 321-337. DOI: http://dx.doi.org/10.1386/jgmc.1.2.321_1
+“Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <i>Journal of Greek Media &amp; Culture</i>, Volume 1, Number 2, October 2015, pp. 321-337. DOI: http://doi.org/10.1386/jgmc.1.2.321_1
 <embed src="../images/webcavafy.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 
