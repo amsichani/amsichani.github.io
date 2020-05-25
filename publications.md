@@ -5,7 +5,7 @@ title: Publications
 
 **Selective Publications** 
 <p>ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
-| Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a> </p> 
+| Full list of publishing activity at <a href="https://profiles.sussex.ac.uk/p453466-anna-maria-sichani">Elements</a> </p> 
 
 **Edited Special Journal Issues**
 
@@ -28,7 +28,7 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
 Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. "Diversity and inclusion in digital scholarship and pedagogy: the case of The Programming Historian",  <i>Insights</i>, 32(1),  DOI: http://doi.org/10.1629/uksg.465
    </li>
      <li>
-James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1, DOI: http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#
+James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1
  </li>
   <li>
 Merisa Martinez, Wout Dillen, Elli Bleeker, Anna-Maria Sichani, Aodhán Kelly, “<a href="https://doi.org/10.4000/variants.1070">  Refining our conceptions of ‘access’ in digital scholarly editing: Reflections on a qualitative survey on inclusive design and dissemination</a>”, <i>Variants</i>, 2019, DOI: https://doi.org/10.4000/variants.1070
