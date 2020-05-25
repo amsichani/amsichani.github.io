@@ -67,13 +67,13 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
  “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>,  (forthcoming)
  </li>
  <li>
- “Anemoskala: corpus and concordances for major Modern Greek poets”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018 https://ride.i-d-e.de/issues/issue-8/anemoskala/ 
+<a href="https://ride.i-d-e.de/issues/issue-8/anemoskala/"> "Anemoskala: corpus and concordances for major Modern Greek poets</a>”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018, DOI: 10.18716/ride.a.8.1
 </li>
  <li>
 “Kostis Kornetis, Eirini Kotsovili, and Nikolaos Papadogiannis, (eds), Consumption and Gender in Southern Europe since the Long 1960s. London: Bloomsbury. 2016 (review)”, <i>Journal of Modern Greek Studies</i>,  35: 2, October 2017.
 </li>
  <li>
-"<a href="http://ride.i-d-e.de/issues/issue-5/beckettarchive/>Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project</a>", <i>A review journal for digital editions and resources (RIDE)</i>, 5, 2017   doi: 10.18716/ride.a.5.2
+<a href="http://ride.i-d-e.de/issues/issue-5/beckettarchive/">"Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project </a>", <i>A review journal for digital editions and resources (RIDE)</i>, 5, 2017   DOI: 10.18716/ride.a.5.2
 </li>
  <li>
 “Hayden White, Λογοτεχνική θεωρία και ιστορική συγγραφή, μετάφραση Γιώργος Πινακούλας, Επιμέλεια έκδοσης - Υπεύθυνος σειράς: Βαγγέλης Γαλάνης, Τρίκαλα, εκδόσεις Επέκεινα, 2015 (review),<i> Μνήμων</i>, 35, 2016. DOI: https://doi.org/10.12681/mnimon.20306
