@@ -7,8 +7,12 @@ title: Publications
 <p>ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
 | Full list of publishing activity at <a href="https://pure.knaw.nl/portal/en/persons/annamaria-sichani(339961e5-63cb-4747-8f1e-d7be5e90170a).html">PURE</a> </p> 
 
- 
+**Edited Special Journal Issues**
+ Anna-Maria Sichani, Elena Spadini(editors), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing</a> (special issue), <i>A review journal for digital editions and resources (RIDE)</i>, Issue 11, January 2020
+
+
 **Edited volumes**
+
 <ul>
   <li>
 <em><a href="https://www.sidestone.com/books/advances-in-digital-scholarly-editing">Advances in Digital Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp</a></em>,
@@ -17,7 +21,23 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
   </ul>
   
 **Peer-reviewed articles**  
+
 <ul>
+ <li>
+Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. Diversity and inclusion in digital scholarship and pedagogy: the case of The Programming Historian.  Insights, 32(1), p.16. DOI: http://doi.org/10.1629/uksg.465
+   </li>
+     <li>
+James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1, http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#
+ </li>
+  <li>
+Merisa Martinez, Wout Dillen, Elli Bleeker, Anna-Maria Sichani, Aodhán Kelly, “<a href="https://doi.org/10.4000/variants.1070">  Refining our conceptions of ‘access’ in digital scholarly editing: Reflections on a qualitative survey on inclusive design and dissemination</a>”, <i>Variants</i>, 2019 doi: 
+
+ </li>
+
+ <li>
+“ ‘Making such bargain’: Transcribe Bentham and the quality and cost-effectiveness of crowdsourced transcription” , Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras, <i>Digital Scholarship in the Humanities</i>, 2018 doi : https://doi.org/10.1093/llc/fqx064 
+ </li>
+
  <li>
 “Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <em>Journal of Greek Media &amp; Culture</em>, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]<br/>
 <embed src="../images/webcavafy.pdf" width="500" height="345" type='application/pdf'/>
@@ -42,6 +62,21 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
 
 **Reviews**
 <ul>
+  <li>
+ “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005).  2015 (review)”, Historein,  (forthcoming)
+ </li>
+ <li>
+ “Anemoskala: corpus and concordances for major Modern Greek poets”, A review journal for digital editions and resources (RIDE), 8, 2018 https://ride.i-d-e.de/issues/issue-8/anemoskala/ 
+</li>
+ <li>
+“Kostis Kornetis, Eirini Kotsovili, and Nikolaos Papadogiannis, (eds), Consumption and Gender in Southern Europe since the Long 1960s. London: Bloomsbury. 2016 (review)”, Journal of Modern Greek Studies,  35: 2, October 2017.
+</li>
+ <li>
+"Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project", A review journal for digital editions and resources (RIDE), 5, 2017 http://ride.i-d-e.de/issues/issue-5/beckettarchive/ 
+</li>
+ <li>
+“Hayden White, Λογοτεχνική θεωρία και ιστορική συγγραφή, μετάφραση Γιώργος Πινακούλας, Επιμέλεια έκδοσης - Υπεύθυνος σειράς: Βαγγέλης Γαλάνης, Τρίκαλα, εκδόσεις Επέκεινα, 2015 (review), Μνήμων, 35: 2016. https://doi.org/10.12681/mnimon.20306
+ </li>
 <li>
 "SonorCities. Learning Culture through City Soundscapes. An Educational Tool"(review), <em>Journal of Modern Greek Studies</em>, Occasional Papers 11, (2016)<br/>
 <embed src="../images/Sonor Cities.pdf" width="500" height="345" type='application/pdf'/>
@@ -60,5 +95,4 @@ Sichani, Anna-Maria. <a href="http://ride.i-d-e.de/issues/issue-5/beckettarchive
 
 <li>“Adam Hammond, Literature in the Digital Age. An introduction”, <em> Digital Literary Studies</em>, (forthcoming)</li>
 
-<li>“Matthew Kirschenbaum, Track Changes: A Literary History of Word Processing”, (forthcoming)</li>
 </ul>
