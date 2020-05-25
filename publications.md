@@ -36,7 +36,7 @@ Merisa Martinez, Wout Dillen, Elli Bleeker, Anna-Maria Sichani, Aodhán Kelly, �
  </li>
 
  <li>
-“ ‘Making such bargain’: Transcribe Bentham and the quality and cost-effectiveness of crowdsourced transcription” , Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras, <i>Digital Scholarship in the Humanities</i>, 2018 , DOI: https://doi.org/10.1093/llc/fqx064 
+Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making such bargain’: Transcribe Bentham and the quality and cost-effectiveness of crowdsourced transcription”, <i>Digital Scholarship in the Humanities</i>, 2018 , DOI: https://doi.org/10.1093/llc/fqx064 
  </li>
 
  <li>
