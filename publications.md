@@ -9,7 +9,7 @@ title: Publications
 
 **Edited Special Journal Issues**
 
-Anna-Maria Sichani, Elena Spadini(editors), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing</a> (special issue), <i>A review journal for digital editions and resources (RIDE)</i>, Issue 11, January 2020
+Anna-Maria Sichani, Elena Spadini(editors), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing</a> (special issue), <i>A review journal for digital editions and resources (RIDE)</i>, Issue 11, January 2020 
 
 
 **Edited volumes**
@@ -40,7 +40,7 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
  </li>
 
  <li>
-“Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <i>Journal of Greek Media &amp; Culture</i>, Volume 1, Number 2, October 2015, pp. 321-337. [doi: http://dx.doi.org/10.1386/jgmc.1.2.321_1]<br/>
+“Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <i>Journal of Greek Media &amp; Culture</i>, Volume 1, Number 2, October 2015, pp. 321-337. DOI: http://dx.doi.org/10.1386/jgmc.1.2.321_1
 <embed src="../images/webcavafy.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 
@@ -64,16 +64,16 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 **Reviews**
 <ul>
   <li>
- “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>,  (forthcoming)
+ “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>, (forthcoming)
  </li>
  <li>
-<a href="https://ride.i-d-e.de/issues/issue-8/anemoskala/"> "Anemoskala: corpus and concordances for major Modern Greek poets</a>”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018, DOI: 10.18716/ride.a.8.1
+<a href="https://ride.i-d-e.de/issues/issue-8/anemoskala/"> "Anemoskala: corpus and concordances for major Modern Greek poets</a>”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018, DOI: https://doi.org/10.18716/ride.a.8.1
 </li>
  <li>
 “Kostis Kornetis, Eirini Kotsovili, and Nikolaos Papadogiannis, (eds), Consumption and Gender in Southern Europe since the Long 1960s. London: Bloomsbury. 2016 (review)”, <i>Journal of Modern Greek Studies</i>,  35: 2, October 2017.
 </li>
  <li>
-<a href="http://ride.i-d-e.de/issues/issue-5/beckettarchive/">"Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project </a>", <i>A review journal for digital editions and resources (RIDE)</i>, 5, 2017   DOI: 10.18716/ride.a.5.2
+<a href="http://ride.i-d-e.de/issues/issue-5/beckettarchive/">"Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project </a>", <i>A review journal for digital editions and resources (RIDE)</i>, 5, 2017   DOI: https://doi.org/10.18716/ride.a.5.2
 </li>
  <li>
 “Hayden White, Λογοτεχνική θεωρία και ιστορική συγγραφή, μετάφραση Γιώργος Πινακούλας, Επιμέλεια έκδοσης - Υπεύθυνος σειράς: Βαγγέλης Γαλάνης, Τρίκαλα, εκδόσεις Επέκεινα, 2015 (review),<i> Μνήμων</i>, 35, 2016. DOI: https://doi.org/10.12681/mnimon.20306
