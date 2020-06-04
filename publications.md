@@ -9,7 +9,7 @@ title: Publications
 
 **Edited Special Journal Issues**
 
-Anna-Maria Sichani, Elena Spadini(editors), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing</a> (special issue), <i>A review journal for digital editions and resources (RIDE)</i>, Issue 11, January 2020 
+Anna-Maria Sichani, Elena Spadini (ed.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing</a> (special issue), <i>A review journal for digital editions and resources (RIDE)</i>, Issue 11, January 2020 
 
 
 **Edited volumes**
@@ -64,7 +64,7 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 **Reviews**
 <ul>
   <li>
- “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>, (forthcoming)
+ “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>, 19:1, 2020 https://ejournals.epublishing.ekt.gr/pfiles/journals/14/editor-uploads/issues/1165/main1165.html?1=1165&2=19495 , DOI: 
  </li>
  <li>
 <a href="https://ride.i-d-e.de/issues/issue-8/anemoskala/"> "Anemoskala: corpus and concordances for major Modern Greek poets</a>”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018, DOI: https://doi.org/10.18716/ride.a.8.1
