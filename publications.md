@@ -44,7 +44,7 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 <embed src="../images/webcavafy.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 
-<li>"Ζει το λογοτεχνικό παρελθόν; Πρακτικές μνήμης γύρω από το λογοτεχνικό παρελθόν στη μακρά δεκαετία του 60", 
+<li> <a href="https://amsichani.github.io/images/Zei_to_logotexniko_parelthon_Sichani_CCBY.pdf"> "Ζει το λογοτεχνικό παρελθόν; Πρακτικές μνήμης γύρω από το λογοτεχνικό παρελθόν στη μακρά δεκαετία του 60", </a>
 Μικρή λίστα - Βραβείο Μουλλά 2016 
 <embed src="../images/Zei_to_logotexniko_parelthon_Sichani_CCBY.pdf" width="500" height="345" type='application/pdf'/>
 </li>
