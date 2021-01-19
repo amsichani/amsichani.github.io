@@ -6,6 +6,12 @@ Here you can find a number of the projects I 've been initiated or helping devel
 
 -----------------------------------------
   <ul class="projects-images">
+  <li>
+    <a href="../projects/ph">
+      <img src="../images/ph.jpg" width="600px" align="middle">
+      <h2>The Programming Historian</h2>
+    </a>
+  </li>  
  <li>
     <a href="../projects/ssi">
       <img src="../images/ssi.jpg" width="600px" align="middle">
