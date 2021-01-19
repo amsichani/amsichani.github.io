@@ -3,7 +3,7 @@ layout: projects
 title: Software Sustainability Institute Fellowship
 
 ---
-<a href=""><img src="../images/ssi.jpg" width="500"/></a>
+<a href=""><img src="../images/ssi.jpg" width="700"/></a>
 
 
 Early in 2020 I was awarded a prestigious and competitive <a href="https://www.software.ac.uk/about/fellows/anna-maria-sichani"> Software Sustainability Institute Fellowship</a>!  
