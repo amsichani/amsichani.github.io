@@ -3,7 +3,7 @@ layout : projects
 title : The Programming Historian  
 ---
 
-<img src="../images/ph.jpg" width="700"/>
+<img src="../images/ph.jpg" width="400"/>
 
 <a href="https://programminghistorian.org">The Programming Historian</a> is a peer-reviewed, multilingual (English, French, Spanish and Portuguese) academic journal of digital humanities and digital history methodology.  The Programming Historian publishes novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques and workflows to facilitate research and teaching.  
 
