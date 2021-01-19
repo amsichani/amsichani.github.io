@@ -4,7 +4,7 @@ title: Data modeling and encoding. Digital Editions of Correspondence material
 ---
 <a href="http://www.europeana1914-1918.eu/nl/contributions/3436"><img src="../images/correspondence1.jpg" width="500"/></a>
 
-Given my strong interest and experience in data modelling as well as in digital representation and processing of modern manuscript sources, I am currently working towards a model for the encoding of correspondence material using TEI P5.
+Given my strong interest and experience in data modeling as well as in digital representation and processing of modern manuscript sources, I am currently working towards a model for the encoding of correspondence material using TEI P5.
 
 Parenthetically but of great importance: data modeling is a <a href="http://digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-7"> central</a> but currently under-represented in scholarly literature topic in digital humanities (see the recent Volkswagen Foundation-funded project <a href="http://modellingdh.eu"> Modelling Between Digital and Humanities: Thinking in Practice</a>). I tend to see data modelling as the 'conceptual glue' between the understandings that scholars have of their research objects and the affordances of a particular computational technology. In our case, working with textual manuscript sources and their transcriptions and wishing to use/conform to TEI Guidelines, we need to develop a model in order to map our scholarly understndings/assumptions/needs to the TEI vocabulary and rules. 
 
