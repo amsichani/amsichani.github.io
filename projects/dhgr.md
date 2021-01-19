@@ -5,7 +5,7 @@ title: The Greek Digital Humanities Research Network | Ελληνικό Ερευ
 <a href=""><img src="../images/dh_gr.jpg" width="500"/></a>
 
 
-The <a href="https://dhgrnetwork.org/> Greek Digital Humanities Research Network (DH_GR)</a> is a newly-established, research-led initiative aiming to promote, support and facilitate the development of Digital Humanities in Greece, Cyprus, and among Greek-speaking research communities. The network was conceived and created following discussions in Athens, in early 2018, among Greek-speaking researchers, coming from different backgrounds, about the need for more coordinated, bottom-up efforts to support collaboration among institutions and individuals and encourage young researchers and new audiences and communities to enter the digital humanities field and practice.
+The <a href="https://dhgrnetwork.org/"> Greek Digital Humanities Research Network (DH_GR)</a> is a newly-established, research-led initiative aiming to promote, support and facilitate the development of Digital Humanities in Greece, Cyprus, and among Greek-speaking research communities. The network was conceived and created following discussions in Athens, in early 2018, among Greek-speaking researchers, coming from different backgrounds, about the need for more coordinated, bottom-up efforts to support collaboration among institutions and individuals and encourage young researchers and new audiences and communities to enter the digital humanities field and practice.
 
 I am a member of the coordinating team of the network. 
 
