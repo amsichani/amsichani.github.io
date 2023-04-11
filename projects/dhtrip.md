@@ -10,4 +10,4 @@ title: DH t(r)ip της Παρασκευής
 
 The *dream* t(r)ip team: Dido Georgoula, Gerasimos Chrysovitsanos, Anna-Maria Sichani, Irakleitos Souyioutzoglou.
 
-The project is now maintained in <a href="http://dh-trip.tumblr.com"> tumblr</a> / Copyright - All Rights Reserved © Academy of Athens-DARIAH GR/DYAS 
+The project is now maintained in <a href="[http://dh-trip.tumblr.com](http://nema.dyas-net.gr/category/dh-trip/)"> Nema- DYAS</a> / Copyright - All Rights Reserved © Academy of Athens-DARIAH GR/DYAS 
