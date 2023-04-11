@@ -6,6 +6,14 @@ Here you can find a number of the projects I 've been initiated or helping devel
 
 -----------------------------------------
   <ul class="projects-images">
+    <li>
+    <a href="../projects/AHRC_fellowship">
+      <img src="../images/AHRC.jpg" width="600px" align="middle">
+      <h2>UKRI-AHRC Policy and Engagement Fellowship in Digital Research and Innovation Infrastructure</h2>
+    </a>
+  </li> 
+ 
+  
   <li>
     <a href="../projects/ph">
       <img src="../images/ph.jpg" width="600px" align="middle">
