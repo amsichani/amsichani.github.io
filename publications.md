@@ -5,14 +5,12 @@ title: Publications
 
 **Selective Publications** 
 <p>ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
-| Full list of publishing activity at <a href="https://profiles.sussex.ac.uk/p453466-anna-maria-sichani">Elements</a> </p> 
-
+ 
 
 **Chapters**
 
 <ul>
   <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, Bloomsbury 2023, pp.317-324</li> 
-
 
  <li>Anna-Maria Sichani, James Baker, Alice Eldridge, Ben Roberts, Suzanne Tatham, Amelia Wakeford, Jo Walton , Sharon Webb and SHL team, “How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab”, Digital Humanities Laboratories: Global Perspectives, Editors: Urszula Pawlicka-Deger and Christopher Thomson ,  Routledge (Digital Research in the Arts and Humanities Series), (forthcoming)</li> 
 
@@ -29,7 +27,7 @@ title: Publications
 Anna-Maria Sichani, Spadini E. (eds), <a href="https://ride.i-d-e.de/issues/issue-15/"> “Tools and Environments for Digital Scholarly Editing (special issue) </a>, <i>RIDE: A review journal for digital editions and resources</i>,  Issue 15 , December 2022. </li>
 
 <li>
-Anna-Maria Sichani, Elena Spadini (ed.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing (special issue), </a> <i>RIDE: A review journal for digital editions and resources </i>, Issue 11, January 2020 
+Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing (special issue), </a> <i>RIDE: A review journal for digital editions and resources </i>, Issue 11, January 2020 
 </li>
   </ul>
 
@@ -46,17 +44,17 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
 
 <ul>
   
- <li> Sichani Anna-Maria, Jane Winters, ῾The role of Digital Humanities in an interdisciplinary research project᾽, Science Museum Journal, 2022 https://dx.doi.org/10.15180/221812/001 </li>
+ <li> Sichani Anna-Maria, Jane Winters, ῾The role of Digital Humanities in an interdisciplinary research project᾽, Science Museum Journal, 2022, DOI: https://dx.doi.org/10.15180/221812/001 </li>
 
-<li>Sichani A.-M., Hendy , D., "Connected Histories of the BBC: Opening up the BBC oral history archive to the digital domain" , Journal on Computing and Cultural Heritage (JOCCH), Volume 15, Issue 1, February 2022, p 1–16 https://doi.org/10.1145/3480954 </li>
+<li>Sichani A.-M., Hendy , D., "Connected Histories of the BBC: Opening up the BBC oral history archive to the digital domain" , Journal on Computing and Cultural Heritage (JOCCH), Volume 15, Issue 1, February 2022, p 1–16 DOI: https://doi.org/10.1145/3480954 </li>
 
 <li>“The multiple lives of the Cavafy Archive. Microfilms, index cards, catalogues and Web: towards a material and archival history of The Cavafy Archive". <i>Historica</i>, 73, 2021, p.187-210 |“Οι πολλαπλές ζωές του Αρχείου Καβάφη. Μικροφίλμ, δελτία, κατάλογοι και
   διαδίκτυο: πρός μια υλική και αρχειακή ιστορία του Αρχείου Καβάφη”, <i>Τα ιστορικά</i>, 73, 2021, p.187-210 (in Greek) </li>
 
-<li>“Documentary reproduction and storage technologies for textual assets and historical research in postwar Greece”, <i>Mnimon</i>, 38, 2021, p. 203-226 (in Greek)|“Τα τεχνικά μέσα”: Τεχνολογίες αναπαραγωγής & αποθήκευσης κειμενικών τεκμηρίων και ιστορικοφιλολογική έρευνα στη μεταπολεμική και μεταπολιτευτική Ελλάδα: η περίπτωση του Κέντρου Νεοελληνικών Ερευνων,<i> Μνήμων</i>, 38,</li>
+<li>“Documentary reproduction and storage technologies for textual assets and historical research in postwar Greece”, <i>Mnimon</i>, 38, 2021, p. 203-226 |“Τα τεχνικά μέσα”: Τεχνολογίες αναπαραγωγής & αποθήκευσης κειμενικών τεκμηρίων και ιστορικοφιλολογική έρευνα στη μεταπολεμική και μεταπολιτευτική Ελλάδα: η περίπτωση του Κέντρου Νεοελληνικών Ερευνων,<i> Μνήμων</i>, 38,203-226 (in Greek)</li>
 
  
- <li>Dimitris C. Papadopoulos, Anna-Maria Sichani, “Heritage in transition and the challenge of Digital Humanities”, <i>Bulletin de Correspondance Hellénique, École française d'Athènes</i>, 2021 https://doi.org/10.4000/bchmc.841  </li> 
+ <li>Dimitris C. Papadopoulos, Anna-Maria Sichani, “Heritage in transition and the challenge of Digital Humanities”, <i>Bulletin de Correspondance Hellénique, École française d'Athènes</i>, 2021, DOI: https://doi.org/10.4000/bchmc.841  </li> 
 
  <li>
 Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. "Diversity and inclusion in digital scholarship and pedagogy: the case of The Programming Historian",  <i>Insights</i>, 32(1),  DOI: http://doi.org/10.1629/uksg.465
@@ -94,7 +92,6 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 
 
 <li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <i>Διαβάζω</i>, 530, 6/2012.
-<embed src="../images/DIAVAZO_DSE.pdf" width="500" height="375" type='application/pdf'/>
 </li>
 </ul>
 
@@ -113,7 +110,7 @@ Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo. https://doi
 <a href="https://ride.i-d-e.de/issues/issue-8/anemoskala/"> "Anemoskala: corpus and concordances for major Modern Greek poets</a>”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018, DOI: https://doi.org/10.18716/ride.a.8.1
 </li>
  <li>
-“Kostis Kornetis, Eirini Kotsovili, and Nikolaos Papadogiannis, (eds), Consumption and Gender in Southern Europe since the Long 1960s. London: Bloomsbury. 2016 (review)”, <i>Journal of Modern Greek Studies</i>,  35: 2, October 2017.
+“Kostis Kornetis, Eirini Kotsovili, and Nikolaos Papadogiannis, (eds), Consumption and Gender in Southern Europe since the Long 1960s. London: Bloomsbury. 2016 (review)”, <i>Journal of Modern Greek Studies</i>,  35: 2, October 2017. DOI: 10.1353/mgs.2017.0036
 </li>
  <li>
 <a href="http://ride.i-d-e.de/issues/issue-5/beckettarchive/">"Literary drafts, genetic criticism and computational technology. The Beckett Digital Manuscript Project </a>", <i>A review journal for digital editions and resources (RIDE)</i>, 5, 2017   DOI: https://doi.org/10.18716/ride.a.5.2
