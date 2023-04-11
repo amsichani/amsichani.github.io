@@ -17,4 +17,4 @@ My cross- and interdisciplinary interest and expertise centres on the changing m
 Through my formal teaching training (PGCertHE, Carpentries Instructor) as well as my research-informed, inclusive, flexible and accessible teaching ethos, in my pedagogy I seek to communicate and promote creative uses of digital technology to the arts, humanities, and the wider cultural heritage field as well as a critical reflection regarding their application for remediating the human past and memory. I am actively organising and delivering various workshops and courses via innovative training platforms, enabling open and distance learning (Carpentries, Programming Historian), for interdisciplinary, multicultural and multilingual audiences, I am experienced while flexible in designing, structuring, adjusting and delivering lessons, while incorporating innovative teaching methods and current approaches on learning, assessment and feedback provision. 
 
 
-[Selective Publications](publications)
+[Selective Publications](publications.md)
