@@ -48,13 +48,12 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
   
  <li> Sichani Anna-Maria, Jane Winters, ῾The role of Digital Humanities in an interdisciplinary research project᾽, Science Museum Journal, 2022 https://dx.doi.org/10.15180/221812/001 </li>
 
-<li>ichani A.-M., Hendy , D., "Connected Histories of the BBC: Opening up the BBC oral history archive to the digital domain" , Journal on Computing and Cultural Heritage (JOCCH), Volume 15, Issue 1, February 2022, p 1–16 https://doi.org/10.1145/3480954 </li>
+<li>Sichani A.-M., Hendy , D., "Connected Histories of the BBC: Opening up the BBC oral history archive to the digital domain" , Journal on Computing and Cultural Heritage (JOCCH), Volume 15, Issue 1, February 2022, p 1–16 https://doi.org/10.1145/3480954 </li>
 
 <li>“The multiple lives of the Cavafy Archive. Microfilms, index cards, catalogues and Web: towards a material and archival history of The Cavafy Archive". <i>Historica</i>, 73, 2021, p.187-210 |“Οι πολλαπλές ζωές του Αρχείου Καβάφη. Μικροφίλμ, δελτία, κατάλογοι και
   διαδίκτυο: πρός μια υλική και αρχειακή ιστορία του Αρχείου Καβάφη”, <i>Τα ιστορικά</i>, 73, 2021, p.187-210 (in Greek) </li>
 
-<li>“Documentary reproduction and storage technologies for textual assets and historical research in postwar Greece”, <i>Mnimon</i>, 38, 2021, p. 203-226 (in Greek)|“Τα τεχνικά μέσα”: Τεχνολογίες αναπαραγωγής & αποθήκευσης κειμενικών τεκμηρίων και ιστορικοφιλολογική έρευνα στη μεταπολεμική και μεταπολιτευτική Ελλάδα:
-  η περίπτωση του Κέντρου Νεοελληνικών Ερευνων,<i> Μνήμων</i>, 38,</li>
+<li>“Documentary reproduction and storage technologies for textual assets and historical research in postwar Greece”, <i>Mnimon</i>, 38, 2021, p. 203-226 (in Greek)|“Τα τεχνικά μέσα”: Τεχνολογίες αναπαραγωγής & αποθήκευσης κειμενικών τεκμηρίων και ιστορικοφιλολογική έρευνα στη μεταπολεμική και μεταπολιτευτική Ελλάδα: η περίπτωση του Κέντρου Νεοελληνικών Ερευνων,<i> Μνήμων</i>, 38,</li>
 
  
  <li>Dimitris C. Papadopoulos, Anna-Maria Sichani, “Heritage in transition and the challenge of Digital Humanities”, <i>Bulletin de Correspondance Hellénique, École française d'Athènes</i>, 2021 https://doi.org/10.4000/bchmc.841  </li> 
@@ -63,11 +62,11 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
 Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. "Diversity and inclusion in digital scholarship and pedagogy: the case of The Programming Historian",  <i>Insights</i>, 32(1),  DOI: http://doi.org/10.1629/uksg.465
    </li>
   
-  <li>Sichani AM, Kaddas P, Mikros GK, Gatos B. “OCR for Greek polytonic (multi accent) historical printed documents: Development, optimization and quality control”,  ACM International Conference Proceeding Series. 9-13. 08 May 2019, <i>DATeCH2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage</i>, May 2019, p 9–13, DOI: https://doi.org/10.1145/3322905.3322926</li>
-
-     <li>
-James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1
+  <li>Sichani AM, Kaddas P, Mikros GK, Gatos B. “OCR for Greek polytonic (multi accent) historical printed documents: Development, optimization and quality control”,  ACM International Conference Proceeding Series. 9-13. 08 May 2019, <i>DATeCH2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage</i>, May 2019, p. 9–13, DOI: https://doi.org/10.1145/3322905.3322926 </li>
+  
+<li>James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1
  </li>
+  
   <li>
 Merisa Martinez, Wout Dillen, Elli Bleeker, Anna-Maria Sichani, Aodhán Kelly, “<a href="https://doi.org/10.4000/variants.1070">  Refining our conceptions of ‘access’ in digital scholarly editing: Reflections on a qualitative survey on inclusive design and dissemination</a>”, <i>Variants</i>, 2019, DOI: https://doi.org/10.4000/variants.1070
 
