@@ -101,14 +101,13 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 **Reports**
 <ul>
   <li>Shoaib Sufi, Emily Bell, & Anna-Maria Sichani. (2023). Report on the AHRC Digital/ Software
-Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo.
-    https://doi.org/10.5281/zenodo.7686348</li></ul>
+Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo. https://doi.org/10.5281/zenodo.7686348</li></ul>
 
 
 **Reviews**
 <ul>
   <li>
- “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>, 19:1, 2020 https://ejournals.epublishing.ekt.gr/pfiles/journals/14/editor-uploads/issues/1165/main1165.html?1=1165&2=19495 , DOI: 
+ “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>, 19:1, 2020, DOI:https://doi.org/10.12681/historein.19495 
  </li>
  <li>
 <a href="https://ride.i-d-e.de/issues/issue-8/anemoskala/"> "Anemoskala: corpus and concordances for major Modern Greek poets</a>”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018, DOI: https://doi.org/10.18716/ride.a.8.1
