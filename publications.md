@@ -20,15 +20,17 @@ title: Publications
  
    <li>Ginestra Ferraro, Anna-Maria Sichani, “Design as Part of the Plan: Introducing Agile Methodology in Digital Editing Projects” in Digital Scholarly Editions as Interfaces, edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider, Norderstedt: Books on Demand, 2018, pp.83-105 https://kups.ub.uni-koeln.de/9113/ </li> 
   
-  
  </ul>
+ 
 **Edited Special Journal Issues**
+<ul>
+  <li>
+Anna-Maria Sichani, Spadini E. (eds), <a href="https://ride.i-d-e.de/issues/issue-15/"> “Tools and Environments for Digital Scholarly Editing (special issue) </a>, <i>RIDE: A review journal for digital editions and resources</i>,  Issue 15 , December 2022. </li>
 
-Anna-Maria Sichani, Spadini E. (eds), <a href="https://ride.i-d-e.de/issues/issue-15/"> “Tools and Environments for Digital Scholarly Editing (special issue) </a>, <i>RIDE: A review journal for digital editions and resources</i>,  Issue 15 , December 2022. 
-
-
+<li>
 Anna-Maria Sichani, Elena Spadini (ed.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing (special issue), </a> <i>RIDE: A review journal for digital editions and resources </i>, Issue 11, January 2020 
 </li>
+  </ul>
 
 **Edited volumes**
 
