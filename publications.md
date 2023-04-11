@@ -7,10 +7,28 @@ title: Publications
 <p>ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
 | Full list of publishing activity at <a href="https://profiles.sussex.ac.uk/p453466-anna-maria-sichani">Elements</a> </p> 
 
+
+**Chapters**
+
+<ul>
+  <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, Bloomsbury 2023, pp.317-324</li> 
+
+
+ <li>Anna-Maria Sichani, James Baker, Alice Eldridge, Ben Roberts, Suzanne Tatham, Amelia Wakeford, Jo Walton , Sharon Webb and SHL team, “How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab”, Digital Humanities Laboratories: Global Perspectives, Editors: Urszula Pawlicka-Deger and Christopher Thomson ,  Routledge (Digital Research in the Arts and Humanities Series), (forthcoming)</li> 
+
+ <li>“Introducing the Digital Humanities: Genealogies, Histories and perspectives”, Digital Humanities in Greece: experiences and perspectives, Research Center of the Humanities publications, 2023 (forthcoming)</li> 
+ 
+   <li>Ginestra Ferraro, Anna-Maria Sichani, “Design as Part of the Plan: Introducing Agile Methodology in Digital Editing Projects” in Digital Scholarly Editions as Interfaces, edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider, Norderstedt: Books on Demand, 2018, pp.83-105 https://kups.ub.uni-koeln.de/9113/ </li> 
+  
+  
+ </ul>
 **Edited Special Journal Issues**
 
-Anna-Maria Sichani, Elena Spadini (ed.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing</a> (special issue), <i>A review journal for digital editions and resources (RIDE)</i>, Issue 11, January 2020 
+Anna-Maria Sichani, Spadini E. (eds), <a href="https://ride.i-d-e.de/issues/issue-15/"> “Tools and Environments for Digital Scholarly Editing (special issue) </a>, <i>RIDE: A review journal for digital editions and resources</i>,  Issue 15 , December 2022. 
 
+
+Anna-Maria Sichani, Elena Spadini (ed.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing (special issue), </a> <i>RIDE: A review journal for digital editions and resources </i>, Issue 11, January 2020 
+</li>
 
 **Edited volumes**
 
@@ -24,9 +42,25 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
 **Peer-reviewed articles**  
 
 <ul>
+  
+ <li> Sichani Anna-Maria, Jane Winters, ῾The role of Digital Humanities in an interdisciplinary research project᾽, Science Museum Journal, 2022 https://dx.doi.org/10.15180/221812/001 </li>
+
+<li>ichani A.-M., Hendy , D., "Connected Histories of the BBC: Opening up the BBC oral history archive to the digital domain" , Journal on Computing and Cultural Heritage (JOCCH), Volume 15, Issue 1, February 2022, p 1–16 https://doi.org/10.1145/3480954 </li>
+
+<li>“The multiple lives of the Cavafy Archive. Microfilms, index cards, catalogues and Web: towards a material and archival history of The Cavafy Archive. Historica, 73, 2021, p.187-210 (in Greek) </li>
+
+<li>“Documentary reproduction and storage technologies for textual assets and historical research in postwar Greece”, Mnimon, 38, 2021, p. 203-226 (in Greek)</li>
+
+ 
+ <li>Dimitris C. Papadopoulos, Anna-Maria Sichani, “Heritage in transition and the challenge of Digital Humanities”,  Bulletin de Correspondance Hellénique, École française d'Athènes,  2021 https://doi.org/10.4000/bchmc.841  </li> 
+
+
  <li>
 Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. "Diversity and inclusion in digital scholarship and pedagogy: the case of The Programming Historian",  <i>Insights</i>, 32(1),  DOI: http://doi.org/10.1629/uksg.465
    </li>
+  
+  <li>Sichani AM, Kaddas P, Mikros GK, Gatos B. “OCR for Greek polytonic (multi accent) historical printed documents: Development, optimization and quality control”,  ACM International Conference Proceeding Series. 9-13. 08 May 2019, DATeCH2019: Proceedings of the 3rd International Conference on Digital Access to Textual Cultural Heritage, May 2019,  9–13, DOI: https://doi.org/10.1145/3322905.3322926</li>
+
      <li>
 James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1
  </li>
@@ -60,6 +94,13 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 <embed src="../images/DIAVAZO_DSE.pdf" width="500" height="375" type='application/pdf'/>
 </li>
 </ul>
+
+**Reports**
+<ul>
+  <li>Shoaib Sufi, Emily Bell, & Anna-Maria Sichani. (2023). Report on the AHRC Digital/ Software
+Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo.
+    https://doi.org/10.5281/zenodo.7686348</li></ul>
+
 
 **Reviews**
 <ul>
