@@ -13,7 +13,13 @@ Here you can find a number of the projects I 've been initiated or helping devel
     </a>
   </li> 
  
-  
+  <li>
+    <a href="../projects/train_the_trainer">
+      <img src="../images/training.jpg" width="600px" align="middle">
+      <h2>Train the trainer</h2>
+    </a>
+  </li> 
+ 
   <li>
     <a href="../projects/ph">
       <img src="../images/ph.jpg" width="600px" align="middle">
