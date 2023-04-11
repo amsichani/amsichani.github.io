@@ -3,8 +3,8 @@ layout: default
 title: Publications
 ---
 
-*Selective Publications* 
-<p>ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
+**Selective Publications**
+check also  <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610>ORCID</a> 
  
 **Chapters**
 <ul>
