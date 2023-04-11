@@ -3,12 +3,10 @@ layout: default
 title: Publications
 ---
 
-**Selective Publications** 
+*Selective Publications* 
 <p>ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
  
-
 **Chapters**
-
 <ul>
   <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, Bloomsbury 2023, pp.317-324</li> 
 
