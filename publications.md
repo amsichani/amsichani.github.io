@@ -4,7 +4,7 @@ title: Publications
 ---
 
 **Selective Publications**
-check also  <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610>ORCID</a> 
+check also my ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
  
 **Chapters**
 <ul>
