@@ -5,7 +5,7 @@ title: UKRI-AHRC Policy and Engagement Fellowship in Digital Research and Innova
 
 <a href="https://www.ukri.org/councils/ahrc/"><img src="../images/ahrc.jpg" width="800"/></a>
 
-In January 2022 I was awarded one of the first UKRI-AHRC Policy and Engagement Fellowship in Digital Research and Innovation Infrastructure.
+In January 2022 I was awarded one of the first <a href="https://www.sussex.ac.uk/broadcast/read/57304> UKRI-AHRC Policy and Engagement Fellowship in Digital Research and Innovation Infrastructure</a>.
 
 This role allowed me to be part of a UKRI-wide programme to enhance national digital research infrastructure for all UKRI communities.
 
