@@ -6,14 +6,12 @@ Here you can find a number of the projects I 've been initiated or helping devel
 
 -----------------------------------------
    <ul class="projects-images">
-  
     <li>
     <a href="../projects/SSI_AHRC_report">
       <img src="../images/ssi_report.jpg" width="600px" align="middle">
       <h2>Report on the AHRC Digital/Software Requirements Survey 2021</h2>
     </a>
   </li> 
-  
     <li>
     <a href="../projects/AHRC_fellowship">
       <img src="../images/ahrc.jpg" width="600px" align="middle">
