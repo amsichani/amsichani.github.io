@@ -5,8 +5,8 @@ title: Projects & Works in Progress
 Here you can find a number of the projects I 've been initiated or helping developed as well as few works-in-progress. 
 
 -----------------------------------------
-  
    <ul class="projects-images">
+  
     <li>
     <a href="../projects/SSI_AHRC_report">
       <img src="../images/ssi_report.jpg" width="600px" align="middle">
