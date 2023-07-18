@@ -3,10 +3,10 @@ title: What’s in an (oral history) archive?
 layout: post
 categories: posts
 ---
-<figure><a href="../images/Gillard-BBC.jpg"><img src="../images/Gillard-BBC.jpg" width="400px" style="margin-bottom: 40px" alt=""/></a></figure>
-Frank Gillard in 1945 © BBC.
+<figure><a href="../images/Gillard-BBC.jpg"><img src="../images/Gillard-BBC.jpg" width="400px" style="margin-bottom: 40px" alt=" Frank Gillard in 1945 © BBC."/></a></figure>
 
-When I initially started working for ‘Connected Histories of the BBC’ as a PostDoc Research Fellow, almost a year ago, I naively felt rather confident about my knowledge of what an archive might contain. I have previously worked with various mainly textual-based archives for my PhD research, as well as for different Digital Humanities (DH) projects I was involved with in recent years. I am familiar with the “allure of the archives” but also with the undocumented, scattered, unexpected assets, the often chaotic structure of files, folders and boxes. I am aware of – and by now, trained in – how to treat and respect the original archival order, how to cite and use archival assets as a way to understand and narrate (often hidden) histories about the past.
+<p>When I initially started working for ‘Connected Histories of the BBC’ as a PostDoc Research Fellow, almost a year ago, I naively felt rather confident about my knowledge of what an archive might contain. I have previously worked with various mainly textual-based archives for my PhD research, as well as for different Digital Humanities (DH) projects I was involved with in recent years.</p>
+  I am familiar with the “allure of the archives” but also with the undocumented, scattered, unexpected assets, the often chaotic structure of files, folders and boxes. I am aware of – and by now, trained in – how to treat and respect the original archival order, how to cite and use archival assets as a way to understand and narrate (often hidden) histories about the past.
 
 But there is more that should interest us in an archive than archival assets. The historicity of the archival assets, linked to their very materiality, the historicity of the archival procedures, the documentation standards, the various archival catalogues produced throughout the years, the material aids and technologies, from paper clips to pencil marks and from handwritten paper catalogues to Excel spreadsheets; all of them are traces and agents of distinct moments in the history of the archive itself and, of course, they are of value themselves. One can experience all of these different archival qualities in the BBC Oral History Collection, and much more.
 
