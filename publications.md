@@ -8,12 +8,12 @@ check also my ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-
  
 **Chapters**
 <ul>
-  <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, Bloomsbury 2023, pp.317-324</li> 
+  <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, James O' Sullivan (ed), Bloomsbury 2023, pp.317-324 DOI: https://doi.org/10.5281/zenodo.8059131 </li> 
 
  <li>Anna-Maria Sichani, James Baker, Alice Eldridge, Ben Roberts, Suzanne Tatham, Amelia Wakeford, Jo Walton , Sharon Webb and SHL team, “How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab”, Digital Humanities Laboratories: Global Perspectives, Editors: Urszula Pawlicka-Deger and Christopher Thomson ,  Routledge (Digital Research in the Arts and Humanities Series), (forthcoming)</li> 
 
  <li>“Introducing the Digital Humanities: Genealogies, Histories and perspectives”, <i>Digital Humanities in Greece: experiences and perspectives,</i>|“Συστήνοντας τα Digital Humanities: γενεαλογίες, ιστορίες και προοπτικές”,
-   <i>Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις</i>, Research Center of the Humanities publications, 2023 (forthcoming)(in Greek)</li> 
+   <i>Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις</i>, Research Center of the Humanities publications, 2023 DOI: https://doi.org/10.12681/praktika.5208 (in Greek)</li> 
  
    <li>Ginestra Ferraro, Anna-Maria Sichani, “Design as Part of the Plan: Introducing Agile Methodology in Digital Editing Projects” in Digital Scholarly Editions as Interfaces, edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider, Norderstedt: Books on Demand, 2018, pp.83-105 https://kups.ub.uni-koeln.de/9113/ </li> 
   
@@ -27,11 +27,19 @@ Anna-Maria Sichani, Spadini E. (eds), <a href="https://ride.i-d-e.de/issues/issu
 <li>
 Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing (special issue), </a> <i>RIDE: A review journal for digital editions and resources </i>, Issue 11, January 2020 
 </li>
+
+<li> Dimitris Antoniou, Kostis Kornetis, Anna-Maria Sichani and Katerina Stefatos (eds), “Special Section on the Colonels’ Dictatorship and Its Afterlives”, Journal of Modern Greek Studies,  35: 2, October 2017 </li>
+
   </ul>
 
 **Edited volumes**
 
 <ul>
+
+ <li> Anna-Maria Sichani, Michael Donnay (eds), The small book of failure in Digital Humanities, University of London Press, (forthcoming)</li>
+
+ <li> Anna-Maria Sichani, Eirini Goudarouli, Jane Winters (eds), Digital Cultural Heritage: The Past, Present and Future or Digital Cultural Heritage, University of London Press, (forthcoming)</li>
+
   <li>
 <em><a href="https://www.sidestone.com/books/advances-in-digital-scholarly-editing">Advances in Digital Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp</a></em>,
 Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kelly, Andreas Mertgens, Anna-Maria Sichani, Elena Spadini & Dirk van Hulle | 2017 , Sidestone Press. ISBN: 9789088904837
@@ -95,6 +103,11 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 
 **Reports**
 <ul>
+
+
+<li> Anna-Maria Sichani, Ruth Ahnert, James Baker, Dave Beaven, Arianna Ciula, Steve Crouch, David De Roure, Pieter Francois, James Hetherington, Neil Jeffries, Barbara McGillivray, Melissa Terras, Charlotte Tupman, Mark Turner, Marion Weinzierl, Jane Winters, Martin Wynne, James Smithies. (2023). iDAH Research Software Engineering (RSE) Steering Group Working Paper (v.0.2). Zenodo. https://doi.org/10.5281/zenodo.8060003 </li> 
+
+
   <li>Shoaib Sufi, Emily Bell, & Anna-Maria Sichani. (2023). Report on the AHRC Digital/ Software
 Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo. https://doi.org/10.5281/zenodo.7686348</li></ul>
 
