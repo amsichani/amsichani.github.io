@@ -3,16 +3,17 @@ title: Data is never raw. Ethics and biases in digital cultural heritage collect
 layout: post
 categories: posts
 ---
-<figure><a href="../images/data-raw.jpg"><img src="../images/data-raw.jpg" width="400px" style="margin-bottom: 40px" alt=""/></a></figure>
+<figure><a href="../images/Pic1.jpg"><img src="../images/Pic1.jpg" width="400px" style="margin-bottom: 40px" alt=""/></a></figure>
 
 
 Ethics in Digital Humanities and digital scholarship has become a vivid topic of discussion and research in recent years (Rehbein 2015; Proferes 2020). Not surprisingly, it is in the field of Digital Cultural Heritage, especially with the emergence of large, varied and complex digital datasets as well as advanced, public-facing computational systems and methods, including AI, that a new set of ethical considerations have come to the forefront, mainly focused on biases at all stages and aspects of digital cultural heritage pipelines.
 
 However, the word ‘bias’ tends to become some sort of a buzzword in the digital scholarship and cultural heritage world. As many of us are trying to navigate through what seems a rather complex and obscure ocean of meanings and to explore its implications in our research and professional practice, I have adopted a theoretical framework for studying bias proposed by Batya Friedman and Helen Nissenbaum back in 1996. According to them there are three categories of bias in the digital world:
 
-Pre-existing bias is rooted in social institutions and practices that predate the system.
-Technical bias arises when various technical properties of the systems created with false assumptions about their use are applied.
-Emergent bias arises in direct contact with users.
+- Pre-existing bias is rooted in social institutions and practices that predate the system.
+- Technical bias arises when various technical properties of the systems created with false assumptions about their use are applied.
+- Emergent bias arises in direct contact with users.
+
 As part of the Congruence Engine project, I am exploring how technology choices affect curatorial as well as research processes and introduce biases in digital cultural heritage and research practice. My research is structured around this three-fold approach, by drawing examples and case studies from the project investigations and the wider digital cultural heritage field. For this blogpost, I will focus on the area of pre-existing bias in data found in cultural heritage institutions, in particular in museums.
 
 **“RAW” AND “COOKED” DATA**
@@ -23,9 +24,14 @@ No data collection process happens in a historical or institutional vacuum. The 
 
 Not surprisingly, silences and gaps are perpetuated – often magnified – in the digitisation projects of cultural heritage collections. Behind each digitisation project, there is a lengthy, multifactorial decision-making process on which records get digitised based on (financial and human) resources, technological or research priorities, user needs, preservation imperatives, and institutional politics, often reinforcing dominant narratives and practices in the heritage world (Taylor & Gibson 2017). All these decisions add yet another layer of silence and bias to the records that make their way into digital collections and online catalogues. Thus, what we get to see as final users today, in the form of online catalogues, is an accumulation of – or even an arbitrary choice from – the information compiled and stored on museum assets throughout the years of documentation practice in an ostensibly finalised digital repository representing many layers and agents of decisions, and, subsequently, an exponential multitude of biases.
 
-A catalogue card from the Science Museum with writing that reads; 'One H.T W.T Unit, 100 watt, no, 416.' In black cursive handwriting. 
+
+<figure><a href="../images/Pic1.jpg"><img src="../images/Pic1.jpg" width="400px" style="margin-bottom: 40px" alt=" A catalogue card from the Science Museum with writing that reads; 'One H.T W.T Unit, 100 watt, no, 416.' In black cursive handwriting. "/></a></figure>
+
 Image 1: Science Museum ‘Form 100’ © SMG
-A screenshot of the digital entry for the catalogue in the previous image. The photo shows a box-like object with an orange handle. 
+
+
+<figure><a href="../images/Pic2.png"><img src="../images/Pic1.png" width="400px" style="margin-bottom: 40px" alt="A screenshot of the digital entry for the catalogue in the previous image. The photo shows a box-like object with an orange handle."/></a></figure>
+
 Image 2: The online version of the object’s record © SMG H.T. W.T. unit, 100 watt, No. 416 | Science Museum Group Collection
 
 **ENGAGING ABSENCES AND BIASES IN DIGITAL COLLECTIONS**
@@ -34,14 +40,20 @@ In an era of information abundance and big data deluge, it comes as no surprise 
 
 We can observe in recent heritage scholarship a diverse set of ways of “engaging absence” in collections from a methodological as well as functional point of view.  Nyhan & Ortolja-Baird (2021) offer a comprehensive survey of the current algorithmic approaches to absence and bias within digital humanities, both perpetuated and created anew by the increasing digital presence, representation, and interrogation of data. They call for a re-examination of the social and cultural factors that give rise to absences in digital collections. An interesting example is the project The real face of White Australia , originally called Invisible Australians, created by Kate Bagnall and Tim Sherratt (Image 3). On the other hand, Thomas Padilla vividly proposed that we should “treat data absence as an integral feature rather than a bug to be quashed” as part of a wider cross-sectoral move “to systematically qualify data absence as a means of shoring up grounds for a redefined notion of representativeness to stand upon” (Padilla 2018).
 
-A gallery of images featuring portrait photography of non-white Australian faces.
+<figure><a href="../images/Pic3.png"><img src="../images/Pic3.png" width="400px" style="margin-bottom: 40px" alt="A gallery of images featuring portrait photography of non-white Australian faces."/></a></figure>
+
 Image 3: The real face of white Australia project.
+
+
 One way of engaging with gaps and absences in collections is by making them visible. Lauren Klein’s emblematic work The Image of Absence: Archival Silence, Data Visualization, and James Hemings demonstrates how a set of techniques that derive from the fields of computational linguistics and data visualization help render visible the archival silences within the wider digital scholarship field (Klein, 2013). Shannon Mattern’s excellent piece on  “How to Map Nothing” presents how cartographers and information managers, typically struggling to manifest silences and absences, have been recently engaged with several digital visualisation and mapping projects to document nothingness, with the assistance of new processing and visualisation techniques, including machine learning. Andy Kirk, a visualisation expert, also explores the challenges of designing different types of nothingness in his piece ‘The Design of Nothing‘.
 
 Another way of engaging with gaps and biases in cultural heritage collections comes with the shift in thinking of ‘collections-as-data’ (pic. 4) rather than as discrete objects, and more precisely, by exploring how absences and biases are present in big data regimes and how they affect the outcomes and conclusions of digital analytical processes. Critique around the importance of understanding partial or biased data in digital scholarship and digital cultural heritage is not new, especially at a theoretical and methodological or even institutional level (Posner 2015; Kizhner et al. 2021; Nyhan & Ortolja-Baird 2021; Sever 2022), but there are relatively few studies which actually explore the  implications of absent or biased data in research outputs.
 
-An icon with a face with eyes, below the text reads 'collections as data'. 
+<figure><a href="../images/Pic4.png"><img src="../images/Pic4.png" width="400px" style="margin-bottom: 40px" alt="An icon with a face with eyes, below the text reads 'collections as data"/></a></figure> 
+
 Image 4: Always Already Computational • Always Already Computational – Collections as Data
+
+
 In a recent paper exploring large-scale historical correspondence networks Ryan and Ahnert focused on the extent to which the results of quantitative network analysis are affected by absent data. They argue that “an important facet of this data curation is to understand its missingness, and, moreover, where possible, the effect that this might have on resulting quantitative results, whether they be, as in this case, network metrics, but also more generally: the same technique might be applied to measures derived from work in Computational Literary Studies or Spatial Humanities” (Ryan and Ahnert 2021).
 
 In a similar vein, Matthew Lincoln and Sandra van Ginhoven have been using statistical tools such as data simulation and imputation to model the effect of missing source data on quantitative results and conclusions. According to them, these statistical methods “allow us to realize multiple, sometimes conflicting, assumptions about the nature of missing data. In doing so, these affordances allow us to evaluate how certain assertions may propagate their assumptions through the transformations we perform on our sources” (Lincoln & van Ginhoven 2018).
