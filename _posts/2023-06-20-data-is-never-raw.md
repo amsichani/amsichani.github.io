@@ -1,5 +1,5 @@
 ---
-title: Data is never raw: Ethics and biases in digital cultural heritage collections
+title: Data is never raw. Ethics and biases in digital cultural heritage collections
 layout: post
 categories: posts
 ---
