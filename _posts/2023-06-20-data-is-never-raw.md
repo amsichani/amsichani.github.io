@@ -4,7 +4,7 @@ layout: post
 categories: posts
 ---
 
-<figure><a href="../images/Pic1.jpg"><img src="../images/Pic1.jpg" width="400px" style="margin-bottom: 40px" alt=""/></a></figure>
+<figure><a href="../images/Pic1.jpg"><img src="../images/Pic1.jpg" width="400px" style="margin-bottom: 40px" alt="A catalogue card from the Science Museum with writing that reads; 'One H.T W.T Unit, 100 watt, no, 416.' In black cursive handwriting."/></a></figure>
 
 Ethics in Digital Humanities and digital scholarship has become a vivid topic of discussion and research in recent years (Rehbein 2015; Proferes 2020). Not surprisingly, it is in the field of Digital Cultural Heritage, especially with the emergence of large, varied and complex digital datasets as well as advanced, public-facing computational systems and methods, including AI, that a new set of ethical considerations have come to the forefront, mainly focused on biases at all stages and aspects of digital cultural heritage pipelines.
 
