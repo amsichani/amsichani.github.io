@@ -15,6 +15,6 @@ I often write blogposts, either contributing to other blogs or venues, such as D
 
 <p class="kicker">{{post.date | date: "%B %-d, %Y"}}</p>
 <br/>
-{{ post.excerpt | remove: '</p>' }} <a href="{{ site.url }}{{ post.url }}"><br/>Read the full post &raquo;</a></p>
+{{ post.excerpt | remove: '</p>' }} <a href="{{ site.url }}{{ post.url }}"><br/>Read the full post &raquo;</a>
 <hr/>
 {% endfor %}
