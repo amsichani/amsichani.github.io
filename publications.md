@@ -18,19 +18,6 @@ check also my ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-
    <li>Ginestra Ferraro, Anna-Maria Sichani, “Design as Part of the Plan: Introducing Agile Methodology in Digital Editing Projects” in Digital Scholarly Editions as Interfaces, edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider, Norderstedt: Books on Demand, 2018, pp.83-105 https://kups.ub.uni-koeln.de/9113/ </li> 
   
  </ul>
- 
-**Edited Special Journal Issues**
-<ul>
-  <li>
-Anna-Maria Sichani, Spadini E. (eds), <a href="https://ride.i-d-e.de/issues/issue-15/"> “Tools and Environments for Digital Scholarly Editing (special issue) </a>, <i>RIDE: A review journal for digital editions and resources</i>,  Issue 15 , December 2022. </li>
-
-<li>
-Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing (special issue), </a> <i>RIDE: A review journal for digital editions and resources </i>, Issue 11, January 2020 
-</li>
-
-<li> Dimitris Antoniou, Kostis Kornetis, Anna-Maria Sichani and Katerina Stefatos (eds), “Special Section on the Colonels’ Dictatorship and Its Afterlives”, Journal of Modern Greek Studies,  35: 2, October 2017 </li>
-
-  </ul>
 
 **Edited volumes**
 
@@ -44,6 +31,20 @@ Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/i
 <em><a href="https://www.sidestone.com/books/advances-in-digital-scholarly-editing">Advances in Digital Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp</a></em>,
 Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kelly, Andreas Mertgens, Anna-Maria Sichani, Elena Spadini & Dirk van Hulle | 2017 , Sidestone Press. ISBN: 9789088904837
 </li>
+  </ul>
+
+   
+**Edited Special Journal Issues**
+<ul>
+  <li>
+Anna-Maria Sichani, Spadini E. (eds), <a href="https://ride.i-d-e.de/issues/issue-15/"> “Tools and Environments for Digital Scholarly Editing (special issue) </a>, <i>RIDE: A review journal for digital editions and resources</i>,  Issue 15 , December 2022. </li>
+
+<li>
+Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/issue-11"> Tools and Environments for Scholarly Digital Editing (special issue), </a> <i>RIDE: A review journal for digital editions and resources </i>, Issue 11, January 2020 
+</li>
+
+<li> Dimitris Antoniou, Kostis Kornetis, Anna-Maria Sichani and Katerina Stefatos (eds), “Special Section on the Colonels’ Dictatorship and Its Afterlives”, Journal of Modern Greek Studies,  35: 2, October 2017 </li>
+
   </ul>
   
 **Peer-reviewed articles**  
