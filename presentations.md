@@ -6,6 +6,8 @@ title: Presentations
 
 <ul>
 
+<li>“Responsible collections-as-(training)-data: AI, ethics, and copyright” , Collections as Data: Collaborating across Data Spaces for Cultural Heritage and Open Science, KBR | Royal Library of Belgium, 19th - 20/2/2024</li>
+
 <li>Bias in the Data: the case of online museum catalogues, Museum Analytics: New Pespectives, 18/05/2023 , King's College London,London UK </li>
  <li>““Forever or 5 years”: Sustainability planning for Digital Research Infrastructure for Arts and Humanities”, Open and Engaged Conference 2022: Climate research in GLAM, digital infrastructure and skills to open collections, 24/10/2022, The British Library, UK</li>
 
