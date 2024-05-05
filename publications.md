@@ -10,7 +10,8 @@ check also my ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-
 <ul>
   <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, James O' Sullivan (ed), Bloomsbury 2023, pp.317-324 DOI: https://doi.org/10.5281/zenodo.8059131 </li> 
 
- <li>Anna-Maria Sichani, James Baker, Alice Eldridge, Ben Roberts, Suzanne Tatham, Amelia Wakeford, Jo Walton , Sharon Webb and SHL team, “How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab”, Digital Humanities Laboratories: Global Perspectives, Editors: Urszula Pawlicka-Deger and Christopher Thomson ,  Routledge (Digital Research in the Arts and Humanities Series), (forthcoming)</li> 
+ <li>Anna-Maria Sichani, James Baker, Alice Eldridge, Ben Roberts, Suzanne Tatham, Amelia Wakeford, Jo Walton , Sharon Webb and SHL team, “How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab”, Digital Humanities Laboratories: Digital Humanities and Laboratories
+Perspectives on Knowledge, Infrastructure and Culture, Editors: Urszula Pawlicka-Deger and Christopher Thomson ,  Routledge (Digital Research in the Arts and Humanities Series), 2023 , pp. 67-86 </li> 
 
  <li>“Introducing the Digital Humanities: Genealogies, Histories and perspectives”, <i>Digital Humanities in Greece: experiences and perspectives,</i>|“Συστήνοντας τα Digital Humanities: γενεαλογίες, ιστορίες και προοπτικές”,
    <i>Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις</i>, Research Center of the Humanities publications, 2023 DOI: https://doi.org/10.12681/praktika.5208 (in Greek)</li> 
