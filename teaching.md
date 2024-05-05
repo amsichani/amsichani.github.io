@@ -73,7 +73,8 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex,
   <li>
 
 **15 March 2016**
-“Future Publishing Models for Digital Scholarly Editions”, DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
+
+'Future Publishing Models for Digital Scholarly Editions', DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
 </li>
 
   <li>
