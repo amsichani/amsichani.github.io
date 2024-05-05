@@ -48,11 +48,13 @@ School of Advanced Study, University of London
   
 <strong>2019-2020</strong>
 
+modules developed and delivered as part of Sussex Humanities Lab workshop series 
 
 <ul>
+  
 <li>'Data modelling , curation and representation in Digital Humanities'</li>
-<li>'Data analysis with Python'</li></ul>
-modules developed and delivered as part of Sussex Humanities Lab workshop series 
+<li>'Data analysis with Python'</li>
+</ul>
 </li>
 
   <li>
