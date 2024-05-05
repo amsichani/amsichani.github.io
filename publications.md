@@ -23,9 +23,9 @@ check also my ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-
 
 <ul>
 
- <li> Anna-Maria Sichani, Michael Donnay (eds), The small book of failure in Digital Humanities, University of London Press, (forthcoming)</li>
+ <li> Anna-Maria Sichani, Michael Donnay (eds), Reframing failure in Digital Humanities, University of London Press, (forthcoming 2024)</li>
 
- <li> Anna-Maria Sichani, Eirini Goudarouli, Jane Winters (eds), Digital Cultural Heritage: The Past, Present and Future or Digital Cultural Heritage, University of London Press, (forthcoming)</li>
+ <li> Anna-Maria Sichani, Eirini Goudarouli, Jane Winters (eds), Digital Cultural Heritage: The Past, Present and Future or Digital Cultural Heritage, University of London Press, (forthcoming 2024)</li>
 
   <li>
 <em><a href="https://www.sidestone.com/books/advances-in-digital-scholarly-editing">Advances in Digital Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp</a></em>,
@@ -46,6 +46,18 @@ Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/i
 <li> Dimitris Antoniou, Kostis Kornetis, Anna-Maria Sichani and Katerina Stefatos (eds), “Special Section on the Colonels’ Dictatorship and Its Afterlives”, Journal of Modern Greek Studies,  35: 2, October 2017 </li>
 
   </ul>
+
+  **Reports/White Papers**
+<ul>
+
+<li> Anna-Maria SIchani, Jörg Lehmann, Steven Claeyssens, A White Paper on AI and copyright in cultural heritage and research, (forthcoming 2024)</li>
+
+<li> Anna-Maria Sichani, Ruth Ahnert, James Baker, Dave Beaven, Arianna Ciula, Steve Crouch, David De Roure, Pieter Francois, James Hetherington, Neil Jeffries, Barbara McGillivray, Melissa Terras, Charlotte Tupman, Mark Turner, Marion Weinzierl, Jane Winters, Martin Wynne, James Smithies. (2023). iDAH Research Software Engineering (RSE) Steering Group Working Paper (v.0.2). Zenodo. https://doi.org/10.5281/zenodo.8060003 </li> 
+
+
+  <li>Shoaib Sufi, Emily Bell, & Anna-Maria Sichani. (2023). Report on the AHRC Digital/ Software
+Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo. https://doi.org/10.5281/zenodo.7686348</li></ul>
+
   
 **Peer-reviewed articles**  
 
@@ -83,7 +95,6 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 
  <li>
 “Cavafy’s web legacy: C.P. Cavafy in the public sphere of the Web 2.0”, <i>Journal of Greek Media &amp; Culture</i>, Volume 1, Number 2, October 2015, pp. 321-337. DOI: http://doi.org/10.1386/jgmc.1.2.321_1
-<embed src="../images/webcavafy.pdf" width="500" height="345" type='application/pdf'/>
 </li>
 
 <li> <a href="https://amsichani.github.io/images/Zei_to_logotexniko_parelthon_Sichani_CCBY.pdf"> "Ζει το λογοτεχνικό παρελθόν; Πρακτικές μνήμης γύρω από το λογοτεχνικό παρελθόν στη μακρά δεκαετία του 60", </a>
@@ -101,16 +112,6 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 <li>"Ψηφιακές εκδόσεις και Νεοελληνική Φιλολογία: το μέλλον είναι εδώ" | Electronic Editions and Modern Greek Literature: the future is now", <i>Διαβάζω</i>, 530, 6/2012.
 </li>
 </ul>
-
-**Reports**
-<ul>
-
-
-<li> Anna-Maria Sichani, Ruth Ahnert, James Baker, Dave Beaven, Arianna Ciula, Steve Crouch, David De Roure, Pieter Francois, James Hetherington, Neil Jeffries, Barbara McGillivray, Melissa Terras, Charlotte Tupman, Mark Turner, Marion Weinzierl, Jane Winters, Martin Wynne, James Smithies. (2023). iDAH Research Software Engineering (RSE) Steering Group Working Paper (v.0.2). Zenodo. https://doi.org/10.5281/zenodo.8060003 </li> 
-
-
-  <li>Shoaib Sufi, Emily Bell, & Anna-Maria Sichani. (2023). Report on the AHRC Digital/ Software
-Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo. https://doi.org/10.5281/zenodo.7686348</li></ul>
 
 
 **Reviews**
