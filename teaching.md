@@ -23,15 +23,15 @@ Teaching and workshops
 Training & mutual learning program for the “The Congruence Engine” 
 developed and (co-)delivered the following courses:
 <ul>
-<li>- Introduction to Unix/Shell</li>
-<li>- Regular expressions</li>
-<li>- Git-GitHub</li>
-<li>- LOD and Wikidata</li>
-<li>- Responsible data management and curation</li>
-<li>- Data-driven research in cultural heritage</li>
-<li>- Introduction to AI and Machine Learning for GLAM</li>
-<li>- Ethical and AI for GLAM</li>
-<li>- Information management and sustainability</li>
+<li> Introduction to Unix/Shell</li>
+<li> Regular expressions</li>
+<li> Git-GitHub</li>
+<li> LOD and Wikidata</li>
+<li> Responsible data management and curation</li>
+<li> Data-driven research in cultural heritage</li>
+<li> Introduction to AI and Machine Learning for GLAM</li>
+<li> Ethical and AI for GLAM</li>
+<li> Information management and sustainability</li>
 </ul>
 </li>
 
@@ -49,9 +49,10 @@ School of Advanced Study, University of London
 <strong>2019-2020</strong>
 
 
-'Data modelling , curation and representation in Digital Humanities'
-'Data analysis with Python'
-module developed and delivered as part of Sussex Humanities Lab workshop series 
+<ul>
+<li>'Data modelling , curation and representation in Digital Humanities'</li>
+<li>'Data analysis with Python'</li>
+modules developed and delivered as part of Sussex Humanities Lab workshop series 
 </li>
 
   <li>
