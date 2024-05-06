@@ -3,7 +3,7 @@ layout: default
 title: Teaching
 ---
 
-Teaching and workshops 
+**Teaching and workshops**
 
 <ul>
 
@@ -20,18 +20,18 @@ Teaching and workshops
 <strong>09/2022-today</strong>
 
 
-Training & mutual learning program for the “The Congruence Engine” 
-developed and (co-)delivered the following courses:
+Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
 <ul>
 <li> Introduction to Unix/Shell</li>
 <li> Regular expressions</li>
-<li> Git-GitHub</li>
+<li> Introduction to Git-GitHub</li>
 <li> LOD and Wikidata</li>
 <li> Responsible data management and curation</li>
+<li> Information management and sustainability</li>
 <li> Data-driven research in cultural heritage</li>
 <li> Introduction to AI and Machine Learning for GLAM</li>
 <li> Ethical and AI for GLAM</li>
-<li> Information management and sustainability</li>
+
 </ul>
 </li>
 
