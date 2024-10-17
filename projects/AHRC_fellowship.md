@@ -14,3 +14,5 @@ The UKRI Digital Research Infrastructure Committee plans to develop new services
 Arts and Humanities Research Council), to establish how existing capabilities can be enhanced to meet the needs of the whole UKRI research community, including arts and humanities work, to assist in the development of a national digital skills programme and to identify future collaborative research and development opportunities which this investment would enable.
 
 This fellowship and its findings provided foundation for the next phases of iDAH programme. More specifically, the recommendations of my report as well as suggestions and recommendations from the AHRC- RSE report have been influenced the governance decisions as well as the infrastructural/technical choices of the programme.
+
+Please get in touch if you need to learn more about findings of this fellowship.
