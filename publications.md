@@ -51,7 +51,10 @@ Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/i
   **Reports/White Papers**
 <ul>
 
-<li> Anna-Maria SIchani, Jörg Lehmann, Steven Claeyssens, A White Paper on AI and copyright in cultural heritage and research, (forthcoming 2024)</li>
+<li> Anna-Maria SIchani, Jörg Lehmann,A Position Paper on AI and copyright in cultural heritage and research, (forthcoming 2024)</li>
+
+
+<li>Rutherford, A., Sichani, A.-M., Foxton, K., & Perry, S. (2024). Ethics as Practice: Report on the 1st Discovery Project Ethics Workshop. Towards a National Collection. https://doi.org/10.5281/zenodo.13683142</li></li>
 
 <li> Anna-Maria Sichani, Ruth Ahnert, James Baker, Dave Beaven, Arianna Ciula, Steve Crouch, David De Roure, Pieter Francois, James Hetherington, Neil Jeffries, Barbara McGillivray, Melissa Terras, Charlotte Tupman, Mark Turner, Marion Weinzierl, Jane Winters, Martin Wynne, James Smithies. (2023). iDAH Research Software Engineering (RSE) Steering Group Working Paper (v.0.2). Zenodo. https://doi.org/10.5281/zenodo.8060003 </li> 
 
