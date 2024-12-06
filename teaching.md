@@ -17,35 +17,53 @@ title: Teaching
   
   <li>
     
-<strong>09/2022-today</strong>
+<strong>09/2022-10/2024</strong>
 
 
 Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
 <ul>
+
+
+***Data cleaning and structuring***
+
 <li> Introduction to Unix/Shell</li>
 <li> Regular expressions</li>
+<li> OpenRefine </li>
 <li> Introduction to Git-GitHub</li>
-<li> LOD and Wikidata</li>
+
+
+
+***Version Control, Linked Open Data and Machine Learning***
+<li> Linked Open Data and Wikidata</li>
 <li> Responsible data management and curation</li>
 <li> Information management and sustainability</li>
 <li> Data-driven research in cultural heritage</li>
+
+
+***AI for cultural heritage collections***
+
 <li> Introduction to AI and Machine Learning for GLAM</li>
 <li> Ethical and AI for GLAM</li>
 
 </ul>
+ 
+
+
+
+ <li> <strong>09/2021-09/2022</strong>
+
+   <ul>
+<li>'Developing digital textual content' - undergraduate module - Hellenic Open University </li>
+
+<li> 'From primary sources to digital data' - undergraduate module - Hellenic Open University</li>
+
+
+   </ul>
 </li>
 
-<li>
-  
-<strong>2022-23</strong>
-
-
-Digital Humanities Research Hub Seminar Series (co-develop with Michael Donnay) “Refraiming failure in digital scholarship”
-School of Advanced Study, University of London
- </li>
 
 <li>
-  
+   
 <strong>2019-2020</strong>
 
 modules developed and delivered as part of Sussex Humanities Lab workshop series 
@@ -105,3 +123,17 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex,
   </li>
   
 </ul>
+
+
+
+**Seminars**
+
+  
+<strong>2022-23</strong>
+
+
+Digital Humanities Research Hub Seminar Series (co-develop with Michael Donnay) “Refraiming failure in digital scholarship”
+School of Advanced Study, University of London
+ </li>
+
+<li>
