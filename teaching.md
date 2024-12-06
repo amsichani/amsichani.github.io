@@ -24,7 +24,7 @@ Training & mutual learning program for the “The Congruence Engine” | develop
 <ul>
 
 
-***Data cleaning and structuring***
+*Data cleaning and structuring*
 
 <li> Introduction to Unix/Shell</li>
 <li> Regular expressions</li>
@@ -33,14 +33,14 @@ Training & mutual learning program for the “The Congruence Engine” | develop
 
 
 
-***Version Control, Linked Open Data and Machine Learning***
+*Version Control, Linked Open Data and Machine Learning*
 <li> Linked Open Data and Wikidata</li>
 <li> Responsible data management and curation</li>
 <li> Information management and sustainability</li>
 <li> Data-driven research in cultural heritage</li>
 
 
-***AI for cultural heritage collections***
+*AI for cultural heritage collections*
 
 <li> Introduction to AI and Machine Learning for GLAM</li>
 <li> Ethical and AI for GLAM</li>
@@ -53,9 +53,9 @@ Training & mutual learning program for the “The Congruence Engine” | develop
  <li> <strong>09/2021-09/2022</strong>
 
    <ul>
-<li>'Developing digital textual content' - undergraduate module - Hellenic Open University </li>
+<li>'Developing digital textual content' - undergraduate module - University of Athens, Greece </li>
 
-<li> 'From primary sources to digital data' - undergraduate module - Hellenic Open University</li>
+<li> 'From primary sources to digital data' - undergraduate module - University of Athens, Greece</li>
 
 
    </ul>
