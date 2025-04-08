@@ -12,6 +12,8 @@ My current research focuses on the ethical, legal, and policy challenges of inte
 
 My goal is to foster a responsible and sustainable AI research culture within the UK's cultural heritage and research communities by promoting informed and ethical AI use.
 
+To make discussions on AI ethics and legislation in cultural heritage and research more accessible and impactful, I have developed an openly available <a href="https://sas-dhrh.github.io/genai-cch-toolkit/">Toolkit for Generative AI, Data Protection, and Intellectual Property in Digital Cultural Heritage</a>. 
+
 I have recently co-authored a position paper titled <a href="https://doi.org/10.5334/johd.290">"A Position Paper on AI and Copyrights in Cultural Heritage and Research (EU and UK)"</a> with Jörg Lehmann. This publication delves into the debates surrounding the use of copyrighted materials in training machine learning applications, emphasizing the necessity to balance the rights of copyright holders with the advancement of AI technologies in cultural heritage research. 
 
 Furthermore, as part of the Bridging Responsible AI Divides (BRAID) programme, I co-led a <a href="https://doi.org/10.5281/zenodo.14945987">collective response to the UK Government's consultation on AI and copyright</a>. This response underscores the importance of clear and balanced copyright policies that foster innovation while respecting creators' rights. 
