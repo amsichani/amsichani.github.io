@@ -3,7 +3,7 @@ layout: projects
 title: Responsible data-intensive research | our ethics of care
 ---
 
-<img src="../images/responsible.jpg" width="300"/></a>
+<img src="../images/responsible.jpg" width="300"/>
 
 
 
