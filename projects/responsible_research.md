@@ -7,7 +7,7 @@ title: Responsible data-intensive research | our ethics of care
 
 
 
-My research focuses on promoting and enabling ethical, open, and sustainable datasets and infrastructures in digital cultural heritage. For those of us working in computationally intensive research contexts, it is essential to make responsible decisions around the management, documentation, and archiving of data, code, and research outputs. At the same time, our choices in responsible computing and ethical practice carry particular weight — especially with the growing use of computationally intensive methods, including AI, in highly complex, interdisciplinary, and cross-sectoral projects. At the heart of these practices and discussions lies a commitment to the planet, humanity, our communities — and everything in between.
+My research and work center on promoting and enabling ethical, open, and sustainable datasets and infrastructures in Arts and Humanities and digital cultural heritage. For those of us working in computationally intensive research contexts, it is essential to make responsible decisions around the management, documentation, and archiving of data, code, and research outputs. At the same time, our choices in responsible computing and ethical practice carry particular weight — especially with the growing use of computationally intensive methods, including AI, and our work in highly complex, interdisciplinary, and cross-sectoral projects. At the heart of these practices and discussions lies a commitment to the planet, humanity, our communities — and everything in between.
 
 
 My work in these areas has led to several recent publications 
@@ -21,4 +21,4 @@ My work in these areas has led to several recent publications
 Finally with my colleagues Tasha Kitcher and Max Long we provided a case study for the Digital Humanities Climate Coalition toolkit on  <a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html#case-study-4-congruence-engine---raising-environmental-awareness-in-an-interdisciplinary-research-project"> Congruence Engine - raising environmental awareness in an interdisciplinary research project </a>.
 
 
-Let's try to care more: for our data, our infrastuctures, our communities, our planet.
+Let's try to care more: for our data, our infrastuctures, our communities, our planet. 
