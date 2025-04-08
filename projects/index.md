@@ -10,26 +10,19 @@ Here you can find a number of the projects I 've been initiated or helping devel
 
 
    <ul class="projects-images">
-  
-      
-      
-        <li>
+     <li>
     <a href="../projects/AI_legal">
       <img src="../images/copyright.jpg" width="600px" align="middle">
       <h2>AI and Copyright in Cultural Heritage and Research: rethinking openness</h2>
     </a>
-  </li> 
+     </li>
 
-  
-    <li>
+   <li>
     <a href="../projects/braid">
       <img src="../images/braid.jpg" width="600px" align="middle">
       <h2>BRAID fellowship | Responsible data, models and workflows: Responsible AI digital skills provision for the cultural heritage community</h2>
     </a>
   </li> 
-
-
-
 
 <li>
     <a href="../projects/SSI_AHRC_report">
@@ -44,9 +37,6 @@ Here you can find a number of the projects I 've been initiated or helping devel
       <h2>UKRI-AHRC Policy and Engagement Fellowship in Digital Research and Innovation Infrastructure</h2>
     </a>
   </li> 
-
-
-
 
  
   <li>
