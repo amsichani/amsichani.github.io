@@ -11,7 +11,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
 
    <ul class="projects-images">
      <li>
-    <a href="../projects/AI_legal">
+    <a href="../projects/legal_AI">
       <img src="../images/copyright.jpg" width="600px" align="middle">
       <h2>AI and Copyright in Cultural Heritage and Research: rethinking openness</h2>
     </a>
