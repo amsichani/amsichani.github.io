@@ -5,19 +5,49 @@ title: Projects & Works in Progress
 Here you can find a number of the projects I 've been initiated or helping developed as well as few works-in-progress. 
 
 -----------------------------------------
+
+
+
+
    <ul class="projects-images">
+  
+      
+      
+        <li>
+    <a href="../projects/AI_legal">
+      <img src="../images/copyright.jpg" width="600px" align="middle">
+      <h2>AI and Copyright in Cultural Heritage and Research: rethinking openness</h2>
+    </a>
+  </li> 
+
+  
     <li>
+    <a href="../projects/braid">
+      <img src="../images/braid.jpg" width="600px" align="middle">
+      <h2>BRAID fellowship | Responsible data, models and workflows: Responsible AI digital skills provision for the cultural heritage community</h2>
+    </a>
+  </li> 
+
+
+
+
+<li>
     <a href="../projects/SSI_AHRC_report">
       <img src="../images/ssi_report.jpg" width="600px" align="middle">
       <h2>Report on the AHRC Digital/Software Requirements Survey 2021</h2>
     </a>
   </li> 
+  
     <li>
     <a href="../projects/AHRC_fellowship">
       <img src="../images/ahrc.jpg" width="600px" align="middle">
       <h2>UKRI-AHRC Policy and Engagement Fellowship in Digital Research and Innovation Infrastructure</h2>
     </a>
   </li> 
+
+
+
+
  
   <li>
     <a href="../projects/train_the_trainer">
