@@ -1,10 +1,9 @@
-
 ---
 layout: projects
 title: AI and Copyright in Cultural Heritage and Research: rethinking openness
 ---
 
-<a href="https://www.ukri.org/councils/ahrc/"><img src="../images/copyright.jpg" width="600"/></a>
+<a href="https://www.ukri.org/councils/ahrc/"><img src="../images/copyright.jpg" width="200"/></a>
 
 
 
