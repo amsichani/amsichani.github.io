@@ -12,7 +12,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
    <ul class="projects-images">
      <li>
     <a href="../projects/legal_AI">
-      <img src="../images/copyright.jpg" width="200px" align="middle">
+      <img src="../images/copyright.jpg" width="400px" align="middle">
       <h2>AI and Copyright in Cultural Heritage and Research: rethinking openness</h2>
     </a>
      </li>
@@ -23,6 +23,17 @@ Here you can find a number of the projects I 've been initiated or helping devel
       <h2>BRAID fellowship | Responsible data, models and workflows: Responsible AI digital skills provision for the cultural heritage community</h2>
     </a>
   </li> 
+
+
+
+   <li>
+    <a href="../projects/responsible_research">
+      <img src="../images/responsible.jpg" width="600px" align="middle">
+      <h2>Responsible data-intensive research: our ethics of care </h2>
+    </a>
+  </li> 
+
+  
 
 <li>
     <a href="../projects/SSI_AHRC_report">
