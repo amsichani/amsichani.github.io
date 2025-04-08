@@ -1,6 +1,6 @@
 ---
-layout:  projects
-title: BRAID fellowship: Responsible data, models and workflows: Responsible AI digital skills provision for the cultural heritage community
+layout: projects
+title: BRAID fellowship | Responsible data, models and workflows: Responsible AI digital skills provision for the cultural heritage community
 ---
 
 
@@ -16,4 +16,4 @@ My fellowship addresses the training needs for responsible AI adoption in the cu
 
 The fellowship will engage professionals and researchers to co-develop a flexible training framework—centred on communities of practice and covering topics such as responsible data, AI workflows, ethics, and case studies tailored to cultural heritage and research communities. Key outcomes will include a practical training workbench and a collaborative white paper with recommendations to strengthen responsible AI literacy across and beyond the sector.
 
-The dates and place for the focus groups have now been confirmed - if you are willing to join, please drop me a line at annamaria.sichani@sas.ac.uk
+The dates and place for the focus groups have now been confirmed - if you are willing to join, please drop me a line at annamaria.sichani@sas.ac.uk. 
