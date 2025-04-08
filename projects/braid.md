@@ -1,5 +1,5 @@
 ---
-layout: projects
+layout:  projects
 title: BRAID fellowship: Responsible data, models and workflows: Responsible AI digital skills provision for the cultural heritage community
 ---
 
