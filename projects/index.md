@@ -31,7 +31,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
     </a>
   </li> 
   
-    <li>
+ <li>
     <a href="../projects/AHRC_fellowship">
       <img src="../images/ahrc.jpg" width="600px" align="middle">
       <h2>UKRI-AHRC Policy and Engagement Fellowship in Digital Research and Innovation Infrastructure</h2>
