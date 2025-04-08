@@ -3,7 +3,7 @@ layout: projects
 title: Responsible data-intensive research | our ethics of care
 ---
 
-<a href="https://www.ukri.org/councils/ahrc/"><img src="../images/responsible.jpg" width="400"/></a>
+<a href="https://www.ukri.org/councils/ahrc/"><img src="../images/responsible.jpg" width="200"/></a>
 
 
 
