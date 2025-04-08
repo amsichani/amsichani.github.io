@@ -34,18 +34,18 @@ Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kell
   
 <ul>
 
-<li> "Research Data Infrastructures Before They Were Cool: Microfilms, Photocopies and Early Digital Storage Devices in Humanities Scholarship (1950-1990)",  in: Ruppen Coutaz, R., Vallotton, F., Grandjean, M., & Düring, M. (2025). Transmedia History: Circulations, Reconfigurations and New Methodologies.. https://doi.org/10.5281/zenodo.15052471</li>
+<li> "Research Data Infrastructures Before They Were Cool: Microfilms, Photocopies and Early Digital Storage Devices in Humanities Scholarship (1950-1990)",  in: Ruppen Coutaz, R., Vallotton, F., Grandjean, M., & Düring, M. (2025). <a href="https://doi.org/10.5281/zenodo.15052471"> Transmedia History: Circulations, Reconfigurations and New Methodologies.</a></li>
 
 
-  <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, James O' Sullivan (ed), Bloomsbury 2023, pp.317-324 DOI: https://doi.org/10.5281/zenodo.8059131 </li> 
+  <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, James O' Sullivan (ed), Bloomsbury 2023, pp.317-324 DOI: <a href="https://doi.org/10.5281/zenodo.8059131">https://doi.org/10.5281/zenodo.8059131</a></li> 
 
  <li>Anna-Maria Sichani, James Baker, Alice Eldridge, Ben Roberts, Suzanne Tatham, Amelia Wakeford, Jo Walton , Sharon Webb and SHL team, “How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab”, Digital Humanities Laboratories: Digital Humanities and Laboratories
-Perspectives on Knowledge, Infrastructure and Culture, Editors: Urszula Pawlicka-Deger and Christopher Thomson ,  Routledge (Digital Research in the Arts and Humanities Series), 2023 , pp. 67-86 </li> 
+Perspectives on Knowledge, Infrastructure and Culture, Editors: Urszula Pawlicka-Deger and Christopher Thomson, Routledge (Digital Research in the Arts and Humanities Series), 2023 , pp. 67-86 </li> 
 
  <li>“Introducing the Digital Humanities: Genealogies, Histories and perspectives”, <i>Digital Humanities in Greece: experiences and perspectives,</i>|“Συστήνοντας τα Digital Humanities: γενεαλογίες, ιστορίες και προοπτικές”,
-   <i>Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις</i>, Research Center of the Humanities publications, 2023 DOI: https://doi.org/10.12681/praktika.5208 (in Greek)</li> 
+   <i>Ψηφιακές Ανθρωπιστικές Επιστήμες στην Ελλάδα: προβληματισμοί και προκλήσεις</i>, Research Center of the Humanities publications, 2023 DOI: <a href=" https://doi.org/10.12681/praktika.5208"> https://doi.org/10.12681/praktika.5208</a> (in Greek)</li> 
  
-   <li>Ginestra Ferraro, Anna-Maria Sichani, “Design as Part of the Plan: Introducing Agile Methodology in Digital Editing Projects” in Digital Scholarly Editions as Interfaces, edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider, Norderstedt: Books on Demand, 2018, pp.83-105 https://kups.ub.uni-koeln.de/9113/ </li> 
+   <li>Ginestra Ferraro, Anna-Maria Sichani, “Design as Part of the Plan: Introducing Agile Methodology in Digital Editing Projects” in: <a href="https://kups.ub.uni-koeln.de/9113/">Digital Scholarly Editions as Interfaces</a>, edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider, Norderstedt: Books on Demand, 2018, pp.83-105  </li> 
   
  </ul>
 
