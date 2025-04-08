@@ -3,6 +3,7 @@ layout: projects
 title: BRAID fellowship: Responsible data, models and workflows: Responsible AI digital skills provision for the cultural heritage community
 ---
 
+
 <a href="https://braiduk.org"><img src="../images/braid.jpg" width="600"/></a>
 
 
