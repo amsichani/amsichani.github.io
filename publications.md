@@ -6,8 +6,37 @@ title: Publications
 **Selective Publications**
 check also my ORCID <a href="http://orcid.org/0000-0001-6778-4610?lang=en">0000-0001-6778-4610</a> 
  
-**Chapters**
+**Monographs**
+
+
 <ul>
+ <li>Cultural technologies, literary field, and public sphere in Greek Long Sixties, Psifides publishing houses (forthcoming 2025) (in Greek)</li>
+
+
+</ul>
+
+**Edited volumes**
+
+<ul>
+
+ <li> Anna-Maria Sichani, Michael Donnay (eds), Reframing failure in Digital Humanities, University of London Press (forthcoming 2025)</li>
+
+ <li> Anna-Maria Sichani, Eirini Goudarouli, Jane Winters (eds), <a href="https://uolpress.co.uk/book-series/digital-cultural-heritage/">Digital Cultural Heritage: The Past, Present and Future or Digital Cultural Heritage</a>, University of London Press, (forthcoming 2025)</li>
+
+  <li>
+<em><a href="https://www.sidestone.com/books/advances-in-digital-scholarly-editing">Advances in Digital Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp</a></em>,
+Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kelly, Andreas Mertgens, Anna-Maria Sichani, Elena Spadini & Dirk van Hulle | 2017 , Sidestone Press. ISBN: 9789088904837
+</li>
+  </ul>
+  
+  
+  **Chapters**
+  
+<ul>
+
+<li> "Research Data Infrastructures Before They Were Cool: Microfilms, Photocopies and Early Digital Storage Devices in Humanities Scholarship (1950-1990)",  in: Ruppen Coutaz, R., Vallotton, F., Grandjean, M., & Düring, M. (2025). Transmedia History: Circulations, Reconfigurations and New Methodologies.. https://doi.org/10.5281/zenodo.15052471</li>
+
+
   <li> “Embracing Decline in Digital Scholarship beyond Sustainability”, The Bloomsbury Handbook to the Digital Humanities, James O' Sullivan (ed), Bloomsbury 2023, pp.317-324 DOI: https://doi.org/10.5281/zenodo.8059131 </li> 
 
  <li>Anna-Maria Sichani, James Baker, Alice Eldridge, Ben Roberts, Suzanne Tatham, Amelia Wakeford, Jo Walton , Sharon Webb and SHL team, “How to Avoid Being a DH Lab: The Stories of the Sussex Humanities Lab”, Digital Humanities Laboratories: Digital Humanities and Laboratories
@@ -19,20 +48,6 @@ Perspectives on Knowledge, Infrastructure and Culture, Editors: Urszula Pawlicka
    <li>Ginestra Ferraro, Anna-Maria Sichani, “Design as Part of the Plan: Introducing Agile Methodology in Digital Editing Projects” in Digital Scholarly Editions as Interfaces, edited by Roman Bleier, Martina Bürgermeister, Helmut W. Klug, Frederike Neuber, Gerlinde Schneider, Norderstedt: Books on Demand, 2018, pp.83-105 https://kups.ub.uni-koeln.de/9113/ </li> 
   
  </ul>
-
-**Edited volumes**
-
-<ul>
-
- <li> Anna-Maria Sichani, Michael Donnay (eds), Reframing failure in Digital Humanities, University of London Press, (forthcoming 2024)</li>
-
- <li> Anna-Maria Sichani, Eirini Goudarouli, Jane Winters (eds), Digital Cultural Heritage: The Past, Present and Future or Digital Cultural Heritage, University of London Press, (forthcoming 2024)</li>
-
-  <li>
-<em><a href="https://www.sidestone.com/books/advances-in-digital-scholarly-editing">Advances in Digital Scholarly Editing. Papers presented at the DiXiT conferences in The Hague, Cologne, and Antwerp</a></em>,
-Edited by Peter Boot, Anna Cappellotto, Wout Dillen, Franz Fischer, Aodhán Kelly, Andreas Mertgens, Anna-Maria Sichani, Elena Spadini & Dirk van Hulle | 2017 , Sidestone Press. ISBN: 9789088904837
-</li>
-  </ul>
 
    
 **Edited Special Journal Issues**
@@ -51,8 +66,6 @@ Anna-Maria Sichani, Elena Spadini (eds.), <a href="http://ride.i-d-e.de/issues/i
   **Reports/White Papers**
 <ul>
 
-<li> Anna-Maria SIchani, Jörg Lehmann,A Position Paper on AI and copyright in cultural heritage and research, (forthcoming 2024)</li>
-
 
 <li>Rutherford, A., Sichani, A.-M., Foxton, K., & Perry, S. (2024). Ethics as Practice: Report on the 1st Discovery Project Ethics Workshop. Towards a National Collection. https://doi.org/10.5281/zenodo.13683142</li></li>
 
@@ -66,10 +79,22 @@ Requirements Survey 2021: Where is Investment Needed? (1.0). Zenodo. https://doi
 **Peer-reviewed articles**  
 
 <ul>
-  
- <li> Sichani Anna-Maria, Jane Winters, ῾The role of Digital Humanities in an interdisciplinary research project᾽, Science Museum Journal, 2022, DOI: https://dx.doi.org/10.15180/221812/001 </li>
 
-<li>Sichani A.-M., Hendy , D., "Connected Histories of the BBC: Opening up the BBC oral history archive to the digital domain" , Journal on Computing and Cultural Heritage (JOCCH), Volume 15, Issue 1, February 2022, p 1–16 DOI: https://doi.org/10.1145/3480954 </li>
+
+  <li>  Lehmann, J., & Sichani, A.-M. (2025). “A Position Paper on AI and Copyrights in Cultural Heritage and Research (EU and UK)”. Journal of Open Humanities Data, 11: 25, pp. 1–9. DOI: https://doi.org/10.5334/johd.290 </li>
+
+  <li>Belteki, D., Rees, A. J., & Sichani, A.-M. (2025). “Datafication and Cultural Heritage Collections Data Infrastructures: Critical Perspectives on Documentation, Cataloguing and Data-sharing in Cultural Heritage Institutions”. Journal of Open Humanities Data, X(X), pp. 1–12. DOI: https://doi.org/10.5334/johd.277</li>
+
+  <li>Sichani Anna-Maria, ‘Greek modernisms in the air: Media technologies, literary broadcasts at the Hellenic National Radio Foundation (EIR) and the emergence of new sonic regimes’, Journal of Greek Media & Culture, Volume 10, Issue “Radio in and around Greece, 1937–61: Cultural politics and literary cultures”, Dec 2024, p. 165 - 186 https://doi.org/10.1386/jgmc_00097_1 </li>
+
+  <li>Quiroga, R Hawes, A Sichani, A & Chevrie, C.. “Sustainable Growth of Multilingual Open Publishing Projects: The Case of Programming Historian”. The Journal of Electronic Publishing 27(1) (2024), https://doi.org/10.3998/jep.5571</li>
+
+  <li>Sichani Anna-Maria, Jane Winters, ῾The role of Digital Humanities in an interdisciplinary research project᾽, Science Museum Journal, 18, 2022 https://dx.doi.org/10.15180/221812/001</li>
+
+ <li></li> Rees AJ, Sichani A-M, Lacedelli SZ, “Surfacing multiple perspectives on keywords for the Congruence Engine; embracing multiplicity, interdisciplinarity, and mutual learning”, Science Museum Journal, 18, 2022  http://dx.doi.org/10.15180/221810 </li>
+
+
+<li>Sichani A.-M., Hendy, D., "Connected Histories of the BBC: Opening up the BBC oral history archive to the digital domain" , Journal on Computing and Cultural Heritage (JOCCH), Volume 15, Issue 1, February 2022, p 1–16 DOI: https://doi.org/10.1145/3480954 </li>
 
 <li>“The multiple lives of the Cavafy Archive. Microfilms, index cards, catalogues and Web: towards a material and archival history of The Cavafy Archive". <i>Historica</i>, 73, 2021, p.187-210 |“Οι πολλαπλές ζωές του Αρχείου Καβάφη. Μικροφίλμ, δελτία, κατάλογοι και
   διαδίκτυο: πρός μια υλική και αρχειακή ιστορία του Αρχείου Καβάφη”, <i>Τα ιστορικά</i>, 73, 2021, p.187-210 (in Greek) </li>
@@ -87,6 +112,7 @@ Sichani, A.-M., Baker, J., Afanador Llach, M.J. and Walsh, B., 2019. "Diversity 
   
 <li>James Smithies, Carina Westling , Anna-Maria Sichani, Pam Mellen, Arianna Ciula, "<a href="http://www.digitalhumanities.org/dhq/vol/13/1/000411/000411.html#Managing"> Managing 100 Digital Humanities Projects: Digital Scholarship & Archiving in King’s Digital Lab </a>", <i>Digital Humanities Quarterly</i>, 2019, 13:1
  </li>
+
   
   <li>
 Merisa Martinez, Wout Dillen, Elli Bleeker, Anna-Maria Sichani, Aodhán Kelly, “<a href="https://doi.org/10.4000/variants.1070">  Refining our conceptions of ‘access’ in digital scholarly editing: Reflections on a qualitative survey on inclusive design and dissemination</a>”, <i>Variants</i>, 2019, DOI: https://doi.org/10.4000/variants.1070
@@ -120,9 +146,14 @@ Tim Causer, Kris Grint, Anna-Maria Sichani, and Melissa Terras,“ ‘Making suc
 
 **Reviews**
 <ul>
+<li></li>Ian Milligan, Averting the Digital Dark Age, How Archivists, Librarians, and Technologists Built the Web a Memory, Johns Hopkins University Press, 2024 (review), International Journal of Digital Humanities,  (forthcoming)</li>
+
+ <li>Martin Paul Eve and Jonathan Gray, Reassembling Scholarly Communications, Histories, Infrastructures and Global Politics of Open Access, MIT Press, 2020 (review), Digital scholarship in the humanities (forthcoming)</li>
+ 
   <li>
  “Mitsos Bilalis, Online Pasts: Image, Technology and Historical Culture in Contemporary Greece (1994-2005), 2015 (review)”, <i>Historein</i>, 19:1, 2020, DOI:https://doi.org/10.12681/historein.19495 
  </li>
+ 
  <li>
 <a href="https://ride.i-d-e.de/issues/issue-8/anemoskala/"> "Anemoskala: corpus and concordances for major Modern Greek poets</a>”, <i>A review journal for digital editions and resources (RIDE)</i>, 8, 2018, DOI: https://doi.org/10.18716/ride.a.8.1
 </li>
