@@ -28,7 +28,7 @@ Here you can find a number of the projects I 've been initiated or helping devel
 
    <li>
     <a href="../projects/responsible_research">
-      <img src="../images/responsible.jpg" width="600px" align="middle">
+      <img src="../images/responsible.jpg" width="400px" align="middle">
       <h2>Responsible data-intensive research: our ethics of care </h2>
     </a>
   </li> 
