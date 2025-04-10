@@ -14,7 +14,7 @@ Dr. Anna-Maria Sichani (Anna-Maria Chikhani | Άννα-Μαρία Σιχάνη) 
 
 📚She is currently co-editing (together with Jane Winters and Dr Eirini Goudarouli) an interdisciplinary Open Access short-form book series on _Digital Cultural Heritage_, from the University of London Press, for exploring the past, present and future of digital cultural heritage, both digitised and born-digital, by focusing on key themes in digital cultural heritage—such as access, (re)use, value(s) and sustainability. Interested in contributing? You’ll find all the details, including how to submit a proposal <a href="https://uolpress.co.uk/book-series/digital-cultural-heritage/">here</a>! 
 
-📚She is also co-editing (with Michael Donnay) a new exciting book on _Reframing Failure in digital Scholarship_, from the University of London Press.
+📚She is also co-editing (with Michael Donnay) a new exciting book on <a href="https://read.uolpress.co.uk/projects/reframing-failure-in-digital-scholarship">_Reframing Failure in digital Scholarship_</a>, from the University of London Press.
 
 🗂️ Her work has appeared in _Journal of Open Data in the Humanities_, _Digital Scholarship in the Humanities_, _Digital Humanities Quarterly_, _Journal of Modern Greek Media and Culture_, _Journal of Modern Greek Studies_, _The Book's Journal_. She 've lectured, given conference presentations, ran workshops, and coordinated events in Athens, London, Cologne, Rome and the Hague. 
 
