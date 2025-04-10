@@ -10,6 +10,7 @@ Dr. Anna-Maria Sichani (Anna-Maria Chikhani | Άννα-Μαρία Σιχάνη) 
 She has been collaborating with the crowdsourcing project Transcribe Bentham (UCL), the Centre for Scholarly Editing and Document Studies (CTB-KANTL, Ghent), the digital resources of the Center of Greek Language and she was also involved within the DARIAH-GR/DYAS project.
 
 
+
 Her research interests include data-intensive research and emerging technologies in the Humanities and the wider Cultural Heritage and information environment, information architecture, responsible and ethical research, as well as media and cultural history, cultural and social aspects of  media and technological changes, sustainable research  infrastructures and digital pedagogy. 
 
 She is currently co-editing (together with Jane Winters and Dr Eirini Goudarouli) an interdisciplinary Open Access short-form book series on _Digital Cultural Heritage_, from the University of London Press, for exploring the past, present and future of digital cultural heritage, both digitised and born-digital, by focusing on key themes in digital cultural heritage—such as access, (re)use, value(s) and sustainability. Interested in contributing? You’ll find all the details, including how to submit a proposal <a href="https://uolpress.co.uk/book-series/digital-cultural-heritage/">here</a>! 
