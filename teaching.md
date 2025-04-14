@@ -24,8 +24,9 @@ Training & mutual learning program for the “The Congruence Engine” | develop
 <ul>
 
 
-*Data cleaning and structuring*
 
+- Data cleaning and structuring
+  
 <li> Introduction to Unix/Shell</li>
 <li> Regular expressions</li>
 <li> OpenRefine </li>
@@ -33,21 +34,27 @@ Training & mutual learning program for the “The Congruence Engine” | develop
 
 
 
-*Version Control, Linked Open Data and Machine Learning*
+- Version Control, Linked Open Data and Machine Learning
+  
 <li> Linked Open Data and Wikidata</li>
 <li> Responsible data management and curation</li>
 <li> Information management and sustainability</li>
 <li> Data-driven research in cultural heritage</li>
 
 
-*AI for cultural heritage collections*
 
+- AI for cultural heritage collections
+ 
 <li> Introduction to AI and Machine Learning for GLAM</li>
 <li> Ethical and AI for GLAM</li>
 
+
+
+- Hackathon
+ 
+<li>Wikibase and Wikidata for Cultural Heritage </li>
 </ul>
  
-
 
 
  <li> <strong>09/2021-09/2022</strong>
@@ -66,7 +73,7 @@ Training & mutual learning program for the “The Congruence Engine” | develop
    
 <strong>2019-2020</strong>
 
-modules developed and delivered as part of Sussex Humanities Lab workshop series 
+modules developed and delivered as part of Sussex Humanities Lab (University of Sussex) workshop series 
 
 <ul>
   
@@ -123,6 +130,7 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex,
   </li>
   
 </ul>
+
 
 
 
