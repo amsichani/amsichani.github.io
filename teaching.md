@@ -3,16 +3,17 @@ layout: default
 title: Teaching
 ---
 
-<h1>Teaching</h1>
-
-<ul>
+<h1>teaching</h1>
 
 
     
-<h3>09/2022-10/2024</h3>
+<h2>09/2022-10/2024</h2>
 
 
 Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
+
+
+
 <ul>
 
 
@@ -45,23 +46,22 @@ Training & mutual learning program for the “The Congruence Engine” | develop
 - Hackathon
  
 <li>Wikibase and Wikidata for Cultural Heritage </li>
+
+
 </ul>
  
 
-
- <li> <h3>09/2021-09/2022</h3>
+ <h3>09/2021-09/2022</h3>
 
    <ul>
 <li>'Developing digital textual content' - undergraduate module - University of Athens, Greece </li>
 
-<li> 'From primary sources to digital data' - undergraduate module - University of Athens, Greece</li>
+<li>'From primary sources to digital data' - undergraduate module - University of Athens, Greece</li>
 
 
    </ul>
-</li>
 
 
-<li>
    
 <h3>2019-2020</h3>
 
@@ -72,19 +72,16 @@ modules developed and delivered as part of Sussex Humanities Lab (University of 
 <li>'Data modelling , curation and representation in Digital Humanities'</li>
 <li>'Data analysis with Python'</li>
 </ul>
-</li>
-
 
  
 
-<li>
+
 <h3>2015/2016</h3>
 
  
  'Digital Literary Studies. Concepts, methodologies and tools'. University of Ioannina,  Teaching Material
-  </li>
   
-  <li>
+  
 
 <h3>2014- 2015</h3>
  
@@ -97,11 +94,12 @@ modules developed and delivered as part of Sussex Humanities Lab (University of 
 </ul>
 
 
+<ul>
 <h1>workshops</h1> 
 
 
-   <li>
-    
+<li>
+       
 <h3>28 June 2024</h3>
 
     
@@ -145,9 +143,9 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex,
 'Future Publishing Models for Digital Scholarly Editions', DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
 </li>
 
-  <li>
-
   
+</ul>
+
 
 <h1>Seminars</h1>
 
@@ -157,6 +155,6 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex,
 
 Digital Humanities Research Hub Seminar Series (co-develop with Michael Donnay) “Refraiming failure in digital scholarship”
 School of Advanced Study, University of London
- </li>
 
-<li>
+
+
