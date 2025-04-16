@@ -3,157 +3,133 @@ layout: default
 title: Teaching
 ---
 
-<h1>teaching</h1>
+# Teaching (selection)
 
-
-    
-<h2>09/2022-10/2024</h2>
-
+## 2022-2024
 
 Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
 
 
+### Data cleaning and structuring
 
-<ul>
-
-
-
-- Data cleaning and structuring
   
-<li> Introduction to Unix/Shell</li>
-<li> Regular expressions</li>
-<li> OpenRefine </li>
-<li> Introduction to Git-GitHub</li>
+- Introduction to Unix/Shell
+- Regular expressions
+- OpenRefine 
+- Introduction to Git-GitHub
 
 
-
-- Version Control, Linked Open Data and Machine Learning
+### Version Control, Linked Open Data and Machine Learning
   
-<li> Linked Open Data and Wikidata</li>
-<li> Responsible data management and curation</li>
-<li> Information management and sustainability</li>
-<li> Data-driven research in cultural heritage</li>
+- Linked Open Data and Wikidata
+- Data analysis with Python 
+- Responsible data management and curation
+- Information management and sustainability
+	
 
-
-
-- AI for cultural heritage collections
+### AI for cultural heritage collections
  
-<li> Introduction to AI and Machine Learning for GLAM</li>
-<li> Ethical and AI for GLAM</li>
+- Introduction to AI and Machine Learning for GLAM
+- Data-driven research in cultural heritage
+- Ethics of AI for Research and Cultural Heritage
 
 
-
-- Hackathon
+### Hackathon
  
-<li>Wikibase and Wikidata for Cultural Heritage </li>
+- Wikibase and Wikidata for Cultural Heritage
 
 
-</ul>
- 
 
- <h3>09/2021-09/2022</h3>
+## 2021-2022
 
-   <ul>
-<li>'Developing digital textual content' - undergraduate module - University of Athens, Greece </li>
+undergraduate modules, BA Literary Studies, University of Athens, Greece
+  
+- 'Developing digital textual content'  
 
-<li>'From primary sources to digital data' - undergraduate module - University of Athens, Greece</li>
-
-
-   </ul>
+- 'From primary sources to digital data'
 
 
    
-<h3>2019-2020</h3>
+## 2019-2020
 
-modules developed and delivered as part of Sussex Humanities Lab (University of Sussex) workshop series 
+courses developed and delivered as part of Sussex Humanities Lab (University of Sussex) workshop series 
 
-<ul>
-  
-<li>'Data modelling , curation and representation in Digital Humanities'</li>
-<li>'Data analysis with Python'</li>
-</ul>
+- Data modelling, curation and representation in Digital Humanities
+- Data analysis with Python
 
- 
+## 2015-2016
+
+MA Modern Greek Literature and Digital Technologies - E-learning educational program, University of Ioannina, Greece
+
+Module lead: 
+
+- Data curation and management in Humanities scholarship 
+- Digital scholarly editions: concepts and technologies
 
 
-<h3>2015/2016</h3>
-
- 
- 'Digital Literary Studies. Concepts, methodologies and tools'. University of Ioannina,  Teaching Material
-  
-  
-
-<h3>2014- 2015</h3>
- 
- 'Introduction to Digital Humanities'.  
- 'Digital Resources for Literary Studies'
+## 2014- 2015
  
  short courses, DARIAH - GR | DYAS
-  </li>
-  
-</ul>
-
-
-<ul>
-<h1>workshops</h1> 
-
-
-<li>
-       
-<h3>28 June 2024</h3>
-
-    
-  'Collections-as-training-data:  Generative AI, data protection and intellectual property in digital cultural heritage', Limerick,Ireland, DPASSH2024
-  </li>
-  
  
-  
-  <li>
-
-<h3>30 July 2019</h3>
-
-
-‘Web development and/ in Digital Humanities labs and projects’ workshop
-Sussex Humanities Lab - Research Opportunity Fund- University of Sussex, 
-  </li>
+- Introduction to Digital Humanities 
+- Digital Resources for Literary Studies
  
+
+# Workshops (selection)
+
+
+
+## 24 April 2025
+
+School of Advanced Study, University of London, London, UK 
+
+Digital clinic lead: 
+' Research Data Storage Devices’ Clinics: ‘Microforms’ Boutique Approaches to Digital Preservation and Curation of Legacy Media and Digital Storage Devices at the Senate House Library'
+
+
+## 28 June 2024
+
+workshop lead :
+
+ 'Collections-as-training-data:  Generative AI, data protection and intellectual property in digital cultural heritage', Digital Preservation for the Arts, Social Sciences and Humanities  2024 Conference, Limerick,Ireland
+
   
- <li>
+## 30 July 2019
+
+
+workshop lead : 
+
+‘Web development and/ in Digital Humanities labs and projects’ 
+Sussex Humanities Lab - Research Opportunity Fund- University of Sussex 
+ 
     
-<h3>24-28 April 2017</h3>
+## 24-28 April 2017
 
   
-  'Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές', DiXiT workshop,  National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
- </li>
-  <li>
+workshop lead:
 
-<h3>24 January 2017</h3>
+'Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές', DiXiT workshop,  National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
 
-  
+
+## 24 January 2017
+
+
   'The educational and social impact of Digital Scholarly Editions', DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome,  <a href="https://dixit.hypotheses.org/1268"> Report </a>
-  </li>
  
-
-
-<li>
-
-<h3>15 March 2016</h3>
-
+## 15 March 2016
 
 'Future Publishing Models for Digital Scholarly Editions', DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
-</li>
+
+
+### Seminars
 
   
-</ul>
+## 2022-23
 
 
-<h1>Seminars</h1>
+Digital Humanities Research Hub Seminar Series co- lead (with Michael Donnay)
 
-  
-<h3>2022-23</h3>
-
-
-Digital Humanities Research Hub Seminar Series (co-develop with Michael Donnay) “Refraiming failure in digital scholarship”
+“Refraiming failure in digital scholarship”
 School of Advanced Study, University of London
 
 
