@@ -3,21 +3,13 @@ layout: default
 title: Teaching
 ---
 
-**Teaching and workshops**
+<h1>Teaching</h1>
 
 <ul>
 
-  <li>
-    
-<strong>June 2024</strong>
 
     
-  'Collections-as-training-data:  Generative AI, data protection and intellectual property in digital cultural heritage', Limerick,Ireland, DPASSH2024
-  </li>
-  
-  <li>
-    
-<strong>09/2022-10/2024</strong>
+<h3>09/2022-10/2024</h3>
 
 
 Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
@@ -57,7 +49,7 @@ Training & mutual learning program for the “The Congruence Engine” | develop
  
 
 
- <li> <strong>09/2021-09/2022</strong>
+ <li> <h3>09/2021-09/2022</h3>
 
    <ul>
 <li>'Developing digital textual content' - undergraduate module - University of Athens, Greece </li>
@@ -71,7 +63,7 @@ Training & mutual learning program for the “The Congruence Engine” | develop
 
 <li>
    
-<strong>2019-2020</strong>
+<h3>2019-2020</h3>
 
 modules developed and delivered as part of Sussex Humanities Lab (University of Sussex) workshop series 
 
@@ -82,40 +74,11 @@ modules developed and delivered as part of Sussex Humanities Lab (University of 
 </ul>
 </li>
 
-  <li>
 
-<strong>30/7/2019</strong>
-
-
-‘Web development and/ in Digital Humanities labs and projects’ workshop
-Sussex Humanities Lab - Research Opportunity Fund- University of Sussex, 
-  </li>
-  <li>
-    
-<strong>24-28 April 2017</strong>
-
-  
-  'Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές', DiXiT workshop,  National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
- </li>
-  <li>
-
-<strong>24 January 2017</strong>
-
-  
-  'The educational and social impact of Digital Scholarly Editions', DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome,  <a href="https://dixit.hypotheses.org/1268"> Report </a>
-  </li>
  
-  <li>
 
-<strong>15 March 2016</strong>
-
-
-'Future Publishing Models for Digital Scholarly Editions', DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
-</li>
-
-  <li>
-
-<strong>2015/2016</strong>
+<li>
+<h3>2015/2016</h3>
 
  
  'Digital Literary Studies. Concepts, methodologies and tools'. University of Ioannina,  Teaching Material
@@ -123,21 +86,73 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex,
   
   <li>
 
-<strong>January 2014</strong>
-
+<h3>2014- 2015</h3>
  
- 'Introduction in Digital Humanities'. DARIAH - GR | DYAS 
+ 'Introduction to Digital Humanities'.  
+ 'Digital Resources for Literary Studies'
+ 
+ short courses, DARIAH - GR | DYAS
   </li>
   
 </ul>
 
 
+<h1>workshops</h1> 
 
 
-**Seminars**
+   <li>
+    
+<h3>28 June 2024</h3>
+
+    
+  'Collections-as-training-data:  Generative AI, data protection and intellectual property in digital cultural heritage', Limerick,Ireland, DPASSH2024
+  </li>
+  
+ 
+  
+  <li>
+
+<h3>30 July 2019</h3>
+
+
+‘Web development and/ in Digital Humanities labs and projects’ workshop
+Sussex Humanities Lab - Research Opportunity Fund- University of Sussex, 
+  </li>
+ 
+  
+ <li>
+    
+<h3>24-28 April 2017</h3>
 
   
-<strong>2022-23</strong>
+  'Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές', DiXiT workshop,  National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
+ </li>
+  <li>
+
+<h3>24 January 2017</h3>
+
+  
+  'The educational and social impact of Digital Scholarly Editions', DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome,  <a href="https://dixit.hypotheses.org/1268"> Report </a>
+  </li>
+ 
+
+
+<li>
+
+<h3>15 March 2016</h3>
+
+
+'Future Publishing Models for Digital Scholarly Editions', DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
+</li>
+
+  <li>
+
+  
+
+<h1>Seminars</h1>
+
+  
+<h3>2022-23</h3>
 
 
 Digital Humanities Research Hub Seminar Series (co-develop with Michael Donnay) “Refraiming failure in digital scholarship”
