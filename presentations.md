@@ -6,10 +6,13 @@ title: Presentations
 
 <ul>
 
-**2025** <li>‘Environmentally sustainable infrastructure for computationally intensive work in digital cultural heritage: the cases of born-digital archives and AI-based systems’ (keynote roundtable), Born-Digital Collections, Archives and Memory conference 2025, School of Advanced Study, University of London, 3/4/2025.</li>
+<h2>2025</h2>
+
+<li>‘Environmentally sustainable infrastructure for computationally intensive work in digital cultural heritage: the cases of born-digital archives and AI-based systems’ (keynote roundtable), Born-Digital Collections, Archives and Memory conference 2025, School of Advanced Study, University of London, 3/4/2025.</li>
 
 
-**2024** <li> ‘Ethics and Environmental sustainability in computationally intensive research: the case of Congruence Engine’, Artefacts conference, Science Museum, London, 14-15/10/2024.</li>
+<h2>2024</h2>
+<li> ‘Ethics and Environmental sustainability in computationally intensive research: the case of Congruence Engine’, Artefacts conference, Science Museum, London, 14-15/10/2024.</li>
 
 <li>(Invited panelist) ‘Research in the age of AI’, The Royal Historical Society Symposium on ‘AI, History and Historians’, (online) 17/7/2024 </li>
 
@@ -19,25 +22,30 @@ title: Presentations
 
 
 
-**2023** <li> ‘Bias in the Data: the case of online museum catalogues’, Museum Analytics: New Pespectives, 18/05/2023 , King's College London,London UK </li>
+<h2>2023</h2> 
+<li>‘Bias in the Data: the case of online museum catalogues’, Museum Analytics: New Pespectives, 18/05/2023 , King's College London,London UK </li>
 
 
 
-**2022** <li>““Forever or 5 years”: Sustainability planning for Digital Research Infrastructure for Arts and Humanities”, Open and Engaged Conference 2022: Climate research in GLAM, digital infrastructure and skills to open collections, 24/10/2022, The British Library, UK</li>
+<h2>2022</h2>
+<li>““Forever or 5 years”: Sustainability planning for Digital Research Infrastructure for Arts and Humanities”, Open and Engaged Conference 2022: Climate research in GLAM, digital infrastructure and skills to open collections, 24/10/2022, The British Library, UK</li>
 
 <li> ‘Born-digital literary archives and the future literary’, Digital Poetry/Media Poetics conference ,17/9/2022, Princeton Center at Athens, Greece </li>
 
 
 
 
-**2021** <li> ‘Greek Modernism in the air: literary broadcasts of the Hellenic National Radio Foundation (EIR) and the emergence of new sonic regimes’,‘Broadcasting Greek Modernism: Institutions, Policies, Programmes’, Princeton Athens Center, 11/6/2021 | Seeger Center for Hellenic Studies, Princeton University</li>
+<h2>2021</h2>
+<li> ‘Greek Modernism in the air: literary broadcasts of the Hellenic National Radio Foundation (EIR) and the emergence of new sonic regimes’,‘Broadcasting Greek Modernism: Institutions, Policies, Programmes’, Princeton Athens Center, 11/6/2021 | Seeger Center for Hellenic Studies, Princeton University</li>
 
 <li> ‘Sustaining digital pedagogies in Digital Humanities: diversity, collaboration, and sustainability in digital pedagogy’, 4/06/2021, DH Benelux 2021 (invited keynote speaker), Utrecht, NL </li>
 
 
 
 
-**2019** <li>“Sussex Humanities Lab I & II’, “Research Software Engineering and Digital Humanities: Sustaining Expertise”, KDL DESIR workshop, 09/12/2019, London, UK</li>
+<h2>2019</h2>
+
+<li>“Sussex Humanities Lab I & II’, “Research Software Engineering and Digital Humanities: Sustaining Expertise”, KDL DESIR workshop, 09/12/2019, London, UK</li>
 
 <li> ‘Photocopies, Microfilms and .txt Files: Textual Technologies and Modern Greek Literary Studies’, Society of Modern Greek Studies Symposium, 7-10/11/2019, Sacramento, USA</li>
 
@@ -52,7 +60,8 @@ title: Presentations
 
 
 
-**2018** <li> ‘Data science and the language question in digital humanities pedagogy: the example of Programming Historian', EADH conference 2018,  9/9/2018, Galway, Ireland</li>
+<h2>2018</h2>
+<li> ‘Data science and the language question in digital humanities pedagogy: the example of Programming Historian', EADH conference 2018,  9/9/2018, Galway, Ireland</li>
 
 <li> ‘Working at the margins: challenges, networks and infrastructures for Greek research data and digital humanities' (Panel), EADH conference 2018,  9/9/2018, Galway, Ireland</li>
 
@@ -63,7 +72,8 @@ title: Presentations
 
 
 
-**2017** <li> ‘Making such bargain’: Transcribe Bentham and the quality and cost- effectiveness of crowdsourced transcription’, “Le Crowdsourcing. Pour partager, enrichir et publier des sources patrimoniales”, Faculté des lettres, langues et sciences humaines Maison de la recherche Germaine, 18-20/10/ 2017, Tillion, Angers</li>
+<h2>2017</h2>
+<li> ‘Making such bargain’: Transcribe Bentham and the quality and cost- effectiveness of crowdsourced transcription’, “Le Crowdsourcing. Pour partager, enrichir et publier des sources patrimoniales”, Faculté des lettres, langues et sciences humaines Maison de la recherche Germaine, 18-20/10/ 2017, Tillion, Angers</li>
 
 <li> ‘Refining our Concept of ‘Access’ for Digital Scholarly Editions: A DiXiT Panel on Accessibility, Usability, Pedagogy, Collaboration, Community and Diversity’. Panel with Anna-Maria Sichani, Wout Dillen, Merisa Ariel Martinez, Aodhán Kelly, Elli Bleeker, Digital Humanities Conference 2017,  8-11/8/ 2017, Montreal, Canada</li>
 
@@ -74,7 +84,9 @@ title: Presentations
 
 
 
-**2016** <li> ‘Designing a Sustainable Future: An approach to the Assessment, Archiving and Preservation of Digital Projects’ (with James Smithies), Complexities of Project Logistics workshop, Digital Scholarly Editing: Theory, Practice, Methods, ESTS/DiXiT 3, 4/10/2016, University of Antwerp, Belgium </li>
+<h2>2016</h2>
+
+<li> ‘Designing a Sustainable Future: An approach to the Assessment, Archiving and Preservation of Digital Projects’ (with James Smithies), Complexities of Project Logistics workshop, Digital Scholarly Editing: Theory, Practice, Methods, ESTS/DiXiT 3, 4/10/2016, University of Antwerp, Belgium </li>
 
 <li> ‘Design as part of the plan: sustainability in digital editing projects’ (with Ginestra Ferraro), 'Digital Scholarly Editions as Interfaces' International symposium, Centre for Information Modelling – Graz University, 23-24 September 2016<br/>
 
@@ -94,7 +106,8 @@ You can find  the slides of my presentation <a href="../images/beyondoa.pdf">her
 
 
 
-**2015** <li> ‘‘Read by ear’: Literature and Sound Technologies During the Greek Long Sixties’ <br/>
+<h2>2015</h2>
+<li> ‘‘Read by ear’: Literature and Sound Technologies During the Greek Long Sixties’ <br/>
 <a href="http://www.princeton.edu/%7Ehellenic/GradStudentConf15/">Seventh International Graduate Student Conference in Modern Greek Studies</a>, Seeger Center for Hellenic Studies, Princeton University, 5 May 2015 <br/>
 
 You can find <a href="../images/Sichani-Proposal-PrincetonGradConf.pdf">here</a> the abstract of my presentation.
@@ -103,7 +116,9 @@ You can find <a href="../images/Sichani-Proposal-PrincetonGradConf.pdf">here</a>
 
 
 
-**2014** <li> ‘Ποιος φοβάται το ψηφιακό περιεχόμενο στη Νεοελληνική Φιλολογία;’ <br/>
+<h2>2014</h2>
+
+<li> ‘Ποιος φοβάται το ψηφιακό περιεχόμενο στη Νεοελληνική Φιλολογία;’ <br/>
 
 Ημερίδα 'Ψηφιακές Τεχνολογίες και Νεοελληνική Φιλολογία. Ο φιλόλογος ως δημιουργός, διαχειριστής και χρήστης ψηφιακού περιεχομένου’, Πανεπιστημίο Πατρών – Τμήμα Φιλολογίας / ΠΜΣ “Σύγχρονες προσεγγίσεις στη γλώσσα και στα κείμενα' – Ειδίκευση Νεοελληνικής Φιλολογίας, 22 Οκτωβρίου 2014<br/>
 
