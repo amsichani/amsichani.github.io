@@ -7,7 +7,7 @@ title: Teaching
 
 ## 2022-2024
 
-Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
+- Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
 
 
 ### Data cleaning and structuring
@@ -52,16 +52,15 @@ undergraduate modules, BA Literary Studies, University of Athens, Greece
    
 ## 2019-2020
 
-courses developed and delivered as part of Sussex Humanities Lab (University of Sussex) workshop series 
+- courses developed and delivered as part of Sussex Humanities Lab (University of Sussex) workshop series 
 
 - Data modelling, curation and representation in Digital Humanities
 - Data analysis with Python
 
 ## 2015-2016
 
-MA Modern Greek Literature and Digital Technologies - E-learning educational program, University of Ioannina, Greece
+- Module lead, MA Modern Greek Literature and Digital Technologies - E-learning educational program, University of Ioannina, Greece
 
-Module lead: 
 
 - Data curation and management in Humanities scholarship 
 - Digital scholarly editions: concepts and technologies
@@ -69,7 +68,7 @@ Module lead:
 
 ## 2014- 2015
  
- short courses, DARIAH - GR | DYAS
+ - short courses, DARIAH - GR | DYAS
  
 - Introduction to Digital Humanities 
 - Digital Resources for Literary Studies
@@ -81,7 +80,7 @@ Module lead:
 
 ## 24 April 2025
 
-School of Advanced Study, University of London, London, UK 
+- School of Advanced Study, University of London, London, UK 
 
 Digital clinic lead: 
 ' Research Data Storage Devices’ Clinics: ‘Microforms’ Boutique Approaches to Digital Preservation and Curation of Legacy Media and Digital Storage Devices at the Senate House Library'
@@ -89,7 +88,7 @@ Digital clinic lead:
 
 ## 28 June 2024
 
-workshop lead :
+- workshop lead :
 
  'Collections-as-training-data:  Generative AI, data protection and intellectual property in digital cultural heritage', Digital Preservation for the Arts, Social Sciences and Humanities  2024 Conference, Limerick,Ireland
 
@@ -97,7 +96,7 @@ workshop lead :
 ## 30 July 2019
 
 
-workshop lead : 
+- workshop lead : 
 
 ‘Web development and/ in Digital Humanities labs and projects’ 
 Sussex Humanities Lab - Research Opportunity Fund- University of Sussex 
@@ -106,7 +105,7 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex
 ## 24-28 April 2017
 
   
-workshop lead:
+- workshop lead:
 
 'Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές', DiXiT workshop,  National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
 
@@ -114,7 +113,7 @@ workshop lead:
 ## 24 January 2017
 
 
-  'The educational and social impact of Digital Scholarly Editions', DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome,  <a href="https://dixit.hypotheses.org/1268"> Report </a>
+- 'The educational and social impact of Digital Scholarly Editions', DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome,  <a href="https://dixit.hypotheses.org/1268"> Report </a>
  
 ## 15 March 2016
 
@@ -127,7 +126,7 @@ workshop lead:
 ## 2022-23
 
 
-Digital Humanities Research Hub Seminar Series co- lead (with Michael Donnay)
+- Digital Humanities Research Hub Seminar Series co- lead (with Michael Donnay)
 
 “Refraiming failure in digital scholarship”
 School of Advanced Study, University of London
