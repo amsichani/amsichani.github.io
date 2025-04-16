@@ -121,7 +121,7 @@ workshop lead:
 'Future Publishing Models for Digital Scholarly Editions', DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
 
 
-### Seminars
+# Seminars
 
   
 ## 2022-23
