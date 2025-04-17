@@ -5,42 +5,40 @@ title: Teaching
 
 # Teaching (selection)
 
-## 2022-2024
+**2022-2024**
 
 - Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
 
 
-### Data cleaning and structuring
-
+- Data cleaning and structuring
   
-- Introduction to Unix/Shell
-- Regular expressions
-- OpenRefine 
-- Introduction to Git-GitHub
+	- Introduction to Unix/Shell
+	- Regular expressions
+	- OpenRefine 
+	- Introduction to Git-GitHub
 
 
-### Version Control, Linked Open Data and Machine Learning
+-  Version Control, Linked Open Data and Machine Learning
   
-- Linked Open Data and Wikidata
-- Data analysis with Python 
-- Responsible data management and curation
-- Information management and sustainability
+	- Linked Open Data and Wikidata
+	- Data analysis with Python 
+ 	- Responsible data management and curation
+  	- Information management and sustainability
 	
 
-### AI for cultural heritage collections
+- AI for cultural heritage collections
  
-- Introduction to AI and Machine Learning for GLAM
-- Data-driven research in cultural heritage
-- Ethics of AI for Research and Cultural Heritage
+	- Introduction to AI and Machine Learning for GLAM
+	- Data-driven research in cultural heritage
+	- Ethics of AI for Research and Cultural Heritage
 
 
-### Hackathon
- 
-- Wikibase and Wikidata for Cultural Heritage
+-  Hackathon
+ 	Wikibase and Wikidata for Cultural Heritage
 
 
 
-## 2021-2022
+**2021-2022**
 
 undergraduate modules, BA Literary Studies, University of Athens, Greece
   
@@ -50,7 +48,7 @@ undergraduate modules, BA Literary Studies, University of Athens, Greece
 
 
    
-## 2019-2020
+**22019-2020**
 
 - courses developed and delivered as part of Sussex Humanities Lab (University of Sussex) workshop series 
 
