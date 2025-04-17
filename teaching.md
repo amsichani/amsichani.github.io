@@ -8,7 +8,7 @@ title: Teaching
 
 **2022-2024**
 
-Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
+Training & mutual learning program for the “The Congruence Engine” , developed and (co-)delivered the following courses:
 
 
 - Data cleaning and structuring
@@ -67,14 +67,13 @@ Module lead, MA Modern Greek Literature and Digital Technologies - E-learning ed
 
 **2014- 2015**
  
- short courses, DARIAH - GR | DYAS
+short courses, DARIAH - GR, DYAS
  
 - Introduction to Digital Humanities 
 - Digital Resources for Literary Studies
  
 
 **Workshops (selection)**
-
 ---
 
 **24 April 2025**
@@ -105,7 +104,7 @@ Sussex Humanities Lab - Research Opportunity Fund- University of Sussex
   
 workshop lead:
 
-'Digital Scholarly Editions and Modern Greek Studies | Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές', DiXiT workshop,  National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
+'Digital Scholarly Editions and Modern Greek Studies / Ψηφιακές Εκδόσεις και Νεοελληνικές Σπουδές', DiXiT workshop,  National Library of Greece, Athens  <a href = "https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">  Teaching Material </a>
 
 
 **24 January 2017**
