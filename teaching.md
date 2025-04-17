@@ -3,11 +3,12 @@ layout: default
 title: Teaching
 ---
 
-# Teaching (selection)
+**Teaching (selection)**
+---
 
 **2022-2024**
 
-- Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
+Training & mutual learning program for the “The Congruence Engine” | developed and (co-)delivered the following courses:
 
 
 - Data cleaning and structuring
@@ -66,7 +67,7 @@ Module lead, MA Modern Greek Literature and Digital Technologies - E-learning ed
 
 **2014- 2015**
  
-short courses, DARIAH - GR | DYAS
+ short courses, DARIAH - GR | DYAS
  
 - Introduction to Digital Humanities 
 - Digital Resources for Literary Studies
@@ -74,7 +75,7 @@ short courses, DARIAH - GR | DYAS
 
 **Workshops (selection)**
 
-
+---
 
 **24 April 2025**
 
@@ -110,19 +111,20 @@ workshop lead:
 **24 January 2017**
 
 
-- 'The educational and social impact of Digital Scholarly Editions', DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome,  <a href="https://dixit.hypotheses.org/1268"> Report </a>
+'The educational and social impact of Digital Scholarly Editions', DiXiT workshop, The Associazione per l’Informatica Umanistica e le Culture Digitali (AIUCD), Rome,  <a href="https://dixit.hypotheses.org/1268"> Report </a>
  
 **15 March 2016**
+
 'Future Publishing Models for Digital Scholarly Editions', DiXiT workshop, Convention “Academia, Cultural Heritage, Society”, Cologne Center for eHumanities (CCeH), University of Cologne
 
 
 **Seminars**
+---
 
-  
-## 2022-23
+**2022-23**
 
 
-- Digital Humanities Research Hub Seminar Series co- lead (with Michael Donnay)
+Digital Humanities Research Hub Seminar Series co- lead (with Michael Donnay)
 
 “Refraiming failure in digital scholarship”
 School of Advanced Study, University of London
